@@ -13,9 +13,9 @@ var svg = d3.select("svg")
 // Map and projection
 const path = d3.geoPath();
 const projection = d3.geoMercator()
-    .scale(100)
-    .center([0,20])
-    .translate([width / 2, height / 2]);
+    .scale(130)
+    .center([10,20])
+    .translate([width / 2-20, height / 2+100]);
 
 // Data and color scale
 let data = new Map()
@@ -25,13 +25,12 @@ const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 var requestData = async function(x){
     // Load external data and boot
     Promise.all([
-        d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"),
+        d3.json("./world_map.geojson"),
         d3.csv("./csv_countries_by_year/"+x+"estimate.csv", function(d) {
             data.set(d.code, +d.diffTemp)
         })
     ]).then(function(loadData){
-        let topo = loadData[0]
-        console.log(x);
+        let topo = loadData[0];
         // Draw the map
         var g = svg.append("g")
         g.selectAll("path")
@@ -44,9 +43,7 @@ var requestData = async function(x){
             // set the color of each country
             .attr("fill", function (d) {
                 d.total = data.get(d.id) || -100;
-                console.log(d.total);
                 if (d.total == -100) {
-                    console.log(d.total);
                     return colorScale_noData(d.total);
                 }
                 return colorScale(d.total);
