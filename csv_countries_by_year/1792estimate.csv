@@ -1,0 +1,247 @@
+,name,code,diffTemp
+0,Antigua And Barbuda,ATG,
+1,Algeria,DZA,14.526531450872358
+2,Azerbaijan,AZE,
+3,Albania,ALB,4.181198117539028
+4,Armenia,ARM,0.020781450872359386
+5,Angola,AGO,
+6,American Samoa,ASM,
+7,Argentina,ARG,
+8,Australia,AUS,
+9,Bahrain,BHR,
+10,Barbados,BRB,
+11,Bermuda,BMU,
+12,Bahamas,BHS,
+13,Bangladesh,BGD,
+14,Belize,BLZ,
+15,Bosnia And Herzegovina,BIH,2.038864784205691
+16,Bolivia,BOL,
+17,Burma,MMR,
+18,Benin,BEN,
+19,Solomon Islands,SLB,
+20,Brazil,BRA,
+21,Bulgaria,BGR,2.026448117539026
+22,Brunei Darussalam,BRN,
+23,Canada,CAN,
+24,Cambodia,KHM,
+25,Sri Lanka,LKA,
+26,Congo,COG,
+27,Congo (Democratic Republic Of The),COD,
+28,Burundi,BDI,
+29,China,CHN,
+30,Afghanistan,AFG,
+31,Bhutan,BTN,
+32,Chile,CHL,
+33,Cayman Islands,CYM,
+34,Cameroon,CMR,
+35,Chad,TCD,
+36,Comoros,COM,17.04180922865014
+37,Colombia,COL,
+38,Costa Rica,CRI,
+39,Central African Republic,CAF,
+40,Cuba,CUB,
+41,Cape Verde,CPV,
+42,Cook Islands,COK,
+43,Cyprus,CYP,10.260448117539024
+44,Denmark (Europe),DNK,-0.520385215794307
+45,Djibouti,DJI,
+46,Dominica,DMA,
+47,Dominican Republic,DOM,
+48,Ecuador,ECU,
+49,Egypt,EGY,
+50,Ireland,IRL,1.1727814508723622
+51,Equatorial Guinea,GNQ,
+52,Estonia,EST,-3.683301882460973
+53,Eritrea,ERI,
+54,El Salvador,SLV,
+55,Ethiopia,ETH,
+56,Austria,AUT,-2.128301882460973
+57,Czech Republic,CZE,-0.7401352157943082
+58,French Guiana,GUF,
+59,Finland,FIN,-7.1783852157943056
+60,Fiji,FJI,
+61,Falkland Islands (Islas Malvinas),FLK,
+62,Micronesia ,FSM,
+63,French Polynesia,PYF,
+64,France,FRA,4.507614784205694
+65,Gambia,GMB,
+66,Gabon,GAB,
+67,Georgia,GEO,-0.42638521579430577
+68,Ghana,GHA,
+69,Grenada,GRD,
+70,Greenland,GRL,
+71,Germany,DEU,-0.17913521579430558
+72,Guam,GUM,
+73,Greece,GRC,6.310864784205696
+74,Guatemala,GTM,
+75,Guinea,GIN,
+76,Guyana,GUY,
+77,Haiti,HTI,
+78,Honduras,HND,
+79,Croatia,HRV,2.9779481175390288
+80,Hungary,HUN,1.331031450872361
+81,Iceland,ISL,-6.879135215794307
+82,India,IND,
+83,Iran,IRN,
+84,Israel,ISR,
+85,Italy,ITA,4.3785314508723605
+86,Côte D'Ivoire,CIV,
+87,Iraq,IRQ,
+88,Japan,JPN,
+89,Jamaica,JAM,
+90,Jordan,JOR,
+91,Kenya,KEN,
+92,Kyrgyzstan,KGZ,
+93,North Korea,PRK,
+94,Kiribati,KIR,
+95,South Korea,KOR,
+96,Kuwait,KWT,
+97,Kazakhstan,KAZ,
+98,Laos,LAO,
+99,Lebanon,LBN,
+100,Latvia,LVA,-3.1808018824609734
+101,Belarus,BLR,-2.6979685491276406
+102,Lithuania,LTU,-2.5848852157943076
+103,Liberia,LBR,
+104,Slovakia,SVK,-0.8966352157943076
+105,Liechtenstein,LIE,-3.6060518824609735
+106,Libya,LBY,13.739698117539028
+107,Madagascar,MDG,13.83192033976125
+108,Martinique,MTQ,
+109,Mongolia,MNG,
+110,Montserrat,MSR,
+111,Macedonia,MKD,1.9366981175390254
+112,Mali,MLI,
+113,Morocco,MAR,9.244448117539026
+114,Mauritius,MUS,15.288698117539028
+115,Mauritania,MRT,
+116,Malta,MLT,10.056781450872357
+117,Oman,OMN,
+118,Maldives,MDV,
+119,Mexico,MEX,
+120,Malaysia,MYS,
+121,Mozambique,MOZ,
+122,Malawi,MWI,
+123,New Caledonia,NCL,
+124,Niue,NIU,
+125,Niger,NER,
+126,Aruba,ABW,
+127,Anguilla,AIA,
+128,Belgium,BEL,1.1954481175390264
+129,Hong Kong,HKG,
+130,Northern Mariana Islands,MNP,
+131,Faroe Islands,FRO,-1.5508852157943052
+132,Andorra,AND,2.9253647842056907
+133,Gibraltar,GIB,
+134,Isle Of Man,IMN,1.097864784205692
+135,Luxembourg,LUX,0.9046981175390272
+136,Macau,MAC,
+137,Monaco,MCO,0.6568647842056929
+138,Palestina,PSE,
+139,Montenegro,MNE,1.8033647842056943
+140,Mayotte,MYT,17.75214256198347
+141,Åland,ALA,-3.0487185491276394
+142,Norfolk Island,NFK,
+143,Cocos (Keeling) Islands,CCK,
+144,Antarctica,ATA,
+145,Bouvet Island,BVT,
+146,French Southern And Antarctic Lands,ATF,
+147,Heard Island And Mcdonald Islands,HMD,
+148,British Indian Ocean Territory,IOT,
+149,Christmas Island,CXR,
+150,United States Minor Outlying Islands,UMI,
+151,Vanuatu,VUT,
+152,Nigeria,NGA,
+153,Netherlands,NLD,1.1161147842056938
+154,Norway,NOR,-8.201801882460973
+155,Nepal,NPL,
+156,Nauru,NRU,
+157,Suriname,SUR,
+158,Nicaragua,NIC,
+159,New Zealand,NZL,
+160,Paraguay,PRY,
+161,Peru,PER,
+162,Pakistan,PAK,
+163,Poland,POL,-1.0009685491276406
+164,Panama,PAN,
+165,Portugal,PRT,6.403864784205693
+166,Papua New Guinea,PNG,
+167,Guinea Bissau,GNB,
+168,Qatar,QAT,
+169,Reunion,REU,15.20314256198347
+170,Romania,ROU,0.3132814508723598
+171,Moldova,MDA,0.4465314508723619
+172,Philippines,PHL,
+173,Puerto Rico,PRI,
+174,Russia,RUS,
+175,Rwanda,RWA,
+176,Saudi Arabia,SAU,
+177,Saint Kitts And Nevis,KNA,
+178,Seychelles,SYC,18.286475895316805
+179,South Africa,ZAF,
+180,Lesotho,LSO,
+181,Botswana,BWA,
+182,Senegal,SEN,
+183,Slovenia,SVN,1.316114784205693
+184,Sierra Leone,SLE,
+185,Singapore,SGP,
+186,Somalia,SOM,
+187,Spain,ESP,5.345364784205692
+188,Saint Lucia,LCA,
+189,Sudan,SDN,
+190,Sweden,SWE,-5.928385215794306
+191,Syria,SYR,
+192,Switzerland,CHE,-1.2181352157943062
+193,Trinidad And Tobago,TTO,
+194,Thailand,THA,
+195,Tajikistan,TJK,
+196,Tokelau,TKL,
+197,Tonga,TON,
+198,Togo,TGO,
+199,Sao Tome And Principe,STP,
+200,Tunisia,TUN,11.540864784205692
+201,Turkey,TUR,3.10353145087236
+202,Tuvalu,TUV,
+203,Turkmenistan,TKM,
+204,Tanzania,TZA,
+205,Uganda,UGA,
+206,United Kingdom,GBR,0.23711478420569243
+207,Ukraine,UKR,-0.8549685491276398
+208,United States,USA,
+209,Burkina Faso,BFA,
+210,Uruguay,URY,
+211,Uzbekistan,UZB,
+212,Saint Vincent And The Grenadines,VCT,
+213,Venezuela,VEN,
+214,British Virgin Islands,VGB,
+215,Vietnam,VNM,
+216,Virgin Islands,VIR,
+217,Namibia,NAM,
+218,French Polynesia,WLF,
+219,Samoa,WSM,
+220,Swaziland,SWZ,
+221,Yemen,YEM,
+222,Zambia,ZMB,
+223,Zimbabwe,ZWE,
+224,Indonesia,IDN,
+225,Guadeloupe,GLP,
+226,Sint Maarten,ANT,
+227,United Arab Emirates,ARE,
+228,Timor Leste,TLS,
+229,Pitcairn Islands,PCN,
+230,Palau,PLW,
+231,Marshall Islands,MHL,
+232,Saint Pierre and Miquelon,SPM,
+233,Saint Helena,SHN,
+234,San Marino,SMR,5.491031450872361
+235,Turks And Caicas Islands,TCA,
+236,Western Sahara,ESH,
+237,Serbia,SRB,1.5771147842056923
+238,Holy See (Vatican City),VAT,
+239,Svalbard And Jan Mayen,SJM,-15.893468549127643
+240,Saint Martin,MAF,
+241,Saint Barthélemy,BLM,
+242,Guernsey,GGY,2.715614784205693
+243,Jersey,JEY,2.715614784205693
+244,South Georgia And The South Sandwich Isla,SGS,
+245,Taiwan,TWN,

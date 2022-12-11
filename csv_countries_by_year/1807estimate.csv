@@ -1,0 +1,247 @@
+,name,code,diffTemp
+0,Antigua And Barbuda,ATG,
+1,Algeria,DZA,14.444781450872362
+2,Azerbaijan,AZE,
+3,Albania,ALB,4.732031450872357
+4,Armenia,ARM,
+5,Angola,AGO,
+6,American Samoa,ASM,
+7,Argentina,ARG,
+8,Australia,AUS,
+9,Bahrain,BHR,
+10,Barbados,BRB,
+11,Bermuda,BMU,
+12,Bahamas,BHS,
+13,Bangladesh,BGD,16.17126478420569
+14,Belize,BLZ,
+15,Bosnia And Herzegovina,BIH,2.5759481175390277
+16,Bolivia,BOL,
+17,Burma,MMR,
+18,Benin,BEN,
+19,Solomon Islands,SLB,
+20,Brazil,BRA,
+21,Bulgaria,BGR,2.688198117539029
+22,Brunei Darussalam,BRN,
+23,Canada,CAN,
+24,Cambodia,KHM,
+25,Sri Lanka,LKA,18.350864784205694
+26,Congo,COG,
+27,Congo (Democratic Republic Of The),COD,
+28,Burundi,BDI,
+29,China,CHN,
+30,Afghanistan,AFG,
+31,Bhutan,BTN,
+32,Chile,CHL,
+33,Cayman Islands,CYM,
+34,Cameroon,CMR,
+35,Chad,TCD,
+36,Comoros,COM,
+37,Colombia,COL,
+38,Costa Rica,CRI,
+39,Central African Republic,CAF,
+40,Cuba,CUB,
+41,Cape Verde,CPV,
+42,Cook Islands,COK,
+43,Cyprus,CYP,10.564114784205692
+44,Denmark (Europe),DNK,-0.6309685491276404
+45,Djibouti,DJI,
+46,Dominica,DMA,
+47,Dominican Republic,DOM,
+48,Ecuador,ECU,
+49,Egypt,EGY,
+50,Ireland,IRL,0.3491147842056943
+51,Equatorial Guinea,GNQ,
+52,Estonia,EST,-3.7808852157943074
+53,Eritrea,ERI,
+54,El Salvador,SLV,
+55,Ethiopia,ETH,
+56,Austria,AUT,-1.6088018824609742
+57,Czech Republic,CZE,-0.05763521579430453
+58,French Guiana,GUF,
+59,Finland,FIN,-7.813385215794306
+60,Fiji,FJI,
+61,Falkland Islands (Islas Malvinas),FLK,
+62,Micronesia ,FSM,
+63,French Polynesia,PYF,
+64,France,FRA,4.249698117539028
+65,Gambia,GMB,
+66,Gabon,GAB,
+67,Georgia,GEO,
+68,Ghana,GHA,
+69,Grenada,GRD,
+70,Greenland,GRL,
+71,Germany,DEU,0.11611478420569377
+72,Guam,GUM,
+73,Greece,GRC,6.835781450872361
+74,Guatemala,GTM,
+75,Guinea,GIN,
+76,Guyana,GUY,
+77,Haiti,HTI,
+78,Honduras,HND,
+79,Croatia,HRV,3.4816147842056946
+80,Hungary,HUN,2.031114784205693
+81,Iceland,ISL,-7.591385215794307
+82,India,IND,15.118964784205694
+83,Iran,IRN,
+84,Israel,ISR,
+85,Italy,ITA,4.63503145087236
+86,Côte D'Ivoire,CIV,
+87,Iraq,IRQ,
+88,Japan,JPN,
+89,Jamaica,JAM,
+90,Jordan,JOR,
+91,Kenya,KEN,
+92,Kyrgyzstan,KGZ,
+93,North Korea,PRK,
+94,Kiribati,KIR,
+95,South Korea,KOR,
+96,Kuwait,KWT,
+97,Kazakhstan,KAZ,
+98,Laos,LAO,
+99,Lebanon,LBN,
+100,Latvia,LVA,-2.9948018824609726
+101,Belarus,BLR,-2.0277185491276404
+102,Lithuania,LTU,-2.0766352157943073
+103,Liberia,LBR,
+104,Slovakia,SVK,-0.11463521579430669
+105,Liechtenstein,LIE,-3.334551882460974
+106,Libya,LBY,13.824448117539028
+107,Madagascar,MDG,
+108,Martinique,MTQ,
+109,Mongolia,MNG,
+110,Montserrat,MSR,
+111,Macedonia,MKD,2.532864784205694
+112,Mali,MLI,
+113,Morocco,MAR,8.977531450872362
+114,Mauritius,MUS,
+115,Mauritania,MRT,
+116,Malta,MLT,10.345031450872359
+117,Oman,OMN,
+118,Maldives,MDV,
+119,Mexico,MEX,
+120,Malaysia,MYS,
+121,Mozambique,MOZ,
+122,Malawi,MWI,
+123,New Caledonia,NCL,
+124,Niue,NIU,
+125,Niger,NER,
+126,Aruba,ABW,
+127,Anguilla,AIA,
+128,Belgium,BEL,1.0496147842056924
+129,Hong Kong,HKG,
+130,Northern Mariana Islands,MNP,
+131,Faroe Islands,FRO,-2.5351352157943063
+132,Andorra,AND,2.6729481175390273
+133,Gibraltar,GIB,
+134,Isle Of Man,IMN,0.2992814508723587
+135,Luxembourg,LUX,0.7968647842056935
+136,Macau,MAC,
+137,Monaco,MCO,0.6717814508723592
+138,Palestina,PSE,
+139,Montenegro,MNE,2.376364784205693
+140,Mayotte,MYT,
+141,Åland,ALA,-3.5385518824609727
+142,Norfolk Island,NFK,
+143,Cocos (Keeling) Islands,CCK,
+144,Antarctica,ATA,
+145,Bouvet Island,BVT,
+146,French Southern And Antarctic Lands,ATF,
+147,Heard Island And Mcdonald Islands,HMD,
+148,British Indian Ocean Territory,IOT,
+149,Christmas Island,CXR,
+150,United States Minor Outlying Islands,UMI,
+151,Vanuatu,VUT,
+152,Nigeria,NGA,
+153,Netherlands,NLD,1.0387814508723583
+154,Norway,NOR,-8.90946854912764
+155,Nepal,NPL,6.419264784205696
+156,Nauru,NRU,
+157,Suriname,SUR,
+158,Nicaragua,NIC,
+159,New Zealand,NZL,
+160,Paraguay,PRY,
+161,Peru,PER,
+162,Pakistan,PAK,
+163,Poland,POL,-0.19663521579430743
+164,Panama,PAN,
+165,Portugal,PRT,5.934031450872361
+166,Papua New Guinea,PNG,
+167,Guinea Bissau,GNB,
+168,Qatar,QAT,
+169,Reunion,REU,
+170,Romania,ROU,1.0631981175390255
+171,Moldova,MDA,1.2209481175390273
+172,Philippines,PHL,
+173,Puerto Rico,PRI,
+174,Russia,RUS,
+175,Rwanda,RWA,
+176,Saudi Arabia,SAU,
+177,Saint Kitts And Nevis,KNA,
+178,Seychelles,SYC,
+179,South Africa,ZAF,
+180,Lesotho,LSO,
+181,Botswana,BWA,
+182,Senegal,SEN,
+183,Slovenia,SVN,1.7531981175390268
+184,Sierra Leone,SLE,
+185,Singapore,SGP,
+186,Somalia,SOM,
+187,Spain,ESP,4.941864784205693
+188,Saint Lucia,LCA,
+189,Sudan,SDN,
+190,Sweden,SWE,-6.540635215794306
+191,Syria,SYR,
+192,Switzerland,CHE,-1.2105518824609733
+193,Trinidad And Tobago,TTO,
+194,Thailand,THA,
+195,Tajikistan,TJK,
+196,Tokelau,TKL,
+197,Tonga,TON,
+198,Togo,TGO,
+199,Sao Tome And Principe,STP,
+200,Tunisia,TUN,11.632781450872361
+201,Turkey,TUR,3.531281450872358
+202,Tuvalu,TUV,
+203,Turkmenistan,TKM,
+204,Tanzania,TZA,
+205,Uganda,UGA,
+206,United Kingdom,GBR,-0.4875518824609735
+207,Ukraine,UKR,-0.1368018824609738
+208,United States,USA,
+209,Burkina Faso,BFA,
+210,Uruguay,URY,
+211,Uzbekistan,UZB,
+212,Saint Vincent And The Grenadines,VCT,
+213,Venezuela,VEN,
+214,British Virgin Islands,VGB,
+215,Vietnam,VNM,
+216,Virgin Islands,VIR,
+217,Namibia,NAM,
+218,French Polynesia,WLF,
+219,Samoa,WSM,
+220,Swaziland,SWZ,
+221,Yemen,YEM,
+222,Zambia,ZMB,
+223,Zimbabwe,ZWE,
+224,Indonesia,IDN,
+225,Guadeloupe,GLP,
+226,Sint Maarten,ANT,
+227,United Arab Emirates,ARE,
+228,Timor Leste,TLS,
+229,Pitcairn Islands,PCN,
+230,Palau,PLW,
+231,Marshall Islands,MHL,
+232,Saint Pierre and Miquelon,SPM,
+233,Saint Helena,SHN,
+234,San Marino,SMR,5.799948117539026
+235,Turks And Caicas Islands,TCA,
+236,Western Sahara,ESH,13.853637511478418
+237,Serbia,SRB,2.2174481175390266
+238,Holy See (Vatican City),VAT,
+239,Svalbard And Jan Mayen,SJM,-16.353385215794304
+240,Saint Martin,MAF,
+241,Saint Barthélemy,BLM,
+242,Guernsey,GGY,2.1552814508723603
+243,Jersey,JEY,2.1552814508723603
+244,South Georgia And The South Sandwich Isla,SGS,
+245,Taiwan,TWN,
