@@ -1,9 +1,6 @@
 var margin = {top: 20, right: 10, bottom: 40, left: 100},
     width = 1080 - margin.left - margin.right,
-    height = 720 - margin.top - margin.bottom;
-
-var legend_x = width - margin.left
-var legend_y = height - 30
+    height = 600 - margin.top - margin.bottom;
 
 // The svg
 var svg = d3.select("svg")
@@ -22,11 +19,8 @@ const projection = d3.geoMercator()
 
 // Data and color scale
 let data = new Map()
-const colorScale = d3.scaleSequential([23,-1.292], d3.interpolateRdYlBu)
-
-
-
-
+const colorScale = d3.scaleSequential([23,-15], d3.interpolateRdYlBu)
+const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
 var requestData = async function(x){
     // Load external data and boot
@@ -49,7 +43,12 @@ var requestData = async function(x){
             )
             // set the color of each country
             .attr("fill", function (d) {
-                d.total = data.get(d.id) || 0;
+                d.total = data.get(d.id) || -100;
+                console.log(d.total);
+                if (d.total == -100) {
+                    console.log(d.total);
+                    return colorScale_noData(d.total);
+                }
                 return colorScale(d.total);
             })
             .on("mouseover", function(d){
@@ -82,11 +81,11 @@ var sliderTime = d3
     .min(d3.min(dataTime))
     .max(d3.max(dataTime))
     .step(1000 * 60 * 60 * 24 * 365)
-    .width(300)
+    .width(900)
     .tickFormat(d3.timeFormat('%Y'))
-    .tickValues(dataTime)
     .default(new Date(2013, 1, 1))
     .on('onchange', val => {
+        svg.select("g").remove();
         requestData(1900+val.getYear());
         d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
 
