@@ -19,15 +19,15 @@ const projection = d3.geoMercator()
 
 // Data and color scale
 let data = new Map()
-const colorScale = d3.scaleSequential([23,-15], d3.interpolateRdYlBu)
+const colorScale = d3.scaleSequential([30.8,-15.5], d3.interpolateRdYlBu)
 const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
 var requestData = async function(x){
     // Load external data and boot
     Promise.all([
         d3.json("./world_map.geojson"),
-        d3.csv("./csv_countries_by_year/"+x+"estimate.csv", function(d) {
-            data.set(d.code, +d.diffTemp)
+        d3.csv("./csv_countries_by_year/"+x+"_country.csv", function(d) {
+            data.set(d.code, +d.Temp);
         })
     ]).then(function(loadData){
         let topo = loadData[0];
@@ -50,9 +50,20 @@ var requestData = async function(x){
             })
             .on("mouseover", function(d){
                 d3.select(this).style("stroke", "black");
+                d3.select("#hint")
+                    .append("text")
+                    .attr("id", d.id.replace(/ /,""))
+                    .text(data.get(d.id).toFixed(2)+"°C" || "no data");
+
+                d3.select("#country")
+                    .append("text")
+                    .attr("id", d.id.replace(/ /,""))
+                    .text(d.properties.name);
             })
             .on("mouseout", function(d){
                 d3.select(this).style("stroke", "none");
+                d3.select("#" + d.id.replace(/ /, "")).remove();
+                d3.select("#" + d.id.replace(/ /, "")).remove();
             })
 
         var zoom = d3.zoom()
@@ -61,7 +72,6 @@ var requestData = async function(x){
                 g.selectAll('path')
                     .attr('transform', d3.event.transform);
             });
-
         svg.call(zoom);
     })
 }
