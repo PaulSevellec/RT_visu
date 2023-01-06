@@ -1,3323 +1,3323 @@
 ,name,Temp,Mean_deviation
-0,Abidjan,,
-1,Addis Abeba,,
-2,Ahmadabad,26.861217498779297,0.021352767944335938
-3,Aleppo,,
-4,Alexandria,17.7243595123291,
-5,Ankara,11.079134941101074,0.17126750946044922
-6,Baghdad,,
-7,Bangalore,24.938201904296875,-0.0090179443359375
-8,Bangkok,,
-9,Belo Horizonte,,
-10,Berlin,9.07217788696289,
-11,Bogotá,,
-12,Bombay,26.75617790222168,0.030061721801757812
-13,Brasília,,
-14,Cairo,,
-15,Calcutta,26.41422462463379,0.059326171875
-16,Cali,,
-17,Cape Town,,
-18,Casablanca,17.955827713012695,
-19,Changchun,,
-20,Chengdu,,
-21,Chicago,10.589823722839355,
-22,Chongqing,,
-23,Dakar,,
-24,Dalian,,
-25,Dar Es Salaam,,
-26,Delhi,25.670976638793945,0.027048110961914062
-27,Dhaka,25.850942611694336,0.05998039245605469
-28,Durban,,
-29,Faisalabad,,
-30,Fortaleza,,
-31,Gizeh,,
-32,Guangzhou,,
-33,Harare,,
-34,Harbin,,
-35,Ho Chi Minh City,,
-36,Hyderabad,26.905973434448242,0.014425277709960938
-37,Ibadan,,
-38,Istanbul,14.092669486999512,
-39,Izmir,17.852802276611328,0.2543163299560547
-40,Jaipur,25.854665756225586,0.03129005432128906
-41,Jakarta,,
-42,Jiddah,,
-43,Jinan,,
-44,Kabul,,
-45,Kano,,
-46,Kanpur,25.22892951965332,0.016084671020507812
-47,Karachi,26.401254653930664,0.03774452209472656
-48,Kiev,7.557153224945068,
-49,Kinshasa,,
-50,Lagos,,
-51,Lahore,,
-52,Lakhnau,25.22892951965332,0.016084671020507812
-53,Lima,,
-54,London,9.030805587768555,
-55,Los Angeles,,
-56,Luanda,,
-57,Madras,28.571495056152344,-0.014585494995117188
-58,Madrid,12.253602027893066,
-59,Manila,,
-60,Mashhad,,
-61,Melbourne,,
-62,Mexico,,
-63,Mogadishu,,
-64,Montreal,5.390958786010742,
-65,Moscow,4.434412002563477,
-66,Nagoya,,
-67,Nagpur,25.9625244140625,0.038738250732421875
-68,Nairobi,,
-69,Nanjing,,
-70,New Delhi,25.670976638793945,0.027048110961914062
-71,New York,10.1487455368042,
-72,Paris,10.76377010345459,
-73,Peking,,
-74,Pune,24.845867156982422,0.0268096923828125
-75,Rangoon,26.916135787963867,0.05834770202636719
-76,Rio De Janeiro,,
-77,Riyadh,,
-78,Rome,12.758615493774414,
-79,São Paulo,,
-80,Saint Petersburg,10.123952865600586,
-81,Salvador,,
-82,Santiago,,
-83,Santo Domingo,,
-84,Seoul,,
-85,Shanghai,,
-86,Shenyang,,
-87,Singapore,,
-88,Surabaya,,
-89,Surat,26.633756637573242,0.0420684814453125
-90,Sydney,,
-91,Taipei,,
-92,Taiyuan,,
-93,Tangshan,,
-94,Tianjin,,
-95,Tokyo,,
-96,Toronto,6.456638813018799,
-97,Umm Durman,,
-98,Wuhan,,
-99,Xian,,
-100,Århus,7.990630149841309,
-101,Çorlu,14.36270523071289,
-102,Çorum,11.065074920654297,0.12884140014648438
-103,Öskemen,,
-104,Ürümqi,,
-105,A Coruña,13.896326065063477,
-106,Aachen,9.58016300201416,
-107,Aalborg,7.990630149841309,
-108,Aba,,
-109,Abadan,,
-110,Abakaliki,,
-111,Abakan,,
-112,Abbotsford,,
-113,Abengourou,,
-114,Abeokuta,,
-115,Aberdeen,8.295682907104492,
-116,Abha,,
-117,Abiko,,
-118,Abilene,,
-119,Abohar,,
-120,Abomey Calavi,,
-121,Abu Dhabi,,
-122,Abuja,,
-123,Acapulco,,
-124,Acarigua,,
-125,Accra,,
-126,Achalpur,26.421295166015625,
-127,Acheng,,
-128,Achinsk,,
-129,Acuña,,
-130,Adana,19.632671356201172,0.14412307739257812
-131,Adelaide,,
-132,Aden,,
-133,Adilabad,27.711254119873047,
-134,Adiwerna,,
-135,Adoni,27.56686782836914,
-136,Afyonkarahisar,12.314338684082031,0.16311931610107422
-137,Agadir,18.42506980895996,
-138,Agartala,25.586854934692383,
-139,Agboville,,
-140,Ageo,,
-141,Agra,26.18960189819336,
-142,Aguascalientes,,
-143,Ahmadnagar,25.03589630126953,
-144,Ahmadpur East,,
-145,Ahvaz,,
-146,Aix En Provence,12.422080039978027,
-147,Aizawl,23.469928741455078,
-148,Ajdabiya,20.714237213134766,0.23845291137695312
-149,Ajmer,26.305652618408203,
-150,Akashi,,
-151,Akishima,,
-152,Akita,,
-153,Akola,27.058208465576172,
-154,Akron,10.787077903747559,
-155,Aksaray,12.376739501953125,
-156,Aksu,,
-157,Aktau,,
-158,Akure,,
-159,Akyab,26.11560821533203,
-160,Alagoinhas,,
-161,Alandur,28.75031852722168,
-162,Alanya,19.03232192993164,
-163,Alappuzha,26.31475830078125,
-164,Albacete,14.128498077392578,
-165,Alberton,,
-166,Albuquerque,,
-167,Albury,,
-168,Alcalá De Henares,12.581672668457031,
-169,Alcobendas,12.581672668457031,
-170,Alcorcón,12.581672668457031,
-171,Algeciras,18.396120071411133,0.4997825622558594
-172,Algiers,17.67337417602539,0.4226551055908203
-173,Aligarh,26.171710968017578,0.00632476806640625
-174,Allahabad,26.38191795349121,0.013446807861328125
-175,Allentown,10.7660493850708,
-176,Almaty,,
-177,Almería,18.740327835083008,0.46617698669433594
-178,Almere,9.656573295593262,
-179,Almetyevsk,4.279224395751953,
-180,Alor Setar,,
-181,Altay,,
-182,Alwar,26.171710968017578,0.00632476806640625
-183,Amadora,16.54544448852539,0.41140174865722656
-184,Amagasaki,,
-185,Amaigbo,,
-186,Amarillo,,
-187,Ambala,24.117050170898438,0.007419586181640625
-188,Ambarnath,26.8622989654541,
-189,Ambato,,
-190,Ambattur,28.75031852722168,
-191,Ambon,,
-192,Ambur,27.537517547607422,
-193,Americana,,
-194,Amersfoort,9.656573295593262,
-195,Amiens,11.09526252746582,
-196,Amol,,
-197,Amravati,26.421295166015625,
-198,Amritsar,,
-199,Amroha,25.753948211669922,0.009176254272460938
-200,Amsterdam,9.656573295593262,
-201,Anápolis,,
-202,Anaco,,
-203,Anaheim,,
-204,Anand,27.185630798339844,0.008495330810546875
-205,Ananindeua,,
-206,Anantapur,27.56686782836914,
-207,Anbu,,
-208,Anchorage,,
-209,Ancona,14.899786949157715,
-210,Anda,,
-211,Andijon,,
-212,Angarsk,,
-213,Angeles,,
-214,Angers,12.023782730102539,
-215,Angra Dos Reis,,
-216,Angren,,
-217,Anjo,,
-218,Ankang,,
-219,Ann Arbor,9.799382209777832,
-220,Anqing,,
-221,Anqiu,,
-222,Anshan,,
-223,Anshun,,
-224,Antakya,19.632671356201172,0.14412307739257812
-225,Antalya,12.99049186706543,0.17386722564697266
-226,Antananarivo,,
-227,Antioch,,
-228,Antipolo,,
-229,Antofagasta,,
-230,Antsirabe,,
-231,Antwerp,10.51531982421875,
-232,Anyama,,
-233,Anyang,,
-234,Apeldoorn,9.656573295593262,
-235,Apodaca,,
-236,Apopa,,
-237,Apucarana,,
-238,Aqtöbe,,
-239,Ara,26.03864860534668,0.020486831665039062
-240,Araçatuba,,
-241,Aracaju,,
-242,Arad,10.834877967834473,
-243,Araguaína,,
-244,Arak,,
-245,Arapiraca,,
-246,Araraquara,,
-247,Araras,,
-248,Araruama,,
-249,Araucária,,
-250,Ardabil,,
-251,Arequipa,,
-252,Arica,,
-253,Arjawinangun,,
-254,Arkhangelsk,1.352810263633728,
-255,Arlington,12.984793663024902,
-256,Armavir,11.299408912658691,
-257,Armenia,,
-258,Arnhem,9.656573295593262,
-259,Arusha,,
-260,Arvada,,
-261,Aryanah,19.609086990356445,
-262,Arzamas,5.1678266525268555,
-263,Asahikawa,,
-264,Asaka,,
-265,Asansol,26.024700164794922,
-266,Asfi,18.39129066467285,
-267,Asgabat,,
-268,Ashdod,,
-269,Ashikaga,,
-270,Ashqelon,,
-271,Asmara,,
-272,Astana,,
-273,Astanajapura,,
-274,Astrakhan,,
-275,Asunción,,
-276,Aswan,,
-277,Asyut,,
-278,Athens,18.33710479736328,0.23636817932128906
-279,Atibaia,,
-280,Atlanta,15.326902389526367,
-281,Atsugi,,
-282,Atyrau,,
-283,Auckland,,
-284,Augsburg,5.770110607147217,
-285,Aurangabad,25.615386962890625,
-286,Aurora,11.244667053222656,
-287,Austin,,
-288,Avadi,28.75031852722168,
-289,Awassa,,
-290,Awka,,
-291,Ayacucho,,
-292,Ayer Itam,,
-293,Azamgarh,26.042537689208984,0.016725540161132812
-294,Azare,,
-295,Bénin,,
-296,Babakan,,
-297,Babol,,
-298,Bac Lieu,,
-299,Bacau,8.91058349609375,
-300,Bacolod,,
-301,Bacoor,,
-302,Badajoz,17.29886817932129,
-303,Badalona,17.062545776367188,
-304,Badaojiang,,
-305,Badlapur,26.8622989654541,
-306,Bafoussam,,
-307,Bagaha,25.634593963623047,0.019620895385742188
-308,Baglan,,
-309,Bago,26.824670791625977,
-310,Baguio,,
-311,Bahadurgarh,26.171710968017578,0.00632476806640625
-312,Baharampur,26.761056900024414,
-313,Bahawalnagar,,
-314,Bahawalpur,,
-315,Bahia Blanca,,
-316,Bahir Dar,,
-317,Bahraich,24.42346954345703,
-318,Baia Mare,10.331692695617676,
-319,Baicheng,,
-320,Baidyabati,26.761056900024414,
-321,Baiyin,,
-322,Bakersfield,,
-323,Baku,,
-324,Balakovo,5.924790382385254,
-325,Balashikha,5.123537063598633,
-326,Baleshwar,26.84687042236328,
-327,Balikpapan,,
-328,Baliuag,,
-329,Ballia,25.634593963623047,0.019620895385742188
-330,Bally,26.761056900024414,
-331,Balti,9.676478385925293,
-332,Baltimore,12.984793663024902,
-333,Balurghat,25.975900650024414,0.030218124389648438
-334,Bama,,
-335,Bamako,,
-336,Bamenda,,
-337,Banda,26.054794311523438,0.01270294189453125
-338,Banda Aceh,26.493139266967773,
-339,Bandar E Anzali,,
-340,Bandar Maharani,,
-341,Bandar Penggaram,,
-342,Bandundu,,
-343,Bandung,,
-344,Baneh,,
-345,Bangaon,26.761056900024414,
-346,Bangui,,
-347,Banja Luka,10.375819206237793,
-348,Banjaran,,
-349,Banjarmasin,,
-350,Bankura,26.024700164794922,
-351,Bansbaria,26.761056900024414,
-352,Bantou,,
-353,Banyuwangi,,
-354,Baoding,,
-355,Baoji,,
-356,Baoshan,,
-357,Barakpur,26.761056900024414,
-358,Baranagar,26.761056900024414,
-359,Barasat,26.761056900024414,
-360,Barbacena,,
-361,Barcelona,17.062545776367188,
-362,Barddhaman,26.761056900024414,
-363,Bareli,25.753948211669922,0.009176254272460938
-364,Bari,16.56235122680664,
-365,Barinas,,
-366,Baripada,26.84687042236328,
-367,Barisal,26.183879852294922,
-368,Barnala,,
-369,Barnaul,,
-370,Barquisimeto,,
-371,Barra Mansa,,
-372,Barrancabermeja,,
-373,Barranquilla,,
-374,Barreiras,,
-375,Barretos,,
-376,Barrie,7.113068580627441,
-377,Barsi,26.640790939331055,
-378,Barueri,,
-379,Baruta,,
-380,Basel,7.8296284675598145,
-381,Basildon,9.921502113342285,
-382,Basirhat,26.761056900024414,
-383,Basti,26.042537689208984,0.016725540161132812
-384,Bat Yam,,
-385,Bata,,
-386,Batala,,
-387,Batangas,,
-388,Bataysk,10.240324020385742,
-389,Batman,,
-390,Baton Rouge,20.971832275390625,
-391,Baturaja,,
-392,Bauchi,,
-393,Bauru,,
-394,Bayamo,,
-395,Bayrut,,
-396,Beaumont,,
-397,Beawar,27.18605613708496,0.010091781616210938
-398,Begusarai,26.28045654296875,0.02906036376953125
-399,Beian,,
-400,Beibei,,
-401,Beihai,,
-402,Beipiao,,
-403,Beira,,
-404,Beirut,,
-405,Bekasi,,
-406,Belém,,
-407,Belawan,,
-408,Belfast,8.788656234741211,
-409,Belford Roxo,,
-410,Belgaum,25.907501220703125,
-411,Belgorod,7.371758937835693,
-412,Belgrade,11.391117095947266,
-413,Bellary,27.56686782836914,
-414,Bellevue,,
-415,Bello,,
-416,Bene Beraq,,
-417,Bengbu,,
-418,Benghazi,19.74040412902832,0.2709178924560547
-419,Bengkulu,,
-420,Benguela,,
-421,Benha,,
-422,Beni Suef,,
-423,Benoni,,
-424,Benxi,,
-425,Beppu,,
-426,Berbera,,
-427,Berezniki,2.4904675483703613,
-428,Bergamo,10.545774459838867,
-429,Bergen,2.1359848976135254,
-430,Bergisch Gladbach,9.58016300201416,
-431,Berkeley,,
-432,Bern,7.8296284675598145,
-433,Bertoua,,
-434,Besançon,9.800614356994629,
-435,Bethal,,
-436,Betim,,
-437,Bettiah,25.634593963623047,0.019620895385742188
-438,Bhadravati,25.406036376953125,
-439,Bhadreswar,26.761056900024414,
-440,Bhagalpur,26.28045654296875,0.02906036376953125
-441,Bhairab Bazar,25.154809951782227,0.031064987182617188
-442,Bharatpur,20.35665512084961,0.11258316040039062
-443,Bharuch,26.91987419128418,
-444,Bhatpara,26.761056900024414,
-445,Bhavnagar,27.349559783935547,
-446,Bhilai,26.598772048950195,
-447,Bhilwara,25.87972640991211,
-448,Bhimavaram,27.753023147583008,
-449,Bhind,26.18960189819336,
-450,Bhiwandi,25.463857650756836,
-451,Bhiwani,26.199323654174805,0.0037212371826171875
-452,Bhopal,25.941036224365234,
-453,Bhubaneswar,27.067256927490234,
-454,Bhuj,27.065473556518555,0.009740829467773438
-455,Bhusawal,26.31751251220703,
-456,Biên Hòa,,
-457,Bialystok,7.00872278213501,
-458,Bid,26.640790939331055,
-459,Bida,,
-460,Bidar,27.274517059326172,
-461,Bielefeld,9.594444274902344,
-462,Bielsko Biala,8.832867622375488,
-463,Bihar,26.03864860534668,0.020486831665039062
-464,Bijapur,26.080801010131836,
-465,Bikaner,27.214189529418945,0.004787445068359375
-466,Bila Tserkva,8.321799278259277,
-467,Bilaspur,26.598772048950195,
-468,Bilbao,12.682516098022461,
-469,Binangonan,,
-470,Binjai,,
-471,Bintulu,,
-472,Binzhou,,
-473,Biratnagar,22.278688430786133,0.023151397705078125
-474,Birganj,25.634593963623047,0.019620895385742188
-475,Birigui,,
-476,Birjand,,
-477,Birmingham,13.412799835205078,
-478,Birnin Kebbi,,
-479,Bisho,,
-480,Bissau,,
-481,Bitung,,
-482,Biysk,,
-483,Blackburn,8.7952241897583,
-484,Blackpool,9.451807975769043,
-485,Blagoveshchensk,,
-486,Blantyre,,
-487,Blitar,,
-488,Bloemfontein,,
-489,Blumenau,,
-490,Boa Vista,,
-491,Bobo Dioulasso,,
-492,Bochum,9.594444274902344,
-493,Bogor,,
-494,Bohicon,,
-495,Bojnurd,,
-496,Bokaro,26.024700164794922,
-497,Boksburg,,
-498,Bologna,13.104381561279297,
-499,Bolton,8.7952241897583,
-500,Boma,,
-501,Bonn,9.58016300201416,
-502,Bontang,,
-503,Bordeaux,13.095823287963867,
-504,Borujerd,,
-505,Boshan,,
-506,Boston,8.827155113220215,
-507,Botad,27.349559783935547,
-508,Botosani,9.676478385925293,
-509,Botshabelo,,
-510,Bottrop,9.594444274902344,
-511,Botucatu,,
-512,Bouaké,,
-513,Boulogne Billancourt,11.09526252746582,
-514,Bournemouth,10.641386985778809,
-515,Bozhou,,
-516,Bradford,8.7952241897583,
-517,Braga,14.612515449523926,
-518,Bragança Paulista,,
-519,Brahmapur,26.577821731567383,
-520,Braila,11.28870677947998,
-521,Brakpan,,
-522,Brasov,8.91058349609375,
-523,Bratislava,11.188156127929688,
-524,Bratsk,,
-525,Brazzaville,,
-526,Brebes,,
-527,Breda,9.656573295593262,
-528,Bremen,8.813272476196289,
-529,Bremerhaven,8.813272476196289,
-530,Brescia,10.545774459838867,
-531,Brest,9.675163269042969,
-532,Bridgeport,11.167519569396973,
-533,Brighton,10.641386985778809,
-534,Brikama,,
-535,Brisbane,,
-536,Bristol,9.373305320739746,
-537,Brits,,
-538,Brno,9.235091209411621,
-539,Brownsville,,
-540,Brugge,10.51531982421875,
-541,Brunswick,9.078520774841309,
-542,Brussels,10.51531982421875,
-543,Bryansk,5.76498556137085,
-544,Bucaramanga,,
-545,Bucharest,12.18924617767334,
-546,Budapest,11.044191360473633,
-547,Budaun,25.753948211669922,0.009176254272460938
-548,Buenaventura,,
-549,Buffalo,8.956672668457031,
-550,Buga,,
-551,Bugama,,
-552,Buhe,,
-553,Bujumbura,,
-554,Bukan,,
-555,Bukavu,,
-556,Bukit Mertajam,,
-557,Bulandshahr,26.171710968017578,0.00632476806640625
-558,Bulaon,,
-559,Bulawayo,,
-560,Buon Me Thuot,,
-561,Buraydah,,
-562,Burbank,,
-563,Burewala,,
-564,Burgas,13.17077350616455,
-565,Burgos,11.697757720947266,
-566,Burhanpur,26.421295166015625,
-567,Bursa,12.600868225097656,
-568,Bushehr,,
-569,Butembo,,
-570,Butterworth,,
-571,Butuan,,
-572,Buzau,8.91058349609375,
-573,Bydgoszcz,8.061211585998535,
-574,Bytom,8.832867622375488,
-575,Cà Mau,,
-576,Córdoba,17.60344123840332,-1.3174057006835938
-577,Cúa,,
-578,Cúcuta,,
-579,Cabanatuan,,
-580,Cabimas,,
-581,Cabo Frio,,
-582,Cabudare,,
-583,Cachoeirinha,,
-584,Cachoeiro De Itapemirim,,
-585,Cadiz,18.396120071411133,-2.004423141479492
-586,Caen,10.856691360473633,
-587,Cagayan De Oro,,
-588,Cagliari,17.59524917602539,
-589,Cagua,,
-590,Cainta,,
-591,Cairns,,
-592,Cajamarca,,
-593,Calabar,,
-594,Calabozo,,
-595,Calama,,
-596,Calamba,,
-597,Calgary,,
-598,Cam Pha,,
-599,Cam Ranh,,
-600,Camaçari,,
-601,Camagüey,,
-602,Camaragibe,,
-603,Cambridge,8.705777168273926,
-604,Campeche,,
-605,Campina Grande,,
-606,Campinas,,
-607,Campo Grande,,
-608,Campos,,
-609,Can Tho,,
-610,Canberra,,
-611,Cancún,,
-612,Cangzhou,,
-613,Canoas,,
-614,Cap Haïtien,,
-615,Cape Coast,,
-616,Cape Coral,23.376684188842773,
-617,Capiatá,,
-618,Carúpano,,
-619,Caracas,,
-620,Carapicuíba,,
-621,Cardiff,9.373305320739746,
-622,Cariacica,,
-623,Carmen,,
-624,Carolina,,
-625,Carrefour,,
-626,Carrollton,,
-627,Cartagena,18.745567321777344,
-628,Cartago,,
-629,Caruaru,,
-630,Cary,15.368032455444336,
-631,Cascavel,,
-632,Castanhal,,
-633,Catamarca,,
-634,Catanduva,,
-635,Catania,16.44361114501953,
-636,Catia La Mar,,
-637,Caucaia,,
-638,Cavite,,
-639,Caxias,,
-640,Caxias Do Sul,,
-641,Cebu,,
-642,Cedar Rapids,9.534160614013672,
-643,Celaya,,
-644,Chakwal,,
-645,Chalco,,
-646,Champdani,26.761056900024414,
-647,Chandannagar,26.761056900024414,
-648,Chandausi,25.753948211669922,0.009176254272460938
-649,Chandigarh,,
-650,Chandler,,
-651,Chandpur,26.183879852294922,
-652,Chandrapur,27.711254119873047,
-653,Changde,,
-654,Changji,,
-655,Changzhou,,
-656,Chaohu,,
-657,Chaoyang,,
-658,Chaozhou,,
-659,Chapecó,,
-660,Charallave,,
-661,Charleroi,10.51531982421875,
-662,Charleston,19.429819107055664,
-663,Charlotte,16.910839080810547,
-664,Chas,26.024700164794922,
-665,Chattanooga,16.03913116455078,
-666,Chavakachcheri,27.746850967407227,
-667,Cheboksary,4.793765068054199,
-668,Chelmsford,9.921502113342285,
-669,Cheltenham,9.373305320739746,
-670,Chelyabinsk,,
-671,Chemnitz,9.193336486816406,
-672,Chengde,,
-673,Chenghai,,
-674,Chenzhou,,
-675,Cherepovets,3.873141288757324,
-676,Cherkasy,8.584285736083984,
-677,Cherkessk,8.630860328674316,0.06024456024169922
-678,Chernihiv,7.179912567138672,
-679,Chernivtsi,8.390935897827148,
-680,Chesapeake,16.492578506469727,
-681,Chetumal,,
-682,Chhapra,25.634593963623047,0.019620895385742188
-683,Chhatarpur,26.054794311523438,0.01270294189453125
-684,Chhindwara,26.25730323791504,
-685,Chiang Mai,,
-686,Chiclayo,,
-687,Chifeng,,
-688,Chigasaki,,
-689,Chihuahua,,
-690,Chikmagalur,25.406036376953125,
-691,Chillan,,
-692,Chilpancingo,,
-693,Chimalhuacán,,
-694,Chimbote,,
-695,Chimoio,,
-696,Chinandega,,
-697,Chincha Alta,,
-698,Chingola,,
-699,Chiniot,,
-700,Chishtian Mandi,,
-701,Chisinau,10.04842758178711,
-702,Chita,,
-703,Chitradurga,24.836944580078125,
-704,Chittaurgarh,25.87972640991211,
-705,Chitungwiza,,
-706,Chizhou,,
-707,Chofu,,
-708,Choloma,,
-709,Chon Buri,,
-710,Chorzow,8.832867622375488,
-711,Chosica,,
-712,Christchurch,,
-713,Chula Vista,,
-714,Chuncheng,,
-715,Chungho,,
-716,Chupei,,
-717,Churu,26.199323654174805,0.0037212371826171875
-718,Chuzhou,,
-719,Ciamis,,
-720,Ciampea,,
-721,Cianjur,,
-722,Cibadak,,
-723,Cibinong,,
-724,Cibitung,,
-725,Cicalengka,,
-726,Ciego De Ávila,,
-727,Cienfuegos,,
-728,Cikampek,,
-729,Cikarang,,
-730,Cikupa,,
-731,Cilegon,,
-732,Cileungsi,,
-733,Cileunyi,,
-734,Cimahi,,
-735,Cincinnati,12.439940452575684,
-736,Ciomas,,
-737,Ciparay,,
-738,Ciputat,,
-739,Cirebon,,
-740,Cisaat,,
-741,Cisarua,,
-742,Citeureup,,
-743,Ciudad Bolívar,,
-744,Ciudad Guayana,,
-745,Ciudad Valles,,
-746,Clarksville,15.348784446716309,
-747,Clearwater,22.455833435058594,
-748,Clermont Ferrand,9.713723182678223,
-749,Cleveland,10.787077903747559,
-750,Cluj Napoca,10.331692695617676,
-751,Coacalco,,
-752,Coatzacoalcos,,
-753,Cochabamba,,
-754,Coimbra,14.612515449523926,
-755,Colatina,,
-756,Colchester,9.921502113342285,
-757,Colima,,
-758,Cologne,9.58016300201416,
-759,Colombo,26.015480041503906,3.6420345306396484
-760,Colorado Springs,,
-761,Columbia,16.910839080810547,
-762,Columbus,14.325428009033203,
-763,Comodoro Rivadavia,,
-764,Conakry,,
-765,Concepcion,,
-766,Concord,,
-767,Concordia,,
-768,Conselheiro Lafaiete,,
-769,Constanta,12.579959869384766,
-770,Constantine,16.144315719604492,0.4071922302246094
-771,Contagem,,
-772,Copenhagen,8.264211654663086,
-773,Copiapo,,
-774,Coquimbo,,
-775,Coral Springs,23.533933639526367,
-776,Cordoba,,
-777,Cork,9.971118927001953,
-778,Coro,,
-779,Corona,,
-780,Coronel Fabriciano,,
-781,Corpus Christi,,
-782,Corrientes,,
-783,Costa Mesa,,
-784,Cotabato,,
-785,Cotia,,
-786,Cotonou,,
-787,Cottbus,9.58258056640625,
-788,Coventry,9.373305320739746,
-789,Cracow,8.832867622375488,
-790,Craiova,12.144901275634766,
-791,Crawley,10.641386985778809,
-792,Criciúma,,
-793,Cuautitlán Izcalli,,
-794,Cuautla,,
-795,Cubatão,,
-796,Cuddapah,28.299165725708008,
-797,Cuenca,,
-798,Cuernavaca,,
-799,Cuiabá,,
-800,Culiacán,,
-801,Cumaná,,
-802,Curico,,
-803,Curitiba,,
-804,Curug,,
-805,Cusco,,
-806,Czestochowa,8.832867622375488,
-807,Düsseldorf,9.58016300201416,
-808,Da Lat,,
-809,Da Nang,,
-810,Daan,,
-811,Dabrowa Gornicza,8.832867622375488,
-812,Dadiangas,,
-813,Dadu,,
-814,Dagupan,,
-815,Dahuk,,
-816,Daito,,
-817,Dali,,
-818,Daliang,,
-819,Dallas,,
-820,Daloa,,
-821,Damascus,,
-822,Damaturu,,
-823,Damoh,25.708749771118164,
-824,Dandong,,
-825,Danshui,,
-826,Darbhanga,24.465896606445312,0.021701812744140625
-827,Darjiling,22.278688430786133,0.023151397705078125
-828,Darmstadt,9.028719902038574,
-829,Daska,,
-830,Dasmariñas,,
-831,Dasoguz,,
-832,Datong,,
-833,Daugavpils,6.2238640785217285,
-834,Davao,,
-835,Dawei,,
-836,Dawukou,,
-837,Daxian,,
-838,Dayton,12.45131778717041,
-839,Debre Zeyit,,
-840,Debrecen,10.331692695617676,
-841,Dehra Dun,24.117050170898438,0.007419586181640625
-842,Dehri,26.262765884399414,0.01601409912109375
-843,Dehui,,
-844,Dekernes,,
-845,Delicias,,
-846,Delmas,,
-847,Denizli,16.128305435180664,0.18822574615478516
-848,Denpasar,,
-849,Denton,,
-850,Denver,,
-851,Deoria,25.634593963623047,0.019620895385742188
-852,Depok,,
-853,Dera Ghazi Khan,,
-854,Dera Ismail Khan,,
-855,Derbent,,
-856,Derby,8.7952241897583,
-857,Des Moines,11.344831466674805,
-858,Dese,,
-859,Detroit,9.799382209777832,
-860,Dewas,25.588043212890625,
-861,Deyang,,
-862,Dezful,,
-863,Dezhou,,
-864,Dhanbad,26.024700164794922,
-865,Dharan,22.278688430786133,0.023151397705078125
-866,Dharmavaram,27.56686782836914,
-867,Dhaulpur,26.53820037841797,
-868,Dhule,25.615386962890625,
-869,Diadema,,
-870,Dibrugarh,,
-871,Didao,,
-872,Digos,,
-873,Dijon,9.800614356994629,
-874,Dimapur,,
-875,Dimitrovgrad,4.9080634117126465,
-876,Dinajpur,25.975900650024414,0.030218124389648438
-877,Dindigul,25.496929168701172,
-878,Dingzhou,,
-879,Diourbel,,
-880,Dire Dawa,,
-881,Divinópolis,,
-882,Divo,,
-883,Djougou,,
-884,Do Rud,,
-885,Dodoma,,
-886,Doha,,
-887,Donghai,,
-888,Dongli,,
-889,Dongling,,
-890,Dongtai,,
-891,Dongying,,
-892,Dordrecht,9.656573295593262,
-893,Dortmund,9.594444274902344,
-894,Dos Hermanas,18.325037002563477,0.47974586486816406
-895,Dos Quebradas,,
-896,Douala,,
-897,Dourados,,
-898,Downey,,
-899,Dresden,9.193336486816406,
-900,Drobeta Turnu Severin,11.002251625061035,
-901,Dubai,,
-902,Dublin,8.951249122619629,
-903,Dudley,9.373305320739746,
-904,Duisburg,9.58016300201416,
-905,Dum Dum,26.761056900024414,
-906,Duma,,
-907,Dumaguete,,
-908,Dumai,,
-909,Dundee,6.782362461090088,
-910,Dunedin,,
-911,Dunhua,,
-912,Duque De Caxias,,
-913,Durango,,
-914,Durg,26.25994873046875,
-915,Durgapur,26.024700164794922,
-916,Durham,15.368032455444336,
-917,Durrës,16.540061950683594,
-918,Dushanbe,,
-919,Dzerzhinsk,4.644656658172607,
-920,East London,,
-921,East Los Angeles,,
-922,Eastbourne,10.54776668548584,
-923,Ebetsu,,
-924,Ebina,,
-925,Ecatepec,,
-926,Edéa,,
-927,Ede,9.656573295593262,
-928,Edinburgh,7.870716571807861,
-929,Edirne,12.398446083068848,
-930,Edison,10.7660493850708,
-931,Edmonton,,
-932,Eindhoven,9.656573295593262,
-933,Ejido,,
-934,Ejigbo,,
-935,Ekibastuz,,
-936,El Faiyûm,,
-937,El Limón,,
-938,El Mahalla El Kubra,,
-939,El Monte,,
-940,El Paso,,
-941,El Progreso,,
-942,El Tigre,,
-943,Elbasan,16.540061950683594,
-944,Elblag,7.653296947479248,
-945,Eldoret,,
-946,Elektrostal,5.3709211349487305,
-947,Elista,11.280387878417969,
-948,Elizabeth,10.7660493850708,
-949,Eluru,27.988967895507812,
-950,Embu,,
-951,Emmen,9.594444274902344,
-952,Encheng,,
-953,Engels,7.3959059715271,
-954,Enschede,9.594444274902344,
-955,Ensenada,,
-956,Enugu,,
-957,Envigado,,
-958,Erfurt,8.498891830444336,
-959,Erlangen,9.705833435058594,
-960,Erode,25.02842140197754,
-961,Erzincan,10.440790176391602,
-962,Erzurum,,
-963,Escondido,,
-964,Escuintla,,
-965,Esenyurt,14.36270523071289,
-966,Esfahan,,
-967,Eskisehir,12.314338684082031,0.16311931610107422
-968,Eslamshahr,,
-969,Esmeraldas,,
-970,Espoo,4.825056552886963,
-971,Essen,9.58016300201416,
-972,Etah,25.753948211669922,0.009176254272460938
-973,Etawah,26.18960189819336,
-974,Eugene,,
-975,Evansville,14.64849853515625,
-976,Exeter,10.857382774353027,
-977,Ezhou,,
-978,Fürth,9.705833435058594,
-979,Fairfield,,
-980,Faizabad,26.042537689208984,0.016725540161132812
-981,Faridabad,26.171710968017578,0.00632476806640625
-982,Faridpur,26.183879852294922,
-983,Farrukhabad,25.753948211669922,0.009176254272460938
-984,Fatehpur,25.704683303833008,0.0003948211669921875
-985,Fayetteville,17.324111938476562,
-986,Feira De Santana,,
-987,Fengcheng,,
-988,Fengshan,,
-989,Fernando De La Mora,,
-990,Ferrara,13.104381561279297,
-991,Ferraz De Vasconcelos,,
-992,Fez,18.424266815185547,0.48102760314941406
-993,Fianarantsoa,,
-994,Firozabad,26.18960189819336,
-995,Firozpur,,
-996,Flint,9.799382209777832,
-997,Florence,13.104381561279297,
-998,Florencia,,
-999,Florianópolis,,
-1000,Floridablanca,,
-1001,Focsani,8.91058349609375,
-1002,Foggia,15.281587600708008,
-1003,Fontana,,
-1004,Forlì,13.104381561279297,
-1005,Formosa,,
-1006,Fort Collins,,
-1007,Fort Lauderdale,23.533933639526367,
-1008,Fort Wayne,10.977921485900879,
-1009,Fort Worth,,
-1010,Foshan,,
-1011,Foz Do Iguaçu,,
-1012,Franca,,
-1013,Francisco Morato,,
-1014,Franco Da Rocha,,
-1015,Frankfurt,9.028719902038574,
-1016,Freetown,,
-1017,Freiburg,7.8296284675598145,
-1018,Fremont,,
-1019,Fresnillo,,
-1020,Fresno,,
-1021,Fuchu,,
-1022,Fuenlabrada,12.581672668457031,
-1023,Fuji,,
-1024,Fujieda,,
-1025,Fujimi,,
-1026,Fujinomiya,,
-1027,Fujisawa,,
-1028,Fukaya,,
-1029,Fukuyama,,
-1030,Fuling,,
-1031,Fullerton,,
-1032,Funabashi,,
-1033,Funtua,,
-1034,Fushun,,
-1035,Fuxin,,
-1036,Fuyang,,
-1037,Fuyu,,
-1038,Fuzhou,,
-1039,Gómez Palacio,,
-1040,Göteborg,6.319208145141602,
-1041,Göttingen,9.078520774841309,
-1042,Gaborone,,
-1043,Gadag,25.366531372070312,
-1044,Gagnoa,,
-1045,Gainesville,20.847864151000977,
-1046,Galati,11.28870677947998,
-1047,Gandajika,,
-1048,Gandhidham,27.265056610107422,0.0015583038330078125
-1049,Gandhinagar,27.185630798339844,0.008495330810546875
-1050,Ganganagar,,
-1051,Gangapur,26.53820037841797,
-1052,Gangawati,25.366531372070312,
-1053,Ganzhou,,
-1054,Gaomi,,
-1055,Gaozhou,,
-1056,Garanhuns,,
-1057,Garden Grove,,
-1058,Gardez,,
-1059,Garland,,
-1060,Garoua,,
-1061,Garut,,
-1062,Garza García,,
-1063,Gashua,,
-1064,Gaya,26.03864860534668,0.020486831665039062
-1065,Gaziantep,14.87967300415039,0.10402965545654297
-1066,Gazipur,26.183879852294922,
-1067,Gazni,,
-1068,Gboko,,
-1069,Gbongan,,
-1070,Gdansk,8.061211585998535,
-1071,Gdynia,8.061211585998535,
-1072,Gebze,14.486783027648926,
-1073,Geelong,,
-1074,Gejiu,,
-1075,Gelsenkirchen,9.594444274902344,
-1076,Gemena,,
-1077,General Escobedo,,
-1078,Geneva,9.600523948669434,
-1079,Genoa,14.24708366394043,
-1080,Gent,10.51531982421875,
-1081,George,,
-1082,Georgetown,,
-1083,Gera,8.498891830444336,
-1084,Getafe,12.581672668457031,
-1085,Ghaziabad,26.171710968017578,0.00632476806640625
-1086,Ghazipur,26.262765884399414,0.01601409912109375
-1087,Gijón,13.71091365814209,
-1088,Gilbert,,
-1089,Gillingham,10.54776668548584,
-1090,Girón,,
-1091,Girardot,,
-1092,Giugliano In Campania,15.281587600708008,
-1093,Glasgow,7.870716571807861,
-1094,Glazov,2.310798168182373,
-1095,Glendale,,
-1096,Gliwice,8.832867622375488,
-1097,Gloucester,9.373305320739746,
-1098,Godhra,26.243995666503906,
-1099,Goiânia,,
-1100,Gojra,,
-1101,Gold Coast,,
-1102,Goma,,
-1103,Gombe,,
-1104,Gomel,7.179912567138672,
-1105,Gonbad E Qabus,,
-1106,Gonda,26.042537689208984,0.016725540161132812
-1107,Gondal,26.636825561523438,0.005157470703125
-1108,Gondar,,
-1109,Gongzhuling,,
-1110,Gorakhpur,25.634593963623047,0.019620895385742188
-1111,Gorgan,,
-1112,Gorontalo,,
-1113,Gorzow Wielkopolski,9.327188491821289,
-1114,Governador Valadares,,
-1115,Granada,17.60344123840332,0.4734153747558594
-1116,Grand Prairie,,
-1117,Grand Rapids,9.72319221496582,
-1118,Gravataí,,
-1119,Graz,8.40863037109375,
-1120,Green Bay,8.349649429321289,
-1121,Greensboro,15.368032455444336,
-1122,Grenoble,9.600523948669434,
-1123,Grogol,,
-1124,Groningen,9.226312637329102,
-1125,Guaíba,,
-1126,Guacara,,
-1127,Guadalajara,,
-1128,Guadalupe,,
-1129,Guanare,,
-1130,Guangshui,,
-1131,Guangyuan,,
-1132,Guantánamo,,
-1133,Guarapari,,
-1134,Guarapuava,,
-1135,Guaratinguetá,,
-1136,Guarenas,,
-1137,Guarujá,,
-1138,Guarulhos,,
-1139,Guatemala,,
-1140,Guatemala City,,
-1141,Guatire,,
-1142,Guayaquil,,
-1143,Guaymas,,
-1144,Gudalur,28.418712615966797,
-1145,Gudivada,27.988967895507812,
-1146,Guelph,7.113068580627441,
-1147,Guilin,,
-1148,Guiyang,,
-1149,Gujranwala,,
-1150,Gujrat,,
-1151,Gulbarga,27.12727928161621,
-1152,Gulu,,
-1153,Guna,25.970380783081055,
-1154,Guntakal,27.56686782836914,
-1155,Guntur,27.988967895507812,
-1156,Gurgaon,26.171710968017578,0.00632476806640625
-1157,Gusau,,
-1158,Guwahati,,
-1159,Gwalior,26.18960189819336,
-1160,Gweru,,
-1161,Gyor,11.188156127929688,
-1162,Gyumri,,
-1163,Hòa Bình,,
-1164,Ha Noi,,
-1165,Haarlem,9.656573295593262,
-1166,Haarlemmermeer,9.656573295593262,
-1167,Habikino,,
-1168,Habra,26.761056900024414,
-1169,Hachinohe,,
-1170,Hachioji,,
-1171,Hadano,,
-1172,Hadejia,,
-1173,Hafizabad,,
-1174,Hagen,9.594444274902344,
-1175,Hagonoy,,
-1176,Hai Phong,,
-1177,Haibowan,,
-1178,Haicheng,,
-1179,Haifa,,
-1180,Haikou,,
-1181,Hailar,,
-1182,Hailun,,
-1183,Haimen,,
-1184,Hajipur,26.03864860534668,0.020486831665039062
-1185,Hakodate,,
-1186,Haldia,26.84687042236328,
-1187,Haldwani,18.077762603759766,0.012020111083984375
-1188,Halifax,7.403377532958984,
-1189,Halisahar,26.761056900024414,
-1190,Halle,8.498891830444336,
-1191,Hamadan,,
-1192,Hamamatsu,,
-1193,Hamburg,8.813272476196289,
-1194,Hami,,
-1195,Hamilton,9.055183410644531,
-1196,Hamm,9.594444274902344,
-1197,Hampton,16.492578506469727,
-1198,Handa,,
-1199,Handan,,
-1200,Hangu,,
-1201,Hangzhou,,
-1202,Hanoi,,
-1203,Hanover,9.078520774841309,
-1204,Hanumangarh,,
-1205,Hanzhong,,
-1206,Haora,26.761056900024414,
-1207,Hapur,26.171710968017578,0.00632476806640625
-1208,Hardoi,25.704683303833008,0.0003948211669921875
-1209,Hargeysa,,
-1210,Haridwar,24.117050170898438,0.007419586181640625
-1211,Hartford,11.167519569396973,
-1212,Hassan,24.836944580078125,
-1213,Hat Yai,,
-1214,Hathras,26.171710968017578,0.00632476806640625
-1215,Hayward,,
-1216,Hazaribag,24.9002628326416,
-1217,Hebi,,
-1218,Hefei,,
-1219,Hegang,,
-1220,Heidelberg,9.705833435058594,
-1221,Heihe,,
-1222,Heilbronn,9.705833435058594,
-1223,Helsinki,4.825056552886963,
-1224,Henderson,,
-1225,Hengshan,,
-1226,Hengshui,,
-1227,Hengyang,,
-1228,Henzada,27.047683715820312,
-1229,Herat,,
-1230,Hermosillo,,
-1231,Herne,9.594444274902344,
-1232,Heze,,
-1233,Hialeah,23.533933639526367,
-1234,Higüey,,
-1235,Highlands Ranch,,
-1236,Hikone,,
-1237,Hildesheim,9.078520774841309,
-1238,Himeji,,
-1239,Hindupur,24.836944580078125,
-1240,Hino,,
-1241,Hirakata,,
-1242,Hiratsuka,,
-1243,Hirosaki,,
-1244,Hiroshima,,
-1245,Hisar,,
-1246,Hitachi,,
-1247,Hobart,,
-1248,Hofu,,
-1249,Hohhot,,
-1250,Holguín,,
-1251,Hollywood,23.533933639526367,
-1252,Hong Gai,,
-1253,Honggang,,
-1254,Honghu,,
-1255,Horlivka,8.630861282348633,
-1256,Hortolândia,,
-1257,Hoshangabad,25.941036224365234,
-1258,Hoshiarpur,,
-1259,Hospet,25.366531372070312,
-1260,Hosur,25.02842140197754,
-1261,Houma,,
-1262,Houston,,
-1263,Hrodna,7.00872278213501,
-1264,Hsichih,,
-1265,Hsinchu,,
-1266,Hsintien,,
-1267,Huánuco,,
-1268,Huadian,,
-1269,Huaibei,,
-1270,Huaihua,,
-1271,Huainan,,
-1272,Huaiyin,,
-1273,Huambo,,
-1274,Huancayo,,
-1275,Huangcun,,
-1276,Huangpu,,
-1277,Huangyan,,
-1278,Huangzhou,,
-1279,Hubli,25.366531372070312,
-1280,Huddersfield,8.7952241897583,
-1281,Hue,,
-1282,Huelva,18.325037002563477,0.47974586486816406
-1283,Huicheng,,
-1284,Huixquilucan,,
-1285,Huizhou,,
-1286,Hulan,,
-1287,Hulan Ergi,,
-1288,Humen,,
-1289,Huntington Beach,,
-1290,Huntsville,16.03913116455078,
-1291,Huzhou,,
-1292,Iasi,9.676478385925293,
-1293,Ibagué,,
-1294,Ibaraki,,
-1295,Ibarra,,
-1296,Ibb,,
-1297,Ibirité,,
-1298,Ica,,
-1299,Ichalkaranji,25.816425323486328,
-1300,Ichihara,,
-1301,Ichikawa,,
-1302,Ichinomiya,,
-1303,Idlib,19.632671356201172,0.14412307739257812
-1304,Ife,,
-1305,Igboho,,
-1306,Iguala,,
-1307,Iida,,
-1308,Ijero,,
-1309,Ikare,,
-1310,Ikere,,
-1311,Ikire,,
-1312,Ikirun,,
-1313,Ikole,,
-1314,Ikoma,,
-1315,Ikorodu,,
-1316,Ikot Ekpene,,
-1317,Ila,,
-1318,Ilam,,
-1319,Ilawe,,
-1320,Ilebo,,
-1321,Ilesha,,
-1322,Ilhéus,,
-1323,Iligan,,
-1324,Ilobu,,
-1325,Iloilo,,
-1326,Ilorin,,
-1327,Imabari,,
-1328,Imperatriz,,
-1329,Imphal,,
-1330,Inazawa,,
-1331,Indaiatuba,,
-1332,Independence,13.167661666870117,
-1333,Indianapolis,12.439940452575684,
-1334,Indore,25.588043212890625,
-1335,Indramayu,,
-1336,Inegol,12.600868225097656,
-1337,Inglewood,,
-1338,Ingolstadt,8.968754768371582,
-1339,Ingraj Bazar,25.975900650024414,0.030218124389648438
-1340,Inisa,,
-1341,Innsbruck,5.770110607147217,
-1342,Ipatinga,,
-1343,Ipoh,,
-1344,Ipswich,9.921502113342285,
-1345,Iquique,,
-1346,Iquitos,,
-1347,Iráklion,19.47543716430664,0.22454452514648438
-1348,Iranshahr,,
-1349,Irapuato,,
-1350,Irbid,,
-1351,Irbil,,
-1352,Iringa,,
-1353,Irkutsk,,
-1354,Iruma,,
-1355,Irvine,,
-1356,Irving,,
-1357,Ise,,
-1358,Isehara,,
-1359,Isesaki,,
-1360,Iseyin,,
-1361,Ishinomaki,,
-1362,Isiro,,
-1363,Iskenderun,19.632671356201172,0.14412307739257812
-1364,Islamabad,,
-1365,Ismailia,,
-1366,Isparta,12.99049186706543,0.17386722564697266
-1367,Itaboraí,,
-1368,Itabuna,,
-1369,Itagüí,,
-1370,Itaguaí,,
-1371,Itajaí,,
-1372,Itami,,
-1373,Itapecerica Da Serra,,
-1374,Itapetininga,,
-1375,Itapevi,,
-1376,Itaquaquecetuba,,
-1377,Itarsi,25.941036224365234,
-1378,Itu,,
-1379,Ivanovo,4.308075428009033,
-1380,Iwaki,,
-1381,Iwakuni,,
-1382,Iwatsuki,,
-1383,Iwo,,
-1384,Ixtapaluca,,
-1385,Izhevsk,3.0051586627960205,
-1386,Izmit,14.486783027648926,
-1387,Izumi,,
-1388,Jaén,17.60344123840332,0.4734153747558594
-1389,Jaú,,
-1390,Jabalpur,25.708749771118164,
-1391,Jaboatão,,
-1392,Jacareí,,
-1393,Jackson,18.641416549682617,
-1394,Jacksonville,21.626869201660156,
-1395,Jacobabad,,
-1396,Jaffna,27.746850967407227,
-1397,Jagadhri,24.117050170898438,0.007419586181640625
-1398,Jahrom,,
-1399,Jalalabad,,
-1400,Jalandhar,,
-1401,Jalingo,,
-1402,Jalna,25.615386962890625,
-1403,Jalpaiguri,22.186540603637695,0.02501678466796875
-1404,Jamalpur,25.336788177490234,0.04167938232421875
-1405,Jamame,,
-1406,Jambi,,
-1407,Jammu,,
-1408,Jamnagar,26.636825561523438,0.005157470703125
-1409,Jamshedpur,26.024700164794922,
-1410,Jamuria,26.024700164794922,
-1411,Jandira,,
-1412,Jaraguá Do Sul,,
-1413,Jaramana,,
-1414,Jaranwala,,
-1415,Jaunpur,26.042537689208984,0.016725540161132812
-1416,Jember,,
-1417,Jequié,,
-1418,Jerez,18.396120071411133,0.4997825622558594
-1419,Jersey City,10.7660493850708,
-1420,Jerusalem,,
-1421,Jetpur,26.636825561523438,0.005157470703125
-1422,Jhang,,
-1423,Jhansi,25.970380783081055,
-1424,Jhelum,,
-1425,Jhunjhunun,26.199323654174805,0.0037212371826171875
-1426,Ji Paraná,,
-1427,Jiamusi,,
-1428,Jian,,
-1429,Jiangmen,,
-1430,Jiangyin,,
-1431,Jiangyou,,
-1432,Jiaohe,,
-1433,Jiaojiang,,
-1434,Jiaozhou,,
-1435,Jiaozuo,,
-1436,Jiaxing,,
-1437,Jiayuguan,,
-1438,Jiazi,,
-1439,Jibuti,,
-1440,Jieshi,,
-1441,Jieshou,,
-1442,Jilin,,
-1443,Jimeta,,
-1444,Jimma,,
-1445,Jinchang,,
-1446,Jinchengjiang,,
-1447,Jind,,
-1448,Jingdezhen,,
-1449,Jinhua,,
-1450,Jining,,
-1451,Jinxi,,
-1452,Jinzhou,,
-1453,Jiroft,,
-1454,Jishou,,
-1455,Jishu,,
-1456,Jiujiang,,
-1457,Jiupu,,
-1458,Jiutai,,
-1459,Jiutepec,,
-1460,Jixi,,
-1461,João Pessoa,,
-1462,Jodhpur,27.18605613708496,0.010091781616210938
-1463,Joetsu,,
-1464,Johannesburg,,
-1465,Johor Bahru,,
-1466,Joinville,,
-1467,Joliet,11.244667053222656,
-1468,Jolo,,
-1469,Jombang,,
-1470,Jos,,
-1471,Juàzeiro,,
-1472,Juarez,,
-1473,Juazeiro Do Norte,,
-1474,Juba,,
-1475,Juiz De Fora,,
-1476,Jujuy,,
-1477,Juliaca,,
-1478,Junagadh,26.636825561523438,0.005157470703125
-1479,Jundiaí,,
-1480,Kütahya,12.600868225097656,
-1481,Kabankalan,,
-1482,Kabwe,,
-1483,Kadoma,,
-1484,Kaduna,,
-1485,Kahramanmaras,14.87967300415039,0.10402965545654297
-1486,Kaifeng,,
-1487,Kaili,,
-1488,Kaithal,,
-1489,Kaiyuan,,
-1490,Kakamigahara,,
-1491,Kakinada,27.753023147583008,
-1492,Kakogawa,,
-1493,Kalemie,,
-1494,Kaliningrad,7.450124263763428,
-1495,Kalisz,8.92819595336914,
-1496,Kallithéa,18.33710479736328,0.23636817932128906
-1497,Kalmunai,27.714719772338867,
-1498,Kalol,27.185630798339844,0.008495330810546875
-1499,Kaluga,5.487555503845215,
-1500,Kalyan,25.463857650756836,
-1501,Kamagaya,,
-1502,Kamakura,,
-1503,Kamalia,,
-1504,Kamarhati,26.761056900024414,
-1505,Kamensk Uralskiy,,
-1506,Kamoke,,
-1507,Kampala,,
-1508,Kamyshin,6.95011043548584,
-1509,Kananga,,
-1510,Kanchipuram,28.75031852722168,
-1511,Kanchrapara,26.761056900024414,
-1512,Kandi,,
-1513,Kandy,26.015480041503906,
-1514,Kankan,,
-1515,Kansas City,13.167661666870117,
-1516,Kansk,,
-1517,Kaohsiung,,
-1518,Kaolack,,
-1519,Kapra,27.228721618652344,
-1520,Karaj,,
-1521,Karaman,11.621105194091797,0.15609073638916016
-1522,Karamay,,
-1523,Karang Tengah,,
-1524,Karawang,,
-1525,Karimnagar,27.83600425720215,
-1526,Kariya,,
-1527,Karlsruhe,10.015486717224121,
-1528,Karnal,24.117050170898438,0.007419586181640625
-1529,Kashan,,
-1530,Kashi,,
-1531,Kashihara,,
-1532,Kashipur,18.077762603759766,0.012020111083984375
-1533,Kashiwa,,
-1534,Kassala,,
-1535,Kassel,9.028719902038574,
-1536,Kasuga,,
-1537,Kasugai,,
-1538,Kasukabe,,
-1539,Kasur,,
-1540,Kathmandu,15.485403060913086,-0.0036916732788085938
-1541,Katihar,26.28045654296875,0.02906036376953125
-1542,Katowice,8.832867622375488,
-1543,Katsina,,
-1544,Katumba,,
-1545,Kaunas,6.830940246582031,
-1546,Kawagoe,,
-1547,Kawaguchi,,
-1548,Kawanishi,,
-1549,Kawasaki,,
-1550,Kayseri,10.108200073242188,0.13222789764404297
-1551,Kazan,4.793765068054199,
-1552,Kebumen,,
-1553,Kecskemét,11.044191360473633,
-1554,Kediri,,
-1555,Kedungwuni,,
-1556,Keelung,,
-1557,Kelowna,,
-1558,Kemang,,
-1559,Kemerovo,,
-1560,Kendari,,
-1561,Kenitra,18.424266815185547,0.48102760314941406
-1562,Kerch,11.61408519744873,
-1563,Kerman,,
-1564,Kermanshah,,
-1565,Khabarovsk,,
-1566,Khairpur,,
-1567,Khammam,27.988967895507812,
-1568,Khandwa,26.421295166015625,
-1569,Khanewal,,
-1570,Khanna,,
-1571,Khanpur,,
-1572,Kharagpur,26.84687042236328,
-1573,Khardaha,26.761056900024414,
-1574,Khartoum,,
-1575,Kherson,10.096135139465332,
-1576,Khimki,5.123537063598633,
-1577,Khlong Luang,,
-1578,Khomeynishahr,,
-1579,Khon Kaen,,
-1580,Khorramabad,,
-1581,Khorramshahr,,
-1582,Khoy,,
-1583,Khujand,,
-1584,Khulna,26.183879852294922,
-1585,Khurja,26.171710968017578,0.00632476806640625
-1586,Khushab,,
-1587,Khuzdar,,
-1588,Kiel,8.813272476196289,
-1589,Kielce,8.507807731628418,
-1590,Kigali,,
-1591,Kigoma,,
-1592,Kikwit,,
-1593,Killeen,,
-1594,Kimberley,,
-1595,Kindia,,
-1596,Kindu,,
-1597,Kingston,7.877784729003906,
-1598,Kingston Upon Hull,8.7952241897583,
-1599,Kirkuk,,
-1600,Kirov,3.1426568031311035,
-1601,Kirovohrad,8.584285736083984,
-1602,Kiryu,,
-1603,Kisangani,,
-1604,Kisaran,,
-1605,Kisarazu,,
-1606,Kishi,,
-1607,Kishiwada,,
-1608,Kislovodsk,8.630860328674316,0.06024456024169922
-1609,Kismayo,,
-1610,Kisumu,,
-1611,Kitakyushu,,
-1612,Kitami,,
-1613,Kitchener,7.113068580627441,
-1614,Kitwe,,
-1615,Klaipeda,7.450124263763428,
-1616,Klang,,
-1617,Klaten,,
-1618,Klerksdorp,,
-1619,Kluang,,
-1620,Knoxville,13.900813102722168,
-1621,Kobe,,
-1622,Koblenz,9.58016300201416,
-1623,Kochi,26.808897018432617,
-1624,Kodaira,,
-1625,Koganei,,
-1626,Kohat,,
-1627,Koidu,,
-1628,Kokubunji,,
-1629,Kolar,26.41895294189453,
-1630,Kolhapur,25.816425323486328,
-1631,Kollam,26.31475830078125,
-1632,Kolomna,5.3709211349487305,
-1633,Kolpino,4.566286087036133,
-1634,Komaki,,
-1635,Komatsu,,
-1636,Komsomolsk Na Amure,,
-1637,Konan,,
-1638,Konya,11.621105194091797,0.15609073638916016
-1639,Korba,26.598772048950195,
-1640,Korhogo,,
-1641,Koriyama,,
-1642,Korla,,
-1643,Koronadal,,
-1644,Koshigaya,,
-1645,Kosice,8.648335456848145,
-1646,Kostroma,4.308075428009033,
-1647,Koszalin,8.461454391479492,
-1648,Kot Addu,,
-1649,Kota,26.980100631713867,0.0056018829345703125
-1650,Kota Bahru,,
-1651,Kota Kinabalu,,
-1652,Kotte,26.015480041503906,
-1653,Kousséri,,
-1654,Kovrov,4.644656658172607,
-1655,Kpalimé,,
-1656,Kragujevac,11.391117095947266,
-1657,Krasnodar,11.946971893310547,
-1658,Krasnoyarsk,,
-1659,Krefeld,9.58016300201416,
-1660,Kremenchuk,8.850591659545898,
-1661,Kresek,,
-1662,Krishnanagar,26.761056900024414,
-1663,Kroonstad,,
-1664,Krugersdorp,,
-1665,Kryvyy Rih,10.042252540588379,
-1666,Kuala Lumpur,,
-1667,Kuala Terengganu,,
-1668,Kuantan,,
-1669,Kuching,,
-1670,Kuhdasht,,
-1671,Kuito,,
-1672,Kulim,,
-1673,Kulti,26.024700164794922,
-1674,Kumagaya,,
-1675,Kumanovo,10.903602600097656,
-1676,Kumasi,,
-1677,Kumba,,
-1678,Kumbakonam,28.24704933166504,
-1679,Kunming,,
-1680,Kupang,,
-1681,Kurashiki,,
-1682,Kure,,
-1683,Kurgan,,
-1684,Kursk,6.194879055023193,
-1685,Kurume,,
-1686,Kusatsu,,
-1687,Kusti,,
-1688,Kuwana,,
-1689,Kuytun,,
-1690,Kwekwe,,
-1691,Kyzyl,,
-1692,Lárisa,16.569902420043945,
-1693,López Mateos,,
-1694,Lübeck,8.813272476196289,
-1695,La Ceiba,,
-1696,La Paz,,
-1697,La Plata,,
-1698,La Rioja,,
-1699,La Romana,,
-1700,La Serena,,
-1701,La Vega,,
-1702,Lafayette,,
-1703,Lafia,,
-1704,Lafiagi,,
-1705,Lages,,
-1706,Lahad Datu,,
-1707,Laiwu,,
-1708,Laiyang,,
-1709,Lakewood,,
-1710,Lakhimpur,24.42346954345703,
-1711,Lalitpur,20.08477783203125,
-1712,Lambaré,,
-1713,Lampang,,
-1714,Lancaster,,
-1715,Langfang,,
-1716,Lansing,9.72319221496582,
-1717,Lanzhou,,
-1718,Laoag,,
-1719,Laohekou,,
-1720,Lapu Lapu,,
-1721,Laredo,,
-1722,Larkana,,
-1723,Las Palmas,20.532657623291016,
-1724,Las Tunas,,
-1725,Las Vegas,,
-1726,Lasa,,
-1727,Lashio,,
-1728,Latina,16.96621322631836,
-1729,Latur,26.640790939331055,
-1730,Lausanne,9.600523948669434,
-1731,Lawang,,
-1732,León,12.147278785705566,
-1733,Le Havre,10.856691360473633,
-1734,Le Mans,11.629853248596191,
-1735,Leeds,8.7952241897583,
-1736,Leganés,12.581672668457031,
-1737,Legaspi,,
-1738,Leghorn,13.104381561279297,
-1739,Legnica,8.291875839233398,
-1740,Leicester,9.921502113342285,
-1741,Leiden,9.656573295593262,
-1742,Leipzig,8.498891830444336,
-1743,Leiyang,,
-1744,Lembang,,
-1745,Lemesos,19.874202728271484,0.15449142456054688
-1746,Lengshuijiang,,
-1747,Leninsk Kuznetskiy,,
-1748,Leshan,,
-1749,Leuwiliang,,
-1750,Leverkusen,9.58016300201416,
-1751,Lexington Fayette,14.121134757995605,
-1752,Liège,9.58016300201416,
-1753,Liancheng,,
-1754,Lianran,,
-1755,Liaocheng,,
-1756,Liaoyang,,
-1757,Libreville,,
-1758,Licheng,,
-1759,Lichinga,,
-1760,Likasi,,
-1761,Lille,10.51531982421875,
-1762,Lilongwe,,
-1763,Limeira,,
-1764,Limoges,11.413178443908691,
-1765,Linchuan,,
-1766,Lincoln,11.524758338928223,
-1767,Linfen,,
-1768,Linhai,,
-1769,Linhares,,
-1770,Linqing,,
-1771,Linshui,,
-1772,Linxi,,
-1773,Linxia,,
-1774,Linz,8.142858505249023,
-1775,Lipa,,
-1776,Lipetsk,6.301098823547363,
-1777,Lira,,
-1778,Lisbon,16.54544448852539,0.41140174865722656
-1779,Little Rock,17.43242835998535,
-1780,Liusha,,
-1781,Liuzhou,,
-1782,Liverpool,9.451807975769043,
-1783,Livingstone,,
-1784,Ljubljana,10.786163330078125,
-1785,Lleida,15.634329795837402,
-1786,Loa Janan,,
-1787,Lobito,,
-1788,Logroño,12.682516098022461,
-1789,Loja,,
-1790,Londrina,,
-1791,Long Beach,,
-1792,Long Xuyên,,
-1793,Longfeng,,
-1794,Longjiang,,
-1795,Longjing,,
-1796,Longyan,,
-1797,Loni,26.171710968017578,0.00632476806640625
-1798,Los Mochis,,
-1799,Los Reyes,,
-1800,Los Teques,,
-1801,Loudi,,
-1802,Louga,,
-1803,Louisville,14.121134757995605,
-1804,Loum,,
-1805,Lowell,8.827155113220215,
-1806,Lower Hutt,,
-1807,Luan,,
-1808,Luancheng,,
-1809,Luanshya,,
-1810,Lubango,,
-1811,Lubbock,,
-1812,Lublin,8.507807731628418,
-1813,Lubumbashi,,
-1814,Lucena,,
-1815,Luchou,,
-1816,Ludhiana,,
-1817,Ludwigshafen,10.015486717224121,
-1818,Lumajang,,
-1819,Luohe,,
-1820,Luoyang,,
-1821,Luqiao,,
-1822,Luque,,
-1823,Lusaka,,
-1824,Luton,9.921502113342285,
-1825,Luxor,,
-1826,Luzhou,,
-1827,Luziânia,,
-1828,Lvov,8.232300758361816,
-1829,Lyon,9.600523948669434,
-1830,Lyubertsy,5.123537063598633,
-1831,Málaga,18.115049362182617,0.4854259490966797
-1832,Médéa,18.133331298828125,0.43532562255859375
-1833,Mérida,,
-1834,Móstoles,12.581672668457031,
-1835,Mönchengladbach,9.58016300201416,
-1836,Mülheim,9.58016300201416,
-1837,Münster,9.594444274902344,
-1838,Maanshan,,
-1839,Maastricht,9.58016300201416,
-1840,Maba,,
-1841,Mabalacat,,
-1842,Macaé,,
-1843,Macapá,,
-1844,Maceió,,
-1845,Machala,,
-1846,Macheng,,
-1847,Machida,,
-1848,Machilipatnam,28.57583236694336,
-1849,Madanapalle,26.41895294189453,
-1850,Madhyamgram,26.761056900024414,
-1851,Madison,9.479264259338379,
-1852,Madiun,,
-1853,Madurai,25.496929168701172,
-1854,Magé,,
-1855,Magangué,,
-1856,Magdeburg,9.078520774841309,
-1857,Magelang,,
-1858,Magnitogorsk,,
-1859,Mahabad,,
-1860,Mahajanga,,
-1861,Mahbubnagar,27.228721618652344,
-1862,Mahesana,27.185630798339844,0.008495330810546875
-1863,Maicao,,
-1864,Maiduguri,,
-1865,Mainz,9.028719902038574,
-1866,Maisuru,25.02842140197754,
-1867,Majalaya,,
-1868,Makasar,,
-1869,Makati,,
-1870,Makhachkala,,
-1871,Makiyivka,10.240324020385742,
-1872,Makurdi,,
-1873,Malabo,,
-1874,Malakal,,
-1875,Malambo,,
-1876,Malang,,
-1877,Malatya,,
-1878,Malegaon,25.615386962890625,
-1879,Maler Kotla,,
-1880,Malmö,7.793999671936035,
-1881,Malolos,,
-1882,Man,,
-1883,Manado,,
-1884,Managua,,
-1885,Manama,,
-1886,Manaus,,
-1887,Manbij,,
-1888,Manchester,8.167081832885742,
-1889,Mandalay,,
-1890,Mandaue,,
-1891,Mandi Bahauddin,,
-1892,Mandsaur,25.87972640991211,
-1893,Mandya,25.02842140197754,
-1894,Mangaluru,25.406036376953125,
-1895,Manisa,16.529874801635742,
-1896,Manizales,,
-1897,Mannheim,10.015486717224121,
-1898,Manta,,
-1899,Manzanillo,,
-1900,Manzini,,
-1901,Maoming,,
-1902,Maputo,,
-1903,Marília,,
-1904,Mar Del Plata,,
-1905,Marabá,,
-1906,Maracaibo,,
-1907,Maracanaú,,
-1908,Maracay,,
-1909,Maradi,,
-1910,Maragheh,,
-1911,Marand,,
-1912,Marawi,,
-1913,Marbella,18.115049362182617,0.4854259490966797
-1914,Mardan,,
-1915,Mariara,,
-1916,Maringá,,
-1917,Marivan,,
-1918,Maroua,,
-1919,Marrakesh,18.618619918823242,
-1920,Marseille,16.15536117553711,
-1921,Martapura,,
-1922,Marv Dasht,,
-1923,Masaya,,
-1924,Maseru,,
-1925,Masjed E Soleyman,,
-1926,Matadi,,
-1927,Matamoros,,
-1928,Matanzas,,
-1929,Mataró,17.062545776367188,
-1930,Mataram,,
-1931,Mathura,26.171710968017578,0.00632476806640625
-1932,Matola,,
-1933,Matsubara,,
-1934,Matsudo,,
-1935,Matsumoto,,
-1936,Matsusaka,,
-1937,Maturín,,
-1938,Mau,25.634593963623047,0.019620895385742188
-1939,Mauá,,
-1940,Mawlamyine,26.824670791625977,
-1941,Maxixe,,
-1942,Maykop,10.777175903320312,
-1943,Maymyo,,
-1944,Mazatlán,,
-1945,Mazyr,7.444560527801514,
-1946,Mbandaka,,
-1947,Mbeya,,
-1948,Mbouda,,
-1949,Mbour,,
-1950,Mbuji Mayi,,
-1951,Mecca,,
-1952,Medan,,
-1953,Medellín,,
-1954,Meiktila,27.319107055664062,
-1955,Meilu,,
-1956,Mejicanos,,
-1957,Melaka,,
-1958,Memphis,17.108205795288086,
-1959,Mendoza,,
-1960,Mentougou,,
-1961,Mercedes,,
-1962,Mergui,,
-1963,Mersin,18.4622802734375,0.13602828979492188
-1964,Mesa,,
-1965,Mesquite,,
-1966,Messina,17.82095718383789,
-1967,Metairie,20.971832275390625,
-1968,Metepec,,
-1969,Metro,,
-1970,Metz,10.015486717224121,
-1971,Mexicali,,
-1972,Meycauayan,,
-1973,Mezhdurechensk,,
-1974,Miami,23.533933639526367,
-1975,Miandoab,,
-1976,Mianyang,,
-1977,Miass,,
-1978,Middelburg,,
-1979,Middlesbrough,8.7952241897583,
-1980,Midrand,,
-1981,Milagro,,
-1982,Milan,7.900254726409912,
-1983,Milwaukee,11.10434341430664,
-1984,Minatitlán,,
-1985,Mingaora,,
-1986,Mingshui,,
-1987,Minna,,
-1988,Minneapolis,6.67225980758667,
-1989,Minsk,6.3646416664123535,
-1990,Miramar,23.533933639526367,
-1991,Miri,,
-1992,Mirpur Khas,27.49698829650879,0.011661529541015625
-1993,Mirzapur,26.262765884399414,0.01601409912109375
-1994,Misato,,
-1995,Mishima,,
-1996,Miskolc,11.044191360473633,
-1997,Misratah,20.67184066772461,0.32473182678222656
-1998,Mitaka,,
-1999,Mixco,,
-2000,Miyakonojo,,
-2001,Mobile,19.16559410095215,
-2002,Modakeke,,
-2003,Modena,13.104381561279297,
-2004,Modesto,,
-2005,Moers,9.58016300201416,
-2006,Moga,,
-2007,Moji Das Cruzes,,
-2008,Mojokerto,,
-2009,Mokolo,,
-2010,Mombasa,,
-2011,Monclova,,
-2012,Monrovia,,
-2013,Montalban,,
-2014,Montería,,
-2015,Monterrey,,
-2016,Montes Claros,,
-2017,Montevideo,,
-2018,Montgomery,18.007116317749023,
-2019,Montpellier,12.422080039978027,
-2020,Monywa,25.276851654052734,
-2021,Monza,10.545774459838867,
-2022,Mopti,,
-2023,Moradabad,25.753948211669922,0.009176254272460938
-2024,Moratuwa,26.015480041503906,
-2025,Morelia,,
-2026,Morena,26.18960189819336,
-2027,Moreno Valley,,
-2028,Moriguchi,,
-2029,Mormugao,25.907501220703125,
-2030,Morogoro,,
-2031,Morvi,27.265056610107422,0.0015583038330078125
-2032,Moshi,,
-2033,Mossoró,,
-2034,Mostar,16.974695205688477,
-2035,Motihari,25.634593963623047,0.019620895385742188
-2036,Moundou,,
-2037,Mubi,,
-2038,Mudanjiang,,
-2039,Mufulira,,
-2040,Mulhouse,7.8296284675598145,
-2041,Multan,,
-2042,Munger,26.28045654296875,0.02906036376953125
-2043,Munich,5.770110607147217,
-2044,Murcia,16.66396713256836,
-2045,Muridke,,
-2046,Murmansk,-0.7336665391921997,
-2047,Murom,5.1678266525268555,
-2048,Murwara,25.04845428466797,
-2049,Musashino,,
-2050,Musoma,,
-2051,Mutare,,
-2052,Muzaffargarh,,
-2053,Muzaffarnagar,24.117050170898438,0.007419586181640625
-2054,Muzaffarpur,24.465896606445312,0.021701812744140625
-2055,Mwanza,,
-2056,Mwene Ditu,,
-2057,My Tho,,
-2058,Myingyan,,
-2059,Mytishchi,5.123537063598633,
-2060,Nîmes,12.422080039978027,
-2061,Nacala,,
-2062,Nadiad,27.185630798339844,0.008495330810546875
-2063,Nador,17.75553321838379,0.45796775817871094
-2064,Naga,,
-2065,Nagaoka,,
-2066,Nagareyama,,
-2067,Nagda,25.588043212890625,
-2068,Nagercoil,26.31475830078125,
-2069,Naihati,26.761056900024414,
-2070,Najran,,
-2071,Nakhodka,,
-2072,Nakhon Pathom,,
-2073,Nakhon Ratchasima,,
-2074,Nakhon Si Thammarat,,
-2075,Nakuru,,
-2076,Nalchik,,
-2077,Nalgonda,27.228721618652344,
-2078,Nam Dinh,,
-2079,Namangan,,
-2080,Nampula,,
-2081,Namur,10.51531982421875,
-2082,Nancha,,
-2083,Nanchang,,
-2084,Nanchong,,
-2085,Nancy,10.015486717224121,
-2086,Nanded,27.274517059326172,
-2087,Nandurbar,26.91987419128418,
-2088,Nandyal,28.299165725708008,
-2089,Nangloi Jat,26.171710968017578,0.00632476806640625
-2090,Nanning,,
-2091,Nanpiao,,
-2092,Nantes,12.023782730102539,
-2093,Nantong,,
-2094,Nantou,,
-2095,Nanyang,,
-2096,Naperville,11.244667053222656,
-2097,Naples,15.281587600708008,
-2098,Narashino,,
-2099,Narayanganj,26.183879852294922,
-2100,Narita,,
-2101,Narsingdi,26.183879852294922,
-2102,Nashville,15.348784446716309,
-2103,Nassau,25.08012580871582,
-2104,Natal,,
-2105,Naucalpan,,
-2106,Navadwip,26.761056900024414,
-2107,Navoi,,
-2108,Navsari,25.463857650756836,
-2109,Nawabganj,25.975900650024414,0.030218124389648438
-2110,Nawabshah,,
-2111,Nazilli,16.128305435180664,0.18822574615478516
-2112,Nazran,11.327162742614746,
-2113,Nazret,,
-2114,Ndola,,
-2115,Neftekamsk,3.705796957015991,
-2116,Nefteyugansk,,
-2117,Negombo,26.015480041503906,
-2118,Nehe,,
-2119,Neijiang,,
-2120,Neiva,,
-2121,Nelspruit,,
-2122,Netanya,,
-2123,Neuquen,,
-2124,Neuss,9.58016300201416,
-2125,Nevinnomyssk,8.630860328674316,0.06024456024169922
-2126,New Haven,11.167519569396973,
-2127,New Orleans,20.971832275390625,
-2128,Newark,10.7660493850708,
-2129,Newcastle,,
-2130,Newcastle Upon Tyne,7.870716571807861,
-2131,Newport,9.373305320739746,
-2132,Newport News,14.667121887207031,
-2133,Neyagawa,,
-2134,Neyshabur,,
-2135,Neyveli,27.537517547607422,
-2136,Nezahualcóyotl,,
-2137,Ngaoundéré,,
-2138,Nguru,,
-2139,Nha Trang,,
-2140,Niamey,,
-2141,Nice,10.137490272521973,
-2142,Nicolás Romero,,
-2143,Nigel,,
-2144,Niigata,,
-2145,Niihama,,
-2146,Niiza,,
-2147,Nijmegen,9.656573295593262,
-2148,Nilópolis,,
-2149,Ningbo,,
-2150,Nis,10.903602600097656,
-2151,Nishinomiya,,
-2152,Nishio,,
-2153,Niterói,,
-2154,Nizamabad,27.274517059326172,
-2155,Nizhnekamsk,4.279224395751953,
-2156,Nizhnevartovsk,,
-2157,Nizhniy Novgorod,4.644656658172607,
-2158,Nizhniy Tagil,,
-2159,Nkongsamba,,
-2160,Nkpor,,
-2161,Nnewi,,
-2162,Nobeoka,,
-2163,Noda,,
-2164,Nogales,,
-2165,Noginsk,5.3709211349487305,
-2166,Nonthaburi,,
-2167,Norfolk,16.492578506469727,
-2168,Norilsk,,
-2169,Norman,,
-2170,North Las Vegas,,
-2171,North Shore,,
-2172,Northampton,9.921502113342285,
-2173,Norwalk,,
-2174,Norwich,9.921502113342285,
-2175,Nossa Senhora Do Socorro,,
-2176,Nottingham,8.7952241897583,
-2177,Nouakchott,,
-2178,Nova Friburgo,,
-2179,Nova Iguaçu,,
-2180,Novara,7.900254726409912,
-2181,Novi Sad,11.953727722167969,
-2182,Novo Hamburgo,,
-2183,Novocheboksarsk,4.793765068054199,
-2184,Novocherkassk,10.240324020385742,
-2185,Novokuznetsk,,
-2186,Novomoskovsk,5.579939365386963,
-2187,Novorossiysk,13.878291130065918,
-2188,Novosibirsk,,
-2189,Novotroitsk,,
-2190,Nsukka,,
-2191,Nueva San Salvador,,
-2192,Nuevo Laredo,,
-2193,Nukus,,
-2194,Numazu,,
-2195,Nuremberg,8.968754768371582,
-2196,Nyíregyháza,10.331692695617676,
-2197,Nzérékoré,,
-2198,Oakland,,
-2199,Oaxaca,,
-2200,Oberhausen,9.58016300201416,
-2201,Obihiro,,
-2202,Obninsk,5.123537063598633,
-2203,Obosi,,
-2204,Obregon,,
-2205,Obuasi,,
-2206,Oceanside,,
-2207,Ocumare Del Tuy,,
-2208,Odawara,,
-2209,Odense,8.264211654663086,
-2210,Odesa,11.498823165893555,
-2211,Odintsovo,5.123537063598633,
-2212,Offa,,
-2213,Offenbach,9.028719902038574,
-2214,Ogaki,,
-2215,Ogbomosho,,
-2216,Okara,,
-2217,Okazaki,,
-2218,Oklahoma City,,
-2219,Okrika,,
-2220,Oktyabrskiy,4.242212772369385,
-2221,Olathe,13.229276657104492,
-2222,Oldenburg,9.594444274902344,
-2223,Oldham,8.7952241897583,
-2224,Olinda,,
-2225,Olomouc,9.235091209411621,
-2226,Olongapo,,
-2227,Olsztyn,7.653296947479248,
-2228,Omaha,11.524758338928223,
-2229,Ome,,
-2230,Omsk,,
-2231,Omuta,,
-2232,Ondo,,
-2233,Ongole,28.57583236694336,
-2234,Onitsha,,
-2235,Ontario,,
-2236,Opobo,,
-2237,Opole,8.832867622375488,
-2238,Orël,6.194879055023193,
-2239,Oradea,10.331692695617676,
-2240,Orai,26.18960189819336,
-2241,Orange,,
-2242,Ordu,12.759488105773926,
-2243,Orekhovo Zuevo,5.3709211349487305,
-2244,Orizaba,,
-2245,Orkney,,
-2246,Orléans,11.629853248596191,
-2247,Orlando,22.86634635925293,
-2248,Oron,,
-2249,Orsha,6.075591564178467,
-2250,Orsk,,
-2251,Orumiyeh,,
-2252,Oruro,,
-2253,Osasco,,
-2254,Oshawa,7.383966445922852,
-2255,Oshogbo,,
-2256,Oslo,2.897425413131714,
-2257,Osmaniye,14.87967300415039,0.10402965545654297
-2258,Osnabrück,9.594444274902344,
-2259,Osorno,,
-2260,Ostrava,8.832867622375488,
-2261,Ota,,
-2262,Otaru,,
-2263,Ottawa,5.611653804779053,
-2264,Otukpo,,
-2265,Ouagadougou,,
-2266,Oulu,2.3703222274780273,
-2267,Overland Park,13.167661666870117,
-2268,Oviedo,12.147278785705566,
-2269,Owerri,,
-2270,Owo,,
-2271,Oxford,9.921502113342285,
-2272,Oxnard,,
-2273,Oyama,,
-2274,Oyo,,
-2275,Pátrai,15.676582336425781,
-2276,Pécs,12.019518852233887,
-2277,Pétionville,,
-2278,Pôrto Seguro,,
-2279,Pôrto Velho,,
-2280,Paarl,,
-2281,Pabna,26.183879852294922,
-2282,Pacet,,
-2283,Pachuca,,
-2284,Padalarang,,
-2285,Padang,,
-2286,Paderborn,9.594444274902344,
-2287,Padova,12.69031047821045,
-2288,Pagadian,,
-2289,Pak Kret,,
-2290,Pakokku,25.276851654052734,
-2291,Pakpattan,,
-2292,Palakkad,26.808897018432617,
-2293,Palanpur,25.10956382751465,
-2294,Palembang,,
-2295,Palermo,16.44361114501953,
-2296,Palhoça,,
-2297,Pali,27.18605613708496,0.010091781616210938
-2298,Pallavaram,28.75031852722168,
-2299,Palma,18.123029708862305,
-2300,Palma Soriano,,
-2301,Palmas,,
-2302,Palmdale,,
-2303,Palmira,,
-2304,Palo Negro,,
-2305,Palu,,
-2306,Palwal,26.171710968017578,0.00632476806640625
-2307,Pamanukan,,
-2308,Pamplona,12.682516098022461,
-2309,Pamulang,,
-2310,Panamá,,
-2311,Panchiao,,
-2312,Panevezys,6.2238640785217285,
-2313,Pangkah,,
-2314,Panihati,26.761056900024414,
-2315,Panipat,24.117050170898438,0.007419586181640625
-2316,Panvel,26.8622989654541,
-2317,Panzhihua,,
-2318,Paradise,,
-2319,Parakou,,
-2320,Paramaribo,,
-2321,Parana,,
-2322,Paranaguá,,
-2323,Parbhani,27.058208465576172,
-2324,Parma,13.104381561279297,
-2325,Parnaíba,,
-2326,Parnamirim,,
-2327,Parsabad,,
-2328,Parung,,
-2329,Pasadena,,
-2330,Pasarkemis,,
-2331,Paseh,,
-2332,Pasir Gudang,,
-2333,Passo Fundo,,
-2334,Pasto,,
-2335,Pasuruan,,
-2336,Patan,27.185630798339844,0.008495330810546875
-2337,Pate,,
-2338,Paterson,10.7660493850708,
-2339,Pathankot,,
-2340,Pathein,27.047683715820312,
-2341,Pati,,
-2342,Patiala,,
-2343,Patna,26.03864860534668,0.020486831665039062
-2344,Patos De Minas,,
-2345,Paulista,,
-2346,Pavlodar,,
-2347,Pavlohrad,8.610199928283691,
-2348,Payakumbuh,,
-2349,Pekalongan,,
-2350,Pelotas,,
-2351,Pemalang,,
-2352,Pemba,,
-2353,Pembroke Pines,23.533933639526367,
-2354,Penza,5.108641147613525,
-2355,Peoria,11.320747375488281,
-2356,Perbaungan,,
-2357,Pereira,,
-2358,Peristérion,18.33710479736328,0.23636817932128906
-2359,Perm,2.4904675483703613,
-2360,Perpignan,12.210328102111816,
-2361,Perth,,
-2362,Perugia,13.13241958618164,
-2363,Pervouralsk,,
-2364,Pescara,16.46429443359375,
-2365,Peshawar,,
-2366,Petaling Jaya,,
-2367,Petapa,,
-2368,Petare,,
-2369,Peterborough,9.921502113342285,
-2370,Petrópolis,,
-2371,Petrolina,,
-2372,Petropavl,,
-2373,Petropavlovsk Kamchatskiy,,
-2374,Petrozavodsk,2.514974594116211,
-2375,Pforzheim,9.705833435058594,
-2376,Phagwara,,
-2377,Phalaborwa,,
-2378,Phan Thiet,,
-2379,Philadelphia,12.868149757385254,
-2380,Phitsanulok,,
-2381,Phnum Pénh,,
-2382,Phoenix,,
-2383,Phra Pradaeng,,
-2384,Piatra Neamt,9.676478385925293,
-2385,Piedras Negras,,
-2386,Pietermaritzburg,,
-2387,Pietersburg,,
-2388,Pilibhit,25.753948211669922,0.009176254272460938
-2389,Pimpri,25.03589630126953,
-2390,Pinar Del Río,,
-2391,Pindamonhangaba,,
-2392,Pindiga,,
-2393,Pingchen,,
-2394,Pingdingshan,,
-2395,Pingliang,,
-2396,Pingshan,,
-2397,Pingtung,,
-2398,Pingxiang,,
-2399,Pinsk,7.551875114440918,
-2400,Piracicaba,,
-2401,Pitesti,12.144901275634766,
-2402,Pittsburgh,10.787077903747559,
-2403,Piura,,
-2404,Plây Cu,,
-2405,Plano,,
-2406,Pleven,12.144901275634766,
-2407,Plock,8.92819595336914,
-2408,Ploiesti,8.91058349609375,
-2409,Plovdiv,9.614596366882324,
-2410,Plumbon,,
-2411,Plymouth,10.857382774353027,
-2412,Plzen,9.193336486816406,
-2413,Poá,,
-2414,Poços De Caldas,,
-2415,Podgorica,11.485777854919434,
-2416,Podolsk,5.123537063598633,
-2417,Pokhara,15.485403060913086,-0.0036916732788085938
-2418,Poltava,8.850591659545898,
-2419,Pomona,,
-2420,Ponce,,
-2421,Pondicherry,28.418712615966797,
-2422,Ponnani,26.808897018432617,
-2423,Ponta Grossa,,
-2424,Pontianak,,
-2425,Poole,10.641386985778809,
-2426,Porbandar,26.636825561523438,0.005157470703125
-2427,Port Au Prince,,
-2428,Port Blair,27.452592849731445,
-2429,Port Elizabeth,,
-2430,Port Gentil,,
-2431,Port Harcourt,,
-2432,Port Louis,,
-2433,Port Moresby,,
-2434,Port Said,,
-2435,Port Saint Lucie,23.533933639526367,
-2436,Portland,,
-2437,Portmore,,
-2438,Porto,14.612515449523926,
-2439,Porto Alegre,,
-2440,Portoviejo,,
-2441,Portsmouth,10.641386985778809,
-2442,Posadas,,
-2443,Potchefstroom,,
-2444,Potgietersrus,,
-2445,Potosí,,
-2446,Potsdam,9.58258056640625,
-2447,Pouso Alegre,,
-2448,Poznan,9.327188491821289,
-2449,Prabumulih,,
-2450,Prague,9.193336486816406,
-2451,Praia Grande,,
-2452,Prato,13.104381561279297,
-2453,Presidente Prudente,,
-2454,Preston,8.7952241897583,
-2455,Pretoria,,
-2456,Pringsewu,,
-2457,Pristina,10.903602600097656,
-2458,Prizren,10.903602600097656,
-2459,Probolinggo,,
-2460,Proddatur,28.299165725708008,
-2461,Prokopyevsk,,
-2462,Providence,8.827155113220215,
-2463,Provo,,
-2464,Pskov,5.439666748046875,
-2465,Pucallpa,,
-2466,Pudukkottai,28.24704933166504,
-2467,Puebla,,
-2468,Pueblo,,
-2469,Puerto Cabello,,
-2470,Puerto Montt,,
-2471,Puerto Plata,,
-2472,Puerto Princesa,,
-2473,Puerto Vallarta,,
-2474,Pulandian,,
-2475,Puno,,
-2476,Punta Arenas,,
-2477,Punto Fijo,,
-2478,Puqi,,
-2479,Puri,27.067256927490234,
-2480,Purnia,22.278688430786133,0.023151397705078125
-2481,Puruliya,26.024700164794922,
-2482,Purwakarta,,
-2483,Purwodadi,,
-2484,Purwokerto,,
-2485,Purworejo,,
-2486,Puyang,,
-2487,Pyatigorsk,8.630860328674316,0.06024456024169922
-2488,Pyay,26.258800506591797,
-2489,Qabis,20.74281883239746,0.37313270568847656
-2490,Qalyub,,
-2491,Qandahar,,
-2492,Qarchak,,
-2493,Qazvin,,
-2494,Qena,,
-2495,Qianguo,,
-2496,Qianjiang,,
-2497,Qingdao,,
-2498,Qingyuan,,
-2499,Qinhuangdao,,
-2500,Qinzhou,,
-2501,Qiqihar,,
-2502,Qitaihe,,
-2503,Qom,,
-2504,Qostanay,,
-2505,Quanzhou,,
-2506,Quchan,,
-2507,Quebec,2.929067850112915,
-2508,Queenstown,,
-2509,Queimados,,
-2510,Quelimane,,
-2511,Queluz,16.54544448852539,0.41140174865722656
-2512,Querétaro,,
-2513,Quetta,,
-2514,Quetzaltenango,,
-2515,Quevedo,,
-2516,Qui Nhon,,
-2517,Quilpue,,
-2518,Quito,,
-2519,Qujing,,
-2520,Qunduz,,
-2521,Rabak,,
-2522,Rabat,18.424266815185547,0.48102760314941406
-2523,Rach Gia,,
-2524,Radom,8.507807731628418,
-2525,Rae Bareli,25.704683303833008,0.0003948211669921875
-2526,Rafsanjan,,
-2527,Raichur,27.12727928161621,
-2528,Raiganj,25.975900650024414,0.030218124389648438
-2529,Raigarh,26.83432388305664,
-2530,Raipur,26.598772048950195,
-2531,Rajamahendri,27.753023147583008,
-2532,Rajapalaiyam,26.31475830078125,
-2533,Rajkot,26.636825561523438,0.005157470703125
-2534,Rajpur,26.761056900024414,
-2535,Rajshahi,25.975900650024414,0.030218124389648438
-2536,Raleigh,15.368032455444336,
-2537,Ramat Gan,,
-2538,Ramnicu Valcea,8.328996658325195,
-2539,Rampur,25.753948211669922,0.009176254272460938
-2540,Rancaekek,,
-2541,Rancagua,,
-2542,Ranchi,24.9002628326416,
-2543,Rancho Cucamonga,,
-2544,Randfontein,,
-2545,Ranghulu,,
-2546,Rangkasbitung,,
-2547,Rangpur,22.186540603637695,0.02501678466796875
-2548,Raniganj,26.024700164794922,
-2549,Rantauprapat,,
-2550,Rasht,,
-2551,Ratisbon,8.968754768371582,
-2552,Ratlam,26.243995666503906,
-2553,Raurkela,26.2663516998291,
-2554,Ravenna,13.104381561279297,
-2555,Rawalpindi,,
-2556,Rawang,,
-2557,Rayong,,
-2558,Reading,10.641386985778809,
-2559,Recife,,
-2560,Recklinghausen,9.594444274902344,
-2561,Reggio Di Calabria,17.82095718383789,
-2562,Regina,,
-2563,Reims,10.425849914550781,
-2564,Remscheid,9.58016300201416,
-2565,Rengasdengklok,,
-2566,Rennes,12.023782730102539,
-2567,Reno,,
-2568,Resende,,
-2569,Resistencia,,
-2570,Reutlingen,9.705833435058594,
-2571,Rewa,26.38191795349121,0.013446807861328125
-2572,Rewari,26.171710968017578,0.00632476806640625
-2573,Reykjavík,1.9793825149536133,-0.0697474479675293
-2574,Reynosa,,
-2575,Rialto,,
-2576,Ribeirão Das Neves,,
-2577,Ribeirão Pires,,
-2578,Ribeirão Prêto,,
-2579,Richards Bay,,
-2580,Richardson,,
-2581,Richmond,14.667121887207031,
-2582,Riga,5.8857879638671875,
-2583,Rijeka,10.786163330078125,
-2584,Rimini,14.899786949157715,
-2585,Rio Branco,,
-2586,Rio Claro,,
-2587,Rio Cuarto,,
-2588,Rio Grande,,
-2589,Riobamba,,
-2590,Rishra,26.761056900024414,
-2591,Riverside,,
-2592,Rivne,7.984320640563965,
-2593,Rizhao,,
-2594,Robertsonpet,26.41895294189453,
-2595,Rochester,8.956672668457031,
-2596,Rockford,9.479264259338379,
-2597,Rohtak,26.171710968017578,0.00632476806640625
-2598,Rondonópolis,,
-2599,Rongcheng,,
-2600,Rosario,,
-2601,Roseville,,
-2602,Rostock,8.767230033874512,
-2603,Rostov Na Donu,10.240324020385742,
-2604,Rotherham,8.7952241897583,
-2605,Rotterdam,9.656573295593262,
-2606,Rouen,10.856691360473633,
-2607,Roxas,,
-2608,Rubtsovsk,,
-2609,Ruda Slaska,8.832867622375488,
-2610,Ruian,,
-2611,Ruiru,,
-2612,Ruse,12.18924617767334,
-2613,Rustenburg,,
-2614,Ryazan,5.579939365386963,
-2615,Rybinsk,3.7471394538879395,
-2616,Rybnik,8.832867622375488,
-2617,Rzeszow,8.507807731628418,
-2618,São Bernardo Do Campo,,
-2619,São Caetano Do Sul,,
-2620,São Carlos,,
-2621,São Gonçalo,,
-2622,São João De Meriti,,
-2623,São José,,
-2624,São José Do Rio Prêto,,
-2625,São José Dos Campos,,
-2626,São José Dos Pinhais,,
-2627,São Leopoldo,,
-2628,São Luís,,
-2629,São Vicente,,
-2630,Saarbrücken,10.015486717224121,
-2631,Sabadell,17.062545776367188,
-2632,Sabará,,
-2633,Sabha,24.112289428710938,0.1815166473388672
-2634,Sabratah,20.462068557739258,0.34171104431152344
-2635,Sabzevar,,
-2636,Sacramento,,
-2637,Sadiqabad,,
-2638,Safaqis,19.94846534729004,0.3577594757080078
-2639,Saga,,
-2640,Sagamihara,,
-2641,Sagar,25.708749771118164,
-2642,Saharanpur,24.117050170898438,0.007419586181640625
-2643,Saharsa,24.465896606445312,0.021701812744140625
-2644,Sahiwal,,
-2645,Saint Étienne,9.713723182678223,
-2646,Saint Denis,,
-2647,Saint Helens,9.451807975769043,
-2648,Saint Louis,13.113140106201172,
-2649,Saint Paul,6.67225980758667,
-2650,Saitama,,
-2651,Sakai,,
-2652,Sakata,,
-2653,Sakura,,
-2654,Salalah,,
-2655,Salamanca,12.99386215209961,
-2656,Salatiga,,
-2657,Salavat,3.7665653228759766,
-2658,Salem,,
-2659,Salerno,15.281587600708008,
-2660,Salihorsk,7.551875114440918,
-2661,Salinas,,
-2662,Salt Lake City,,
-2663,Salta,,
-2664,Saltillo,,
-2665,Salto,,
-2666,Salzburg,5.982607841491699,
-2667,Salzgitter,9.078520774841309,
-2668,Samara,4.9080634117126465,
-2669,Samarinda,,
-2670,Samarkand,,
-2671,Sambalpur,26.83432388305664,
-2672,Sambhal,25.753948211669922,0.009176254272460938
-2673,Samsun,13.025400161743164,0.11412811279296875
-2674,Samut Prakan,,
-2675,San Antonio,,
-2676,San Bernardino,,
-2677,San Bernardo,,
-2678,San Carlos De Bariloche,,
-2679,San Cristóbal,,
-2680,San Diego,,
-2681,San Fernando,,
-2682,San Francisco,,
-2683,San Francisco De Macorís,,
-2684,San José,,
-2685,San Jose,,
-2686,San Juan,,
-2687,San Juan Del Río,,
-2688,San Juan Sacatepéquez,,
-2689,San Lorenzo,,
-2690,San Luis,,
-2691,San Luis Potosí,,
-2692,San Luis Río Colorado,,
-2693,San Martin,,
-2694,San Mateo,,
-2695,San Miguelito,,
-2696,San Nicolás De Los Garza,,
-2697,San Nicolas,,
-2698,San Pédro,,
-2699,San Pablo,,
-2700,San Pablo De Las Salinas,,
-2701,San Pedro,,
-2702,San Pedro De Macorís,,
-2703,San Pedro Sula,,
-2704,San Rafael,,
-2705,San Salvador,,
-2706,Sanandaj,,
-2707,Sanbu,,
-2708,Sanchung,,
-2709,Sancti Spíritus,,
-2710,Sanda,,
-2711,Sandakan,,
-2712,Sanhsia,,
-2713,Sanmenxia,,
-2714,Sanming,,
-2715,Santa Ana,,
-2716,Santa Catarina,,
-2717,Santa Clara,,
-2718,Santa Clarita,,
-2719,Santa Cruz,,
-2720,Santa Cruz De Tenerife,20.532657623291016,
-2721,Santa Cruz Do Sul,,
-2722,Santa Fe,,
-2723,Santa Luzia,,
-2724,Santa Maria,,
-2725,Santa Marta,,
-2726,Santa Rita,,
-2727,Santa Rosa,,
-2728,Santa Teresa,,
-2729,Santander,14.27574634552002,
-2730,Santarém,,
-2731,Santiago De Cuba,,
-2732,Santiago Del Estero,,
-2733,Santo André,,
-2734,Santos,,
-2735,Sapele,,
-2736,Sapucaia,,
-2737,Saqqez,,
-2738,Sarajevo,10.375819206237793,
-2739,Saransk,5.108641147613525,
-2740,Sarapul,3.0051586627960205,
-2741,Saratov,5.924790382385254,
-2742,Sargodha,,
-2743,Sarh,,
-2744,Sari,,
-2745,Sasaram,26.262765884399414,0.01601409912109375
-2746,Sasebo,,
-2747,Saskatoon,,
-2748,Sassari,16.478654861450195,
-2749,Satara,25.816425323486328,
-2750,Satkhira,26.761056900024414,
-2751,Satna,26.38191795349121,0.013446807861328125
-2752,Satu Mare,10.331692695617676,
-2753,Savannah,20.09333610534668,
-2754,Saveh,,
-2755,Sawai Madhopur,26.53820037841797,
-2756,Sawangan,,
-2757,Sayama,,
-2758,Scottsdale,,
-2759,Seattle,,
-2760,Sekondi,,
-2761,Sekudai,,
-2762,Selam,27.537517547607422,
-2763,Semarang,,
-2764,Semey,,
-2765,Semnan,,
-2766,Seoni,26.25730323791504,
-2767,Sepatan,,
-2768,Serang,,
-2769,Serekunda,,
-2770,Seremban,,
-2771,Sergiyev Posad,4.623477458953857,
-2772,Serpukhov,5.123537063598633,
-2773,Serra,,
-2774,Setúbal,16.54544448852539,0.41140174865722656
-2775,Sete Lagoas,,
-2776,Seto,,
-2777,Severodvinsk,1.352810263633728,
-2778,Seversk,,
-2779,Sevilla,18.325037002563477,0.47974586486816406
-2780,Shagamu,,
-2781,Shah Alam,,
-2782,Shahe,,
-2783,Shahjahanpur,25.753948211669922,0.009176254272460938
-2784,Shahr E Kord,,
-2785,Shahreza,,
-2786,Shahrud,,
-2787,Shakhty,10.240324020385742,
-2788,Shaki,,
-2789,Shangqiu,,
-2790,Shangrao,,
-2791,Shantipur,26.761056900024414,
-2792,Shaoguan,,
-2793,Shaowu,,
-2794,Shaoxing,,
-2795,Shaoyang,,
-2796,Shaping,,
-2797,Sharjah,,
-2798,Shashi,,
-2799,Sheffield,8.7952241897583,
-2800,Shekhupura,,
-2801,Shenzhen,,
-2802,Sherbrooke,6.172474384307861,
-2803,Sherpur,25.154809951782227,0.031064987182617188
-2804,Shihezi,,
-2805,Shikarpur,,
-2806,Shiliguri,22.278688430786133,0.023151397705078125
-2807,Shillong,23.973783493041992,0.014425277709960938
-2808,Shilong,,
-2809,Shimla,,
-2810,Shimoga,25.406036376953125,
-2811,Shimonoseki,,
-2812,Shinyanga,,
-2813,Shiraz,,
-2814,Shishou,,
-2815,Shiyan,,
-2816,Shizuishan,,
-2817,Sholapur,26.640790939331055,
-2818,Shreveport,18.475088119506836,
-2819,Shrirampur,26.761056900024414,
-2820,Shuangcheng,,
-2821,Shuangyashan,,
-2822,Shulin,,
-2823,Shunyi,,
-2824,Shymkent,,
-2825,Si Racha,,
-2826,Sialkot,,
-2827,Siauliai,6.830940246582031,
-2828,Sibiu,8.328996658325195,
-2829,Sibu,,
-2830,Sidoarjo,,
-2831,Siegen,9.028719902038574,
-2832,Siirt,,
-2833,Sikar,26.199323654174805,0.0037212371826171875
-2834,Sikasso,,
-2835,Silchar,23.973783493041992,0.014425277709960938
-2836,Simi Valley,,
-2837,Sincelejo,,
-2838,Singaraja,,
-2839,Singkawang,,
-2840,Sinnar,,
-2841,Sioux Falls,7.985019207000732,
-2842,Sirajganj,25.154809951782227,0.031064987182617188
-2843,Sirjan,,
-2844,Sirsa,,
-2845,Sitapur,24.42346954345703,
-2846,Sivas,9.353743553161621,
-2847,Siverek,,
-2848,Siwan,25.634593963623047,0.019620895385742188
-2849,Skopje,10.903602600097656,
-2850,Slough,9.921502113342285,
-2851,Smolensk,5.548155307769775,
-2852,Soacha,,
-2853,Sobral,,
-2854,Soc Trang,,
-2855,Sochi,10.777175903320312,
-2856,Sofia,9.614596366882324,
-2857,Sogamoso,,
-2858,Sohag,,
-2859,Soka,,
-2860,Sokodé,,
-2861,Sokoto,,
-2862,Soledad,,
-2863,Solikamsk,0.07647746056318283,
-2864,Solingen,9.58016300201416,
-2865,Somerset West,,
-2866,Songea,,
-2867,Sonipat,26.171710968017578,0.00632476806640625
-2868,Soreang,,
-2869,Sorocaba,,
-2870,Sorong,,
-2871,Sosnowiec,8.832867622375488,
-2872,Soubré,,
-2873,South Bend,10.977921485900879,
-2874,Southampton,10.641386985778809,
-2875,Southend On Sea,9.921502113342285,
-2876,Soweto,,
-2877,Soyapango,,
-2878,Spanish Town,,
-2879,Split,13.991013526916504,
-2880,Spokane,,
-2881,Spring Valley,,
-2882,Springfield,11.13643741607666,
-2883,Springs,,
-2884,Srikakulam,26.577821731567383,
-2885,Srinagar,,
-2886,Stamford,10.7660493850708,
-2887,Stara Zagora,12.398446083068848,
-2888,Staryy Oskol,7.371758937835693,
-2889,Stavanger,5.910430908203125,
-2890,Stavropol,8.630860328674316,0.06024456024169922
-2891,Sterling Heights,9.799382209777832,
-2892,Sterlitamak,3.7665653228759766,
-2893,Stockholm,6.590745449066162,
-2894,Stockport,8.7952241897583,
-2895,Stockton,,
-2896,Stoke On Trent,9.373305320739746,
-2897,Strasbourg,10.015486717224121,
-2898,Stuttgart,9.705833435058594,
-2899,Subang,,
-2900,Suceava,9.676478385925293,
-2901,Sucre,,
-2902,Sudbury,5.960392475128174,
-2903,Suez,,
-2904,Suihua,,
-2905,Suining,,
-2906,Suita,,
-2907,Sujiatun,,
-2908,Sukabumi,,
-2909,Sukaraja,,
-2910,Sukkur,,
-2911,Suleja,,
-2912,Sullana,,
-2913,Sultanpur,26.042537689208984,0.016725540161132812
-2914,Sumaré,,
-2915,Sumedang,,
-2916,Sumy,7.646969795227051,
-2917,Sunderland,7.870716571807861,
-2918,Sungai Petani,,
-2919,Sunggal,,
-2920,Sunnyvale,,
-2921,Sunrise Manor,,
-2922,Sur,,
-2923,Surakarta,,
-2924,Surat Thani,,
-2925,Surendranagar,27.185630798339844,0.008495330810546875
-2926,Surgut,,
-2927,Suriapet,27.988967895507812,
-2928,Surt,20.88420867919922,0.2786407470703125
-2929,Susah,19.609086990356445,
-2930,Sutton Coldfield,9.373305320739746,
-2931,Suzano,,
-2932,Suzhou,,
-2933,Suzuka,,
-2934,Swansea,10.118165016174316,
-2935,Swindon,9.373305320739746,
-2936,Syktyvkar,1.405124545097351,
-2937,Syracuse,12.532393455505371,
-2938,Syzran,4.814874172210693,
-2939,Székesfehérvár,11.188156127929688,
-2940,Szczecin,8.461454391479492,
-2941,Szeged,11.953727722167969,
-2942,Tétouan,18.396120071411133,0.4997825622558594
-2943,Türkmenabat,,
-2944,Taboão Da Serra,,
-2945,Tabora,,
-2946,Tabriz,,
-2947,Tabuk,,
-2948,Tachikawa,,
-2949,Tacloban,,
-2950,Tacna,,
-2951,Tacoma,,
-2952,Tadepallegudem,27.753023147583008,
-2953,Taganrog,10.240324020385742,
-2954,Tagum,,
-2955,Taian,,
-2956,Taicheng,,
-2957,Taichung,,
-2958,Tainan,,
-2959,Taiping,,
-2960,Taitung,,
-2961,Taizhou,,
-2962,Tajimi,,
-2963,Takaoka,,
-2964,Takarazuka,,
-2965,Takasaki,,
-2966,Takatsuki,,
-2967,Takoradi,,
-2968,Talara,,
-2969,Talca,,
-2970,Talcahuano,,
-2971,Tali,,
-2972,Talisay,,
-2973,Talkha,,
-2974,Tallahassee,20.62877655029297,
-2975,Tallinn,5.528305530548096,
-2976,Tama,,
-2977,Tamale,,
-2978,Taman,,
-2979,Tambaram,28.75031852722168,
-2980,Tambov,6.184533596038818,
-2981,Tambun,,
-2982,Tampa,22.455833435058594,
-2983,Tampere,4.3471198081970215,
-2984,Tampico,,
-2985,Tandil,,
-2986,Tando Adam,,
-2987,Tanete,,
-2988,Tanga,,
-2989,Tangerang,,
-2990,Tanggu,,
-2991,Tangier,18.396120071411133,0.4997825622558594
-2992,Tanjung Morawa,,
-2993,Tanshui,,
-2994,Tanta,21.0634822845459,0.16260719299316406
-2995,Tanza,,
-2996,Taonan,,
-2997,Taoyüan,,
-2998,Tapachula,,
-2999,Taranto,16.56235122680664,
-3000,Taraz,,
-3001,Targu Mures,8.328996658325195,
-3002,Tarhunah,20.67184066772461,0.32473182678222656
-3003,Tarija,,
-3004,Tarlac,,
-3005,Tarnow,8.507807731628418,
-3006,Tarragona,17.062545776367188,
-3007,Tarsus,12.376739501953125,
-3008,Tartu,5.122585296630859,
-3009,Tartus,,
-3010,Tashkent,,
-3011,Tasikmalaya,,
-3012,Taubaté,,
-3013,Taunggyi,,
-3014,Tauranga,,
-3015,Tawau,,
-3016,Taytay,,
-3017,Tbilisi,,
-3018,Teófilo Otoni,,
-3019,Tebingtinggi,,
-3020,Tegal,,
-3021,Tegucigalpa,,
-3022,Tehuacán,,
-3023,Tekirdag,14.36270523071289,
-3024,Tel Aviv Yafo,,
-3025,Teluknaga,,
-3026,Tema,,
-3027,Tembisa,,
-3028,Temirtau,,
-3029,Tempe,,
-3030,Temuco,,
-3031,Tenali,27.988967895507812,
-3032,Tengzhou,,
-3033,Tepic,,
-3034,Teresópolis,,
-3035,Teresina,,
-3036,Termiz,,
-3037,Ternate,,
-3038,Terni,13.13241958618164,
-3039,Terrassa,17.062545776367188,
-3040,Teshie,,
-3041,Tete,,
-3042,Texcoco,,
-3043,Thái Nguyên,,
-3044,Thana,26.8622989654541,
-3045,Thanesar,24.117050170898438,0.007419586181640625
-3046,Thanh Hóa,,
-3047,Thanjavur,28.24704933166504,
-3048,Thanyaburi,,
-3049,Thaton,26.824670791625977,
-3050,The Hague,9.656573295593262,
-3051,Thessaloníki,14.924779891967773,
-3052,Thiès,,
-3053,Thiruvananthapuram,26.31475830078125,
-3054,Thornton,,
-3055,Thousand Oaks,,
-3056,Thrissur,26.808897018432617,
-3057,Tianmen,,
-3058,Tieli,,
-3059,Tieling,,
-3060,Tighina,10.04842758178711,
-3061,Tijuana,,
-3062,Tilburg,9.656573295593262,
-3063,Timisoara,10.834877967834473,
-3064,Timon,,
-3065,Tirana,16.540061950683594,
-3066,Tiruchchirappalli,28.24704933166504,
-3067,Tirunelveli,26.31475830078125,
-3068,Tirupati,28.75031852722168,
-3069,Tiruppur,25.496929168701172,
-3070,Tiruvannamalai,27.537517547607422,
-3071,Tiruvottiyur,28.75031852722168,
-3072,Titagarh,26.761056900024414,
-3073,Tlalnepantla,,
-3074,Tlaquepaque,,
-3075,Toamasina,,
-3076,Toda,,
-3077,Tokat,13.025400161743164,0.11412811279296875
-3078,Tokorozawa,,
-3079,Tokuyama,,
-3080,Toledo,10.843331336975098,
-3081,Toliary,,
-3082,Toluca,,
-3083,Tolyatti,4.9080634117126465,
-3084,Tomakomai,,
-3085,Toms River,12.868149757385254,
-3086,Tomsk,,
-3087,Tonalá,,
-3088,Tondabayashi,,
-3089,Tongchuan,,
-3090,Tongliao,,
-3091,Tongling,,
-3092,Tongzhou,,
-3093,Tonk,26.305652618408203,
-3094,Topeka,13.229276657104492,
-3095,Torrance,,
-3096,Torreón,,
-3097,Torrejón De Ardoz,12.581672668457031,
-3098,Torun,8.92819595336914,
-3099,Tottori,,
-3100,Touliu,,
-3101,Toulon,16.15536117553711,
-3102,Toulouse,11.454418182373047,
-3103,Toungoo,26.498441696166992,
-3104,Tours,11.629853248596191,
-3105,Townsville,,
-3106,Toyohashi,,
-3107,Toyokawa,,
-3108,Toyonaka,,
-3109,Toyota,,
-3110,Trabzon,11.408154487609863,
-3111,Trelew,,
-3112,Trento,10.545774459838867,
-3113,Trier,10.015486717224121,
-3114,Trieste,12.69031047821045,
-3115,Trincomalee,28.372339248657227,
-3116,Tripoli,20.462068557739258,0.34171104431152344
-3117,Trois Rivières,6.172474384307861,
-3118,Trondheim,4.924041748046875,
-3119,Trujillo,,
-3120,Tshikapa,,
-3121,Tsuchiura,,
-3122,Tsukuba,,
-3123,Tubruq,20.4044132232666,0.1978912353515625
-3124,Tucheng,,
-3125,Tucson,,
-3126,Tucuman,,
-3127,Tuguegarao,,
-3128,Tula,5.487555503845215,
-3129,Tulancingo,,
-3130,Tulsa,16.28570556640625,
-3131,Tuluá,,
-3132,Tumbes,,
-3133,Tumkur,24.836944580078125,
-3134,Tungi,26.183879852294922,
-3135,Tunis,19.609086990356445,
-3136,Tunja,,
-3137,Turgutlu,16.128305435180664,0.18822574615478516
-3138,Turhal,13.025400161743164,0.11412811279296875
-3139,Turin,7.900254726409912,
-3140,Turku,5.344239711761475,
-3141,Turmero,,
-3142,Tuxtla Gutiérrez,,
-3143,Tuzla,10.375819206237793,
-3144,Tver,4.623477458953857,
-3145,Tychy,8.832867622375488,
-3146,Tyumen,,
-3147,Ube,,
-3148,Uberaba,,
-3149,Uberlândia,,
-3150,Ubon Ratchathani,,
-3151,Udgir,27.274517059326172,
-3152,Udon Thani,,
-3153,Udupi,25.406036376953125,
-3154,Ueda,,
-3155,Ufa,3.399371862411499,
-3156,Ugep,,
-3157,Uitenhage,,
-3158,Uji,,
-3159,Ujjain,25.588043212890625,
-3160,Ukhta,-0.21278078854084015,
-3161,Ulaanbaatar,,
-3162,Ulan Ude,,
-3163,Ulhasnagar,26.8622989654541,
-3164,Ulm,9.705833435058594,
-3165,Ulubaria,26.761056900024414,
-3166,Ulyanovsk,4.814874172210693,
-3167,Umuahia,,
-3168,Ungaran,,
-3169,Unnao,25.704683303833008,0.0003948211669921875
-3170,Uppsala,4.772739887237549,
-3171,Urayasu,,
-3172,Urdaneta,,
-3173,Urfa,,
-3174,Uromi,,
-3175,Uruapan,,
-3176,Uruguaiana,,
-3177,Usak,12.600868225097656,
-3178,Ussuriysk,,
-3179,Ust Ilimsk,,
-3180,Utrecht,9.656573295593262,
-3181,Uvira,,
-3182,Uyo,,
-3183,Uzhhorod,8.648335456848145,
-3184,Várzea Grande,,
-3185,Várzea Paulista,,
-3186,Västerås,4.772739887237549,
-3187,Vadodara,26.91987419128418,
-3188,Valdivia,,
-3189,Valencia,17.411046981811523,
-3190,Valladolid,12.581672668457031,
-3191,Valledupar,,
-3192,Vallejo,,
-3193,Valparaiso,,
-3194,Van,,
-3195,Vanadzor,,
-3196,Vancouver,,
-3197,Vanderbijlpark,,
-3198,Varamin,,
-3199,Varanasi,26.262765884399414,0.01601409912109375
-3200,Varginha,,
-3201,Varna,13.17077350616455,
-3202,Vejalpur,26.243995666503906,
-3203,Velikie Luki,5.03045654296875,
-3204,Velikiy Novgorod,4.772462368011475,
-3205,Velluru,27.537517547607422,
-3206,Venice,12.69031047821045,
-3207,Veracruz,,
-3208,Veraval,26.636825561523438,0.005157470703125
-3209,Vereeniging,,
-3210,Verona,10.545774459838867,
-3211,Verwoerdburg,,
-3212,Viamão,,
-3213,Vicenza,12.69031047821045,
-3214,Victoria,,
-3215,Vidisha,25.941036224365234,
-3216,Vienna,9.235091209411621,
-3217,Vientiane,,
-3218,Vigo,13.896326065063477,
-3219,Vihari,,
-3220,Vijayawada,27.988967895507812,
-3221,Vila Velha,,
-3222,Villa Canales,,
-3223,Villa Nueva,,
-3224,Villahermosa,,
-3225,Villavicencio,,
-3226,Villeurbanne,9.600523948669434,
-3227,Vilnius,6.2238640785217285,
-3228,Vina Del Mar,,
-3229,Vinh,,
-3230,Vinh Long,,
-3231,Vinnitsa,8.321799278259277,
-3232,Vinnytsya,8.321799278259277,
-3233,Viransehir,,
-3234,Virar,25.463857650756836,
-3235,Virginia,,
-3236,Virginia Beach,16.492578506469727,
-3237,Visakhapatnam,25.63397789001465,
-3238,Visalia,,
-3239,Vitória,,
-3240,Vitória Da Conquista,,
-3241,Vitória De Santo Antão,,
-3242,Vitoria,12.682516098022461,
-3243,Vizianagaram,25.63397789001465,
-3244,Vladikavkaz,,
-3245,Vladimir,5.3709211349487305,
-3246,Vladivostok,,
-3247,Volgodonsk,10.113143920898438,
-3248,Volgograd,8.86172866821289,
-3249,Vologda,3.7471394538879395,
-3250,Volta Redonda,,
-3251,Volzhskiy,8.86172866821289,
-3252,Voronezh,6.301098823547363,
-3253,Vryheid,,
-3254,Vung Tau,,
-3255,Würzburg,9.705833435058594,
-3256,Waco,,
-3257,Wad Madani,,
-3258,Wah,,
-3259,Wahran,18.54826545715332,0.4494342803955078
-3260,Waitakere,,
-3261,Walbrzych,8.291875839233398,
-3262,Walsall,9.373305320739746,
-3263,Wanxian,,
-3264,Warangal,27.83600425720215,
-3265,Wardha,27.711254119873047,
-3266,Warqla,24.42658805847168,0.3589611053466797
-3267,Warren,9.799382209777832,
-3268,Warri,,
-3269,Warsaw,8.229155540466309,
-3270,Waru,,
-3271,Washington,12.984793663024902,
-3272,Waterbury,11.167519569396973,
-3273,Waterloo,7.113068580627441,
-3274,Watford,9.921502113342285,
-3275,Waw,,
-3276,Wazirabad,,
-3277,Weifang,,
-3278,Weihai,,
-3279,Weinan,,
-3280,Welkom,,
-3281,Wellington,,
-3282,Wencheng,,
-3283,Wenzhou,,
-3284,Weru,,
-3285,West Bromwich,9.373305320739746,
-3286,West Covina,,
-3287,West Jordan,,
-3288,West Valley City,,
-3289,Westminster,,
-3290,Westonaria,,
-3291,Wichita,,
-3292,Wichita Falls,,
-3293,Wiesbaden,9.028719902038574,
-3294,Windhoek,,
-3295,Windsor,9.799382209777832,
-3296,Winnipeg,,
-3297,Winston Salem,15.368032455444336,
-3298,Witbank,,
-3299,Witten,9.594444274902344,
-3300,Wloclawek,8.92819595336914,
-3301,Wolfsburg,9.078520774841309,
-3302,Wollongong,,
-3303,Wolverhampton,9.373305320739746,
-3304,Worcester,8.44342041015625,
-3305,Wroclaw,8.291875839233398,
-3306,Wuda,,
-3307,Wufeng,,
-3308,Wuhu,,
-3309,Wulanhaote,,
-3310,Wuning,,
-3311,Wuppertal,9.58016300201416,
-3312,Wuwei,,
-3313,Wuxi,,
-3314,Wuxue,,
-3315,Wuzhou,,
-3316,Xai Xai,,
-3317,Xalapa,,
-3318,Xiamen,,
+0,Århus,7.990630149841309,-0.4445921502023378
+1,Çorlu,14.36270523071289,0.1995773711294504
+2,Çorum,11.065074920654297,0.12936973571777344
+3,Öskemen,,
+4,Ürümqi,,
+5,A Coruña,13.896326065063477,0.30697923696266116
+6,Aachen,9.58016300201416,-0.021500294163541156
+7,Aalborg,7.990630149841309,-0.4445921502023378
+8,Aba,,
+9,Abadan,,
+10,Abakaliki,,
+11,Abakan,,
+12,Abbotsford,,
+13,Abengourou,,
+14,Abeokuta,,
+15,Aberdeen,8.295682907104492,-0.32575691151169117
+16,Abha,,
+17,Abidjan,,
+18,Abiko,,
+19,Abilene,,
+20,Abohar,,
+21,Abomey Calavi,,
+22,Abu Dhabi,,
+23,Abuja,,
+24,Acapulco,,
+25,Acarigua,,
+26,Accra,,
+27,Achalpur,26.421295166015625,0.008182389395578582
+28,Acheng,,
+29,Achinsk,,
+30,Acuña,,
+31,Adana,19.632671356201172,0.1443634033203125
+32,Addis Abeba,,
+33,Adelaide,,
+34,Aden,,
+35,Adilabad,27.711254119873047,-0.0008291153680701768
+36,Adiwerna,,
+37,Adoni,27.56686782836914,-0.02045930226643833
+38,Afyonkarahisar,12.314338684082031,0.1636800765991211
+39,Agadir,18.42506980895996,0.26599901047111274
+40,Agartala,25.586854934692383,0.02849237873869015
+41,Agboville,,
+42,Ageo,,
+43,Agra,26.18960189819336,-0.0002704040676952957
+44,Aguascalientes,,
+45,Ahmadabad,27.185630798339844,0.00852203369140625
+46,Ahmadnagar,25.03589630126953,0.00635499500092962
+47,Ahmadpur East,,
+48,Ahvaz,,
+49,Aix En Provence,12.422080039978027,0.25719682405579825
+50,Aizawl,23.469928741455078,0.020358967331219446
+51,Ajdabiya,20.714237213134766,0.238922119140625
+52,Ajmer,26.305652618408203,0.008792374264540825
+53,Akashi,,
+54,Akishima,,
+55,Akita,,
+56,Akola,27.058208465576172,0.004157238914853423
+57,Akron,10.787077903747559,0.018045878682299232
+58,Aksaray,12.376739501953125,0.14516718367226034
+59,Aksu,,
+60,Aktau,,
+61,Akure,,
+62,Akyab,26.11560821533203,0.029064565334678605
+63,Alagoinhas,,
+64,Alandur,28.75031852722168,-0.045692652747746365
+65,Alanya,19.03232192993164,0.17831657475156248
+66,Alappuzha,26.31475830078125,-0.015162147008457083
+67,Albacete,14.128498077392578,0.4218017578124993
+68,Alberton,,
+69,Albuquerque,,
+70,Albury,,
+71,Alcalá De Henares,12.581672668457031,0.381935956343165
+72,Alcobendas,12.581672668457031,0.381935956343165
+73,Alcorcón,12.581672668457031,0.381935956343165
+74,Aleppo,,
+75,Alexandria,16.265047073364258,0.5809365116598038
+76,Algeciras,18.396120071411133,0.5000572204589844
+77,Algiers,17.67337417602539,0.4231395721435547
+78,Aligarh,26.171710968017578,0.006366729736328125
+79,Allahabad,26.38191795349121,0.013479232788085938
+80,Allentown,10.7660493850708,0.07818755994731497
+81,Almaty,,
+82,Almería,18.740327835083008,0.4664154052734375
+83,Almere,9.656573295593262,-0.1849310263147892
+84,Almetyevsk,4.279224395751953,-0.005945572381690134
+85,Alor Setar,,
+86,Altay,,
+87,Alwar,26.171710968017578,0.006366729736328125
+88,Amadora,16.54544448852539,0.41173553466796875
+89,Amagasaki,,
+90,Amaigbo,,
+91,Amarillo,,
+92,Ambala,24.117050170898438,0.0074596405029296875
+93,Ambarnath,26.8622989654541,0.00454489390055457
+94,Ambato,,
+95,Ambattur,28.75031852722168,-0.045692652747746365
+96,Ambon,,
+97,Ambur,27.537517547607422,-0.03596629188174205
+98,Americana,,
+99,Amersfoort,9.656573295593262,-0.1849310263147892
+100,Amiens,11.09526252746582,-0.017877271040431353
+101,Amol,,
+102,Amravati,26.421295166015625,0.008182389395578582
+103,Amritsar,,
+104,Amroha,25.753948211669922,0.009218215942382812
+105,Amsterdam,9.656573295593262,-0.1849310263147892
+106,Anápolis,,
+107,Anaco,,
+108,Anaheim,,
+109,Anand,27.185630798339844,0.00852203369140625
+110,Ananindeua,,
+111,Anantapur,27.56686782836914,-0.02045930226643833
+112,Anbu,,
+113,Anchorage,,
+114,Ancona,14.899786949157715,0.324839563189812
+115,Anda,,
+116,Andijon,,
+117,Angarsk,,
+118,Angeles,,
+119,Angers,12.023782730102539,0.09953162895058654
+120,Angra Dos Reis,,
+121,Angren,,
+122,Anjo,,
+123,Ankang,,
+124,Ankara,11.616490364074707,0.15458393096923828
+125,Ann Arbor,9.799382209777832,0.043054981951444304
+126,Anqing,,
+127,Anqiu,,
+128,Anshan,,
+129,Anshun,,
+130,Antakya,19.632671356201172,0.1443634033203125
+131,Antalya,12.99049186706543,0.1744241714477539
+132,Antananarivo,,
+133,Antioch,,
+134,Antipolo,,
+135,Antofagasta,,
+136,Antsirabe,,
+137,Antwerp,10.51531982421875,-0.08531268677621462
+138,Anyama,,
+139,Anyang,,
+140,Apeldoorn,9.656573295593262,-0.1849310263147892
+141,Apodaca,,
+142,Apopa,,
+143,Apucarana,,
+144,Aqtöbe,,
+145,Ara,26.03864860534668,0.020519256591796875
+146,Araçatuba,,
+147,Aracaju,,
+148,Arad,10.834877967834473,0.2007556699356936
+149,Araguaína,,
+150,Arak,,
+151,Arapiraca,,
+152,Araraquara,,
+153,Araras,,
+154,Araruama,,
+155,Araucária,,
+156,Ardabil,,
+157,Arequipa,,
+158,Arica,,
+159,Arjawinangun,,
+160,Arkhangelsk,1.352810263633728,-0.09806275536956366
+161,Arlington,12.984793663024902,-1.7091353673898677
+162,Armavir,11.299408912658691,0.06711253467168277
+163,Armenia,,
+164,Arnhem,9.656573295593262,-0.1849310263147892
+165,Arusha,,
+166,Arvada,,
+167,Aryanah,19.609086990356445,0.3757878144582101
+168,Arzamas,5.1678266525268555,-0.07008147329654335
+169,Asahikawa,,
+170,Asaka,,
+171,Asansol,26.024700164794922,0.0264973730411171
+172,Asfi,18.39129066467285,0.38302776876804145
+173,Asgabat,,
+174,Ashdod,,
+175,Ashikaga,,
+176,Ashqelon,,
+177,Asmara,,
+178,Astana,,
+179,Astanajapura,,
+180,Astrakhan,,
+181,Asunción,,
+182,Aswan,,
+183,Asyut,,
+184,Athens,18.33710479736328,0.2367401123046875
+185,Atibaia,,
+186,Atlanta,15.326902389526367,-0.015560650553540611
+187,Atsugi,,
+188,Atyrau,,
+189,Auckland,,
+190,Augsburg,5.770110607147217,0.24686834722194995
+191,Aurangabad,25.615386962890625,0.006924629211425781
+192,Aurora,11.244667053222656,1.0709837931507042
+193,Austin,,
+194,Avadi,28.75031852722168,-0.045692652747746365
+195,Awassa,,
+196,Awka,,
+197,Ayacucho,,
+198,Ayer Itam,,
+199,Azamgarh,26.042537689208984,0.016763687133789062
+200,Azare,,
+201,Bénin,,
+202,Babakan,,
+203,Babol,,
+204,Bac Lieu,,
+205,Bacau,8.91058349609375,0.12838396306307764
+206,Bacolod,,
+207,Bacoor,,
+208,Badajoz,17.29886817932129,0.4205576627309071
+209,Badalona,17.062545776367188,0.35597838635714396
+210,Badaojiang,,
+211,Badlapur,26.8622989654541,0.00454489390055457
+212,Bafoussam,,
+213,Bagaha,25.634593963623047,0.019655227661132812
+214,Baghdad,,
+215,Baglan,,
+216,Bago,26.824670791625977,0.044659704532264755
+217,Baguio,,
+218,Bahadurgarh,26.171710968017578,0.006366729736328125
+219,Baharampur,26.761056900024414,0.02731297151097678
+220,Bahawalnagar,,
+221,Bahawalpur,,
+222,Bahia Blanca,,
+223,Bahir Dar,,
+224,Bahraich,24.42346954345703,0.01067605349096823
+225,Baia Mare,10.331692695617676,0.1249646978558232
+226,Baicheng,,
+227,Baidyabati,26.761056900024414,0.02731297151097678
+228,Baiyin,,
+229,Bakersfield,,
+230,Baku,,
+231,Balakovo,5.924790382385254,-0.004082636234878478
+232,Balashikha,5.123537063598633,-0.14208798948323942
+233,Baleshwar,26.84687042236328,0.020317680430860463
+234,Balikpapan,,
+235,Baliuag,,
+236,Ballia,25.634593963623047,0.019655227661132812
+237,Bally,26.761056900024414,0.02731297151097678
+238,Balti,9.676478385925293,0.0702777646622561
+239,Baltimore,12.984793663024902,-0.0471236515407778
+240,Balurghat,25.975900650024414,0.030246734619140625
+241,Bama,,
+242,Bamako,,
+243,Bamenda,,
+244,Banda,26.054794311523438,0.012735366821289062
+245,Banda Aceh,26.493139266967773,0.02731025332496273
+246,Bandar E Anzali,,
+247,Bandar Maharani,,
+248,Bandar Penggaram,,
+249,Bandundu,,
+250,Bandung,,
+251,Baneh,,
+252,Bangalore,25.02842140197754,-0.024603380475724634
+253,Bangaon,26.761056900024414,0.02731297151097678
+254,Bangkok,,
+255,Bangui,,
+256,Banja Luka,10.375819206237793,0.30718510645740515
+257,Banjaran,,
+258,Banjarmasin,,
+259,Bankura,26.024700164794922,0.0264973730411171
+260,Bansbaria,26.761056900024414,0.02731297151097678
+261,Bantou,,
+262,Banyuwangi,,
+263,Baoding,,
+264,Baoji,,
+265,Baoshan,,
+266,Barakpur,26.761056900024414,0.02731297151097678
+267,Baranagar,26.761056900024414,0.02731297151097678
+268,Barasat,26.761056900024414,0.02731297151097678
+269,Barbacena,,
+270,Barcelona,17.062545776367188,-2.807498518026101
+271,Barddhaman,26.761056900024414,0.02731297151097678
+272,Bareli,25.753948211669922,0.009218215942382812
+273,Bari,16.56235122680664,0.33341044300007283
+274,Barinas,,
+275,Baripada,26.84687042236328,0.020317680430860463
+276,Barisal,26.183879852294922,0.027882099151611328
+277,Barnala,,
+278,Barnaul,,
+279,Barquisimeto,,
+280,Barra Mansa,,
+281,Barrancabermeja,,
+282,Barranquilla,,
+283,Barreiras,,
+284,Barretos,,
+285,Barrie,7.113068580627441,0.09060875694706727
+286,Barsi,26.640790939331055,0.0010623841058645667
+287,Barueri,,
+288,Baruta,,
+289,Basel,7.8296284675598145,0.15524916918772558
+290,Basildon,9.921502113342285,-0.1259336147668222
+291,Basirhat,26.761056900024414,0.02731297151097678
+292,Basti,26.042537689208984,0.016763687133789062
+293,Bat Yam,,
+294,Bata,,
+295,Batala,,
+296,Batangas,,
+297,Bataysk,10.240324020385742,0.03828978088666801
+298,Batman,,
+299,Baton Rouge,20.971832275390625,-0.11596728522996358
+300,Baturaja,,
+301,Bauchi,,
+302,Bauru,,
+303,Bayamo,,
+304,Bayrut,,
+305,Beaumont,,
+306,Beawar,27.18605613708496,0.010129928588867188
+307,Begusarai,26.28045654296875,0.029092788696289062
+308,Beian,,
+309,Beibei,,
+310,Beihai,,
+311,Beipiao,,
+312,Beira,,
+313,Beirut,,
+314,Bekasi,,
+315,Belém,,
+316,Belawan,,
+317,Belfast,8.788656234741211,-0.2166190561258574
+318,Belford Roxo,,
+319,Belgaum,25.907501220703125,-0.0029233478364503185
+320,Belgorod,7.371758937835693,-0.02607343388053618
+321,Belgrade,11.391117095947266,0.2715035438537594
+322,Bellary,27.56686782836914,-0.02045930226643833
+323,Bellevue,,
+324,Bello,,
+325,Belo Horizonte,,
+326,Bene Beraq,,
+327,Bengbu,,
+328,Benghazi,19.74040412902832,0.2712135314941406
+329,Bengkulu,,
+330,Benguela,,
+331,Benha,,
+332,Beni Suef,,
+333,Benoni,,
+334,Benxi,,
+335,Beppu,,
+336,Berbera,,
+337,Berezniki,2.4904675483703613,0.00704285513765468
+338,Bergamo,10.545774459838867,0.22803743830266932
+339,Bergen,2.1359848976135254,-0.382115257236193
+340,Bergisch Gladbach,9.58016300201416,-0.021500294163541156
+341,Berkeley,,
+342,Berlin,9.58258056640625,-0.2233858846268557
+343,Bern,7.8296284675598145,0.15524916918772558
+344,Bertoua,,
+345,Besançon,9.800614356994629,0.09998625629352986
+346,Bethal,,
+347,Betim,,
+348,Bettiah,25.634593963623047,0.019655227661132812
+349,Bhadravati,25.406036376953125,-0.00979483468191944
+350,Bhadreswar,26.761056900024414,0.02731297151097678
+351,Bhagalpur,26.28045654296875,0.029092788696289062
+352,Bhairab Bazar,25.154809951782227,0.031093597412109375
+353,Bharatpur,20.35665512084961,0.11258506774902344
+354,Bharuch,26.91987419128418,0.010683967953635687
+355,Bhatpara,26.761056900024414,0.02731297151097678
+356,Bhavnagar,27.349559783935547,0.0108519334059487
+357,Bhilai,26.598772048950195,0.003492291768392164
+358,Bhilwara,25.87972640991211,0.010074129291609779
+359,Bhimavaram,27.753023147583008,-0.022037814912341247
+360,Bhind,26.18960189819336,-0.0002704040676952957
+361,Bhiwandi,25.463857650756836,0.007403182983399148
+362,Bhiwani,26.199323654174805,0.003765106201171875
+363,Bhopal,25.941036224365234,0.01025267101469396
+364,Bhubaneswar,27.067256927490234,0.01028254347027513
+365,Bhuj,27.065473556518555,0.009769439697265625
+366,Bhusawal,26.31751251220703,0.010042762756349077
+367,Biên Hòa,,
+368,Bialystok,7.00872278213501,-0.2632414907779337
+369,Bid,26.640790939331055,0.0010623841058645667
+370,Bida,,
+371,Bidar,27.274517059326172,-0.0048000971476227505
+372,Bielefeld,9.594444274902344,-0.1605345042246693
+373,Bielsko Biala,8.832867622375488,-0.035812444506950314
+374,Bihar,26.03864860534668,0.020519256591796875
+375,Bijapur,26.080801010131836,-0.001976848783947105
+376,Bikaner,27.214189529418945,0.004833221435546875
+377,Bila Tserkva,8.321799278259277,0.007954420683518038
+378,Bilaspur,26.598772048950195,0.003492291768392164
+379,Bilbao,12.682516098022461,0.3146203185027492
+380,Binangonan,,
+381,Binjai,,
+382,Bintulu,,
+383,Binzhou,,
+384,Biratnagar,22.278688430786133,0.023180007934570312
+385,Birganj,25.634593963623047,0.019655227661132812
+386,Birigui,,
+387,Birjand,,
+388,Birmingham,13.412799835205078,-0.011573311081505722
+389,Birnin Kebbi,,
+390,Bisho,,
+391,Bissau,,
+392,Bitung,,
+393,Biysk,,
+394,Blackburn,8.7952241897583,-0.34976662869723363
+395,Blackpool,9.451807975769043,-0.2708700539930806
+396,Blagoveshchensk,,
+397,Blantyre,,
+398,Blitar,,
+399,Bloemfontein,,
+400,Blumenau,,
+401,Boa Vista,,
+402,Bobo Dioulasso,,
+403,Bochum,9.594444274902344,-0.1605345042246693
+404,Bogor,,
+405,Bogotá,,
+406,Bohicon,,
+407,Bojnurd,,
+408,Bokaro,26.024700164794922,0.0264973730411171
+409,Boksburg,,
+410,Bologna,13.104381561279297,0.28531394634606677
+411,Bolton,8.7952241897583,-0.34976662869723363
+412,Boma,,
+413,Bombay,26.8622989654541,0.00454489390055457
+414,Bonn,9.58016300201416,-0.021500294163541156
+415,Bontang,,
+416,Bordeaux,13.095823287963867,0.24521701380891692
+417,Borujerd,,
+418,Boshan,,
+419,Boston,8.827155113220215,0.2607408873028625
+420,Botad,27.349559783935547,0.0108519334059487
+421,Botosani,9.676478385925293,0.0702777646622561
+422,Botshabelo,,
+423,Bottrop,9.594444274902344,-0.1605345042246693
+424,Botucatu,,
+425,Bouaké,,
+426,Boulogne Billancourt,11.09526252746582,-0.017877271040431353
+427,Bournemouth,10.641386985778809,-0.019289984793033454
+428,Bozhou,,
+429,Bradford,8.7952241897583,-0.34976662869723363
+430,Braga,14.612515449523926,0.36374469973006285
+431,Bragança Paulista,,
+432,Brahmapur,26.577821731567383,-0.0008783250484825089
+433,Braila,11.28870677947998,0.1087279157818486
+434,Brakpan,,
+435,Brasília,,
+436,Brasov,8.91058349609375,0.12838396306307764
+437,Bratislava,11.188156127929688,0.24413789893096371
+438,Bratsk,,
+439,Brazzaville,,
+440,Brebes,,
+441,Breda,9.656573295593262,-0.1849310263147892
+442,Bremen,8.813272476196289,-0.3120222955379841
+443,Bremerhaven,8.813272476196289,-0.3120222955379841
+444,Brescia,10.545774459838867,0.22803743830266932
+445,Brest,9.675163269042969,-0.004000527518135399
+446,Bridgeport,11.167519569396973,0.1758220875671146
+447,Brighton,10.641386985778809,-0.019289984793033454
+448,Brikama,,
+449,Brisbane,,
+450,Bristol,9.373305320739746,-0.1749935671968288
+451,Brits,,
+452,Brno,9.235091209411621,0.16455442590533487
+453,Brownsville,,
+454,Brugge,10.51531982421875,-0.08531268677621462
+455,Brunswick,9.078520774841309,-0.17235510844104773
+456,Brussels,10.51531982421875,-0.08531268677621462
+457,Bryansk,5.76498556137085,-0.12810750772368262
+458,Bucaramanga,,
+459,Bucharest,12.18924617767334,0.16160014890274965
+460,Budapest,11.044191360473633,0.17000992073202958
+461,Budaun,25.753948211669922,0.009218215942382812
+462,Buenaventura,,
+463,Buffalo,8.956672668457031,0.05758456509068388
+464,Buga,,
+465,Bugama,,
+466,Buhe,,
+467,Bujumbura,,
+468,Bukan,,
+469,Bukavu,,
+470,Bukit Mertajam,,
+471,Bulandshahr,26.171710968017578,0.006366729736328125
+472,Bulaon,,
+473,Bulawayo,,
+474,Buon Me Thuot,,
+475,Buraydah,,
+476,Burbank,,
+477,Burewala,,
+478,Burgas,13.17077350616455,0.17404091313200176
+479,Burgos,11.697757720947266,0.3239396491140685
+480,Burhanpur,26.421295166015625,0.008182389395578582
+481,Bursa,12.600868225097656,0.18959568839036756
+482,Bushehr,,
+483,Butembo,,
+484,Butterworth,,
+485,Butuan,,
+486,Buzau,8.91058349609375,0.12838396306307764
+487,Bydgoszcz,8.061211585998535,-0.30798144610422895
+488,Bytom,8.832867622375488,-0.035812444506950314
+489,Cà Mau,,
+490,Córdoba,17.60344123840332,-1.3169498443603516
+491,Cúa,,
+492,Cúcuta,,
+493,Cabanatuan,,
+494,Cabimas,,
+495,Cabo Frio,,
+496,Cabudare,,
+497,Cachoeirinha,,
+498,Cachoeiro De Itapemirim,,
+499,Cadiz,18.396120071411133,-2.0041465759277344
+500,Caen,10.856691360473633,0.02152308518031809
+501,Cagayan De Oro,,
+502,Cagliari,17.59524917602539,0.3694132786876736
+503,Cagua,,
+504,Cainta,,
+505,Cairns,,
+506,Cairo,,
+507,Cajamarca,,
+508,Calabar,,
+509,Calabozo,,
+510,Calama,,
+511,Calamba,,
+512,Calcutta,26.761056900024414,0.02731297151097678
+513,Calgary,,
+514,Cali,,
+515,Cam Pha,,
+516,Cam Ranh,,
+517,Camaçari,,
+518,Camagüey,,
+519,Camaragibe,,
+520,Cambridge,8.705777168273926,0.07834110134526284
+521,Campeche,,
+522,Campina Grande,,
+523,Campinas,,
+524,Campo Grande,,
+525,Campos,,
+526,Can Tho,,
+527,Canberra,,
+528,Cancún,,
+529,Cangzhou,,
+530,Canoas,,
+531,Cap Haïtien,,
+532,Cape Coast,,
+533,Cape Coral,23.376684188842773,-0.06491200197408276
+534,Cape Town,,
+535,Capiatá,,
+536,Carúpano,,
+537,Caracas,,
+538,Carapicuíba,,
+539,Cardiff,9.373305320739746,-0.1749935671968288
+540,Cariacica,,
+541,Carmen,,
+542,Carolina,,
+543,Carrefour,,
+544,Carrollton,,
+545,Cartagena,18.745567321777344,-2.2357525030771903
+546,Cartago,,
+547,Caruaru,,
+548,Cary,15.368032455444336,-0.03491811788580712
+549,Casablanca,18.278562545776367,0.3902868755528175
+550,Cascavel,,
+551,Castanhal,,
+552,Catamarca,,
+553,Catanduva,,
+554,Catania,16.44361114501953,0.3523559066484552
+555,Catia La Mar,,
+556,Caucaia,,
+557,Cavite,,
+558,Caxias,,
+559,Caxias Do Sul,,
+560,Cebu,,
+561,Cedar Rapids,9.534160614013672,0.068349887739938
+562,Celaya,,
+563,Chakwal,,
+564,Chalco,,
+565,Champdani,26.761056900024414,0.02731297151097678
+566,Chandannagar,26.761056900024414,0.02731297151097678
+567,Chandausi,25.753948211669922,0.009218215942382812
+568,Chandigarh,,
+569,Chandler,,
+570,Chandpur,26.183879852294922,0.027882099151611328
+571,Chandrapur,27.711254119873047,-0.0008291153680701768
+572,Changchun,,
+573,Changde,,
+574,Changji,,
+575,Changzhou,,
+576,Chaohu,,
+577,Chaoyang,,
+578,Chaozhou,,
+579,Chapecó,,
+580,Charallave,,
+581,Charleroi,10.51531982421875,-0.08531268677621462
+582,Charleston,19.429819107055664,-0.031372744774184724
+583,Charlotte,16.910839080810547,-0.022338823673841546
+584,Chas,26.024700164794922,0.0264973730411171
+585,Chattanooga,16.03913116455078,-0.00513341490306729
+586,Chavakachcheri,27.746850967407227,-0.019222277686708367
+587,Cheboksary,4.793765068054199,-0.04104063016063719
+588,Chelmsford,9.921502113342285,-0.1259336147668222
+589,Cheltenham,9.373305320739746,-0.1749935671968288
+590,Chelyabinsk,,
+591,Chemnitz,9.193336486816406,0.030091361279756867
+592,Chengde,,
+593,Chengdu,,
+594,Chenghai,,
+595,Chenzhou,,
+596,Cherepovets,3.873141288757324,-0.20622899442348874
+597,Cherkasy,8.584285736083984,0.009455403741799984
+598,Cherkessk,8.630860328674316,0.06089019775390625
+599,Chernihiv,7.179912567138672,-0.09797754557627592
+600,Chernivtsi,8.390935897827148,0.010029809429960679
+601,Chesapeake,16.492578506469727,-0.029669355530248964
+602,Chetumal,,
+603,Chhapra,25.634593963623047,0.019655227661132812
+604,Chhatarpur,26.054794311523438,0.012735366821289062
+605,Chhindwara,26.25730323791504,0.00475514729817661
+606,Chiang Mai,,
+607,Chicago,11.10434341430664,0.04007201104793978
+608,Chiclayo,,
+609,Chifeng,,
+610,Chigasaki,,
+611,Chihuahua,,
+612,Chikmagalur,25.406036376953125,-0.00979483468191944
+613,Chillan,,
+614,Chilpancingo,,
+615,Chimalhuacán,,
+616,Chimbote,,
+617,Chimoio,,
+618,Chinandega,,
+619,Chincha Alta,,
+620,Chingola,,
+621,Chiniot,,
+622,Chishtian Mandi,,
+623,Chisinau,10.04842758178711,0.05885056099801744
+624,Chita,,
+625,Chitradurga,24.836944580078125,-0.019451304844448458
+626,Chittaurgarh,25.87972640991211,0.010074129291609779
+627,Chitungwiza,,
+628,Chizhou,,
+629,Chofu,,
+630,Choloma,,
+631,Chon Buri,,
+632,Chongqing,,
+633,Chorzow,8.832867622375488,-0.035812444506950314
+634,Chosica,,
+635,Christchurch,,
+636,Chula Vista,,
+637,Chuncheng,,
+638,Chungho,,
+639,Chupei,,
+640,Churu,26.199323654174805,0.003765106201171875
+641,Chuzhou,,
+642,Ciamis,,
+643,Ciampea,,
+644,Cianjur,,
+645,Cibadak,,
+646,Cibinong,,
+647,Cibitung,,
+648,Cicalengka,,
+649,Ciego De Ávila,,
+650,Cienfuegos,,
+651,Cikampek,,
+652,Cikarang,,
+653,Cikupa,,
+654,Cilegon,,
+655,Cileungsi,,
+656,Cileunyi,,
+657,Cimahi,,
+658,Cincinnati,12.439940452575684,0.018422705139043316
+659,Ciomas,,
+660,Ciparay,,
+661,Ciputat,,
+662,Cirebon,,
+663,Cisaat,,
+664,Cisarua,,
+665,Citeureup,,
+666,Ciudad Bolívar,,
+667,Ciudad Guayana,,
+668,Ciudad Valles,,
+669,Clarksville,15.348784446716309,0.013447721648125466
+670,Clearwater,22.455833435058594,-0.021994967113510455
+671,Clermont Ferrand,9.713723182678223,0.16583057079675
+672,Cleveland,10.787077903747559,0.018045878682299232
+673,Cluj Napoca,10.331692695617676,0.1249646978558232
+674,Coacalco,,
+675,Coatzacoalcos,,
+676,Cochabamba,,
+677,Coimbra,14.612515449523926,0.36374469973006285
+678,Colatina,,
+679,Colchester,9.921502113342285,-0.1259336147668222
+680,Colima,,
+681,Cologne,9.58016300201416,-0.021500294163541156
+682,Colombo,26.015480041503906,3.6420364379882812
+683,Colorado Springs,,
+684,Columbia,16.910839080810547,-0.022338823673841546
+685,Columbus,14.325428009033203,0.052980755859950435
+686,Comodoro Rivadavia,,
+687,Conakry,,
+688,Concepcion,,
+689,Concord,,
+690,Concordia,,
+691,Conselheiro Lafaiete,,
+692,Constanta,12.579959869384766,0.1413641443792386
+693,Constantine,16.144315719604492,0.40766429901123047
+694,Contagem,,
+695,Copenhagen,8.264211654663086,-0.42150829603087203
+696,Copiapo,,
+697,Coquimbo,,
+698,Coral Springs,23.533933639526367,-0.035188237826030644
+699,Cordoba,,
+700,Cork,9.971118927001953,-0.10866772093862842
+701,Coro,,
+702,Corona,,
+703,Coronel Fabriciano,,
+704,Corpus Christi,,
+705,Corrientes,,
+706,Costa Mesa,,
+707,Cotabato,,
+708,Cotia,,
+709,Cotonou,,
+710,Cottbus,9.58258056640625,-0.2233858846268557
+711,Coventry,9.373305320739746,-0.1749935671968288
+712,Cracow,8.832867622375488,-0.035812444506950314
+713,Craiova,12.144901275634766,0.19115556680931256
+714,Crawley,10.641386985778809,-0.019289984793033454
+715,Criciúma,,
+716,Cuautitlán Izcalli,,
+717,Cuautla,,
+718,Cubatão,,
+719,Cuddapah,28.299165725708008,-0.030340276445659953
+720,Cuenca,,
+721,Cuernavaca,,
+722,Cuiabá,,
+723,Culiacán,,
+724,Cumaná,,
+725,Curico,,
+726,Curitiba,,
+727,Curug,,
+728,Cusco,,
+729,Czestochowa,8.832867622375488,-0.035812444506950314
+730,Düsseldorf,9.58016300201416,-0.021500294163541156
+731,Da Lat,,
+732,Da Nang,,
+733,Daan,,
+734,Dabrowa Gornicza,8.832867622375488,-0.035812444506950314
+735,Dadiangas,,
+736,Dadu,,
+737,Dagupan,,
+738,Dahuk,,
+739,Daito,,
+740,Dakar,,
+741,Dali,,
+742,Dalian,,
+743,Daliang,,
+744,Dallas,,
+745,Daloa,,
+746,Damascus,,
+747,Damaturu,,
+748,Damoh,25.708749771118164,0.007163483755928013
+749,Dandong,,
+750,Danshui,,
+751,Dar Es Salaam,,
+752,Darbhanga,24.465896606445312,0.021734237670898438
+753,Darjiling,22.278688430786133,0.023180007934570312
+754,Darmstadt,9.028719902038574,0.01696258041094012
+755,Daska,,
+756,Dasmariñas,,
+757,Dasoguz,,
+758,Datong,,
+759,Daugavpils,6.2238640785217285,-0.32525893877137424
+760,Davao,,
+761,Dawei,,
+762,Dawukou,,
+763,Daxian,,
+764,Dayton,12.45131778717041,0.002824678167190342
+765,Debre Zeyit,,
+766,Debrecen,10.331692695617676,0.1249646978558232
+767,Dehra Dun,24.117050170898438,0.0074596405029296875
+768,Dehri,26.262765884399414,0.016048431396484375
+769,Dehui,,
+770,Dekernes,,
+771,Delhi,26.171710968017578,0.006366729736328125
+772,Delicias,,
+773,Delmas,,
+774,Denizli,16.128305435180664,0.18871784210205078
+775,Denpasar,,
+776,Denton,,
+777,Denver,,
+778,Deoria,25.634593963623047,0.019655227661132812
+779,Depok,,
+780,Dera Ghazi Khan,,
+781,Dera Ismail Khan,,
+782,Derbent,,
+783,Derby,8.7952241897583,-0.34976662869723363
+784,Des Moines,11.344831466674805,0.06519314298089895
+785,Dese,,
+786,Detroit,9.799382209777832,0.043054981951444304
+787,Dewas,25.588043212890625,0.014933213733492323
+788,Deyang,,
+789,Dezful,,
+790,Dezhou,,
+791,Dhaka,26.183879852294922,0.027882099151611328
+792,Dhanbad,26.024700164794922,0.0264973730411171
+793,Dharan,22.278688430786133,0.023180007934570312
+794,Dharmavaram,27.56686782836914,-0.02045930226643833
+795,Dhaulpur,26.53820037841797,-0.0005093659504815662
+796,Dhule,25.615386962890625,0.006924629211425781
+797,Diadema,,
+798,Dibrugarh,,
+799,Didao,,
+800,Digos,,
+801,Dijon,9.800614356994629,0.09998625629352986
+802,Dimapur,,
+803,Dimitrovgrad,4.9080634117126465,0.003721423928728207
+804,Dinajpur,25.975900650024414,0.030246734619140625
+805,Dindigul,25.496929168701172,-0.024891390119279322
+806,Dingzhou,,
+807,Diourbel,,
+808,Dire Dawa,,
+809,Divinópolis,,
+810,Divo,,
+811,Djougou,,
+812,Do Rud,,
+813,Dodoma,,
+814,Doha,,
+815,Donghai,,
+816,Dongli,,
+817,Dongling,,
+818,Dongtai,,
+819,Dongying,,
+820,Dordrecht,9.656573295593262,-0.1849310263147892
+821,Dortmund,9.594444274902344,-0.1605345042246693
+822,Dos Hermanas,18.325037002563477,0.48017120361328125
+823,Dos Quebradas,,
+824,Douala,,
+825,Dourados,,
+826,Downey,,
+827,Dresden,9.193336486816406,0.030091361279756867
+828,Drobeta Turnu Severin,11.002251625061035,0.23015599520701358
+829,Dubai,,
+830,Dublin,8.951249122619629,-0.18734100089882944
+831,Dudley,9.373305320739746,-0.1749935671968288
+832,Duisburg,9.58016300201416,-0.021500294163541156
+833,Dum Dum,26.761056900024414,0.02731297151097678
+834,Duma,,
+835,Dumaguete,,
+836,Dumai,,
+837,Dundee,6.782362461090088,-0.27338801779836963
+838,Dunedin,,
+839,Dunhua,,
+840,Duque De Caxias,,
+841,Durango,,
+842,Durban,,
+843,Durg,26.25994873046875,0.0018159957159120665
+844,Durgapur,26.024700164794922,0.0264973730411171
+845,Durham,15.368032455444336,-0.03491811788580712
+846,Durrës,16.540061950683594,0.3064698021366894
+847,Dushanbe,,
+848,Dzerzhinsk,4.644656658172607,-0.08911850587377046
+849,East London,,
+850,East Los Angeles,,
+851,Eastbourne,10.54776668548584,-0.05415172037088567
+852,Ebetsu,,
+853,Ebina,,
+854,Ecatepec,,
+855,Edéa,,
+856,Ede,9.656573295593262,-4.866458012922754
+857,Edinburgh,7.870716571807861,-0.2685808739572195
+858,Edirne,12.398446083068848,0.19554434902263118
+859,Edison,10.7660493850708,0.07818755994731497
+860,Edmonton,,
+861,Eindhoven,9.656573295593262,-0.1849310263147892
+862,Ejido,,
+863,Ejigbo,,
+864,Ekibastuz,,
+865,El Faiyûm,,
+866,El Limón,,
+867,El Mahalla El Kubra,,
+868,El Monte,,
+869,El Paso,,
+870,El Progreso,,
+871,El Tigre,,
+872,Elbasan,16.540061950683594,0.3064698021366894
+873,Elblag,7.653296947479248,-0.3000771639482034
+874,Eldoret,,
+875,Elektrostal,5.3709211349487305,-0.1057641515191996
+876,Elista,11.280387878417969,0.05033381035987361
+877,Elizabeth,10.7660493850708,0.07818755994731497
+878,Eluru,27.988967895507812,-0.02309504917689864
+879,Embu,,
+880,Emmen,9.594444274902344,-0.1605345042246693
+881,Encheng,,
+882,Engels,7.3959059715271,0.01504281809121455
+883,Enschede,9.594444274902344,-0.1605345042246693
+884,Ensenada,,
+885,Enugu,,
+886,Envigado,,
+887,Erfurt,8.498891830444336,0.05004027294662805
+888,Erlangen,9.705833435058594,0.15111947329539177
+889,Erode,25.02842140197754,-0.024603380475724634
+890,Erzincan,10.440790176391602,0.1025698079472086
+891,Erzurum,,
+892,Escondido,,
+893,Escuintla,,
+894,Esenyurt,14.36270523071289,0.1995773711294504
+895,Esfahan,,
+896,Eskisehir,12.314338684082031,0.1636800765991211
+897,Eslamshahr,,
+898,Esmeraldas,,
+899,Espoo,4.825056552886963,-0.40726949426363124
+900,Essen,9.58016300201416,-0.021500294163541156
+901,Etah,25.753948211669922,0.009218215942382812
+902,Etawah,26.18960189819336,-0.0002704040676952957
+903,Eugene,,
+904,Evansville,14.64849853515625,0.02075417413457714
+905,Exeter,10.857382774353027,-0.04226751687391683
+906,Ezhou,,
+907,Fürth,9.705833435058594,0.15111947329539177
+908,Fairfield,,
+909,Faisalabad,,
+910,Faizabad,26.042537689208984,0.016763687133789062
+911,Faridabad,26.171710968017578,0.006366729736328125
+912,Faridpur,26.183879852294922,0.027882099151611328
+913,Farrukhabad,25.753948211669922,0.009218215942382812
+914,Fatehpur,25.704683303833008,0.0004329681396484375
+915,Fayetteville,17.324111938476562,-0.028656114643517583
+916,Feira De Santana,,
+917,Fengcheng,,
+918,Fengshan,,
+919,Fernando De La Mora,,
+920,Ferrara,13.104381561279297,0.28531394634606677
+921,Ferraz De Vasconcelos,,
+922,Fez,18.424266815185547,0.48136329650878906
+923,Fianarantsoa,,
+924,Firozabad,26.18960189819336,-0.0002704040676952957
+925,Firozpur,,
+926,Flint,9.799382209777832,0.043054981951444304
+927,Florence,13.104381561279297,0.28531394634606677
+928,Florencia,,
+929,Florianópolis,,
+930,Floridablanca,,
+931,Focsani,8.91058349609375,0.12838396306307764
+932,Foggia,15.281587600708008,0.34366611264786684
+933,Fontana,,
+934,Forlì,13.104381561279297,0.28531394634606677
+935,Formosa,,
+936,Fort Collins,,
+937,Fort Lauderdale,23.533933639526367,-0.035188237826030644
+938,Fort Wayne,10.977921485900879,0.019815700459030694
+939,Fort Worth,,
+940,Fortaleza,,
+941,Foshan,,
+942,Foz Do Iguaçu,,
+943,Franca,,
+944,Francisco Morato,,
+945,Franco Da Rocha,,
+946,Frankfurt,9.028719902038574,0.01696258041094012
+947,Freetown,,
+948,Freiburg,7.8296284675598145,0.15524916918772558
+949,Fremont,,
+950,Fresnillo,,
+951,Fresno,,
+952,Fuchu,,
+953,Fuenlabrada,12.581672668457031,0.381935956343165
+954,Fuji,,
+955,Fujieda,,
+956,Fujimi,,
+957,Fujinomiya,,
+958,Fujisawa,,
+959,Fukaya,,
+960,Fukuyama,,
+961,Fuling,,
+962,Fullerton,,
+963,Funabashi,,
+964,Funtua,,
+965,Fushun,,
+966,Fuxin,,
+967,Fuyang,,
+968,Fuyu,,
+969,Fuzhou,,
+970,Gómez Palacio,,
+971,Göteborg,6.319208145141602,-0.45129219316086644
+972,Göttingen,9.078520774841309,-0.17235510844104773
+973,Gaborone,,
+974,Gadag,25.366531372070312,-0.009683045886813346
+975,Gagnoa,,
+976,Gainesville,20.847864151000977,-0.00439632981449023
+977,Galati,11.28870677947998,0.1087279157818486
+978,Gandajika,,
+979,Gandhidham,27.265056610107422,0.0015869140625
+980,Gandhinagar,27.185630798339844,0.00852203369140625
+981,Ganganagar,,
+982,Gangapur,26.53820037841797,-0.0005093659504815662
+983,Gangawati,25.366531372070312,-0.009683045886813346
+984,Ganzhou,,
+985,Gaomi,,
+986,Gaozhou,,
+987,Garanhuns,,
+988,Garden Grove,,
+989,Gardez,,
+990,Garland,,
+991,Garoua,,
+992,Garut,,
+993,Garza García,,
+994,Gashua,,
+995,Gaya,26.03864860534668,0.020519256591796875
+996,Gaziantep,14.87967300415039,0.1046895980834961
+997,Gazipur,26.183879852294922,0.027882099151611328
+998,Gazni,,
+999,Gboko,,
+1000,Gbongan,,
+1001,Gdansk,8.061211585998535,-0.30798144610422895
+1002,Gdynia,8.061211585998535,-0.30798144610422895
+1003,Gebze,14.486783027648926,0.18231336485664862
+1004,Geelong,,
+1005,Gejiu,,
+1006,Gelsenkirchen,9.594444274902344,-0.1605345042246693
+1007,Gemena,,
+1008,General Escobedo,,
+1009,Geneva,9.600523948669434,0.1634276462051112
+1010,Genoa,14.24708366394043,0.2927930651970634
+1011,Gent,10.51531982421875,-0.08531268677621462
+1012,George,,
+1013,Georgetown,,
+1014,Gera,8.498891830444336,0.05004027294662805
+1015,Getafe,12.581672668457031,0.381935956343165
+1016,Ghaziabad,26.171710968017578,0.006366729736328125
+1017,Ghazipur,26.262765884399414,0.016048431396484375
+1018,Gijón,13.71091365814209,0.24915179126667475
+1019,Gilbert,,
+1020,Gillingham,10.54776668548584,-0.05415172037088567
+1021,Girón,,
+1022,Girardot,,
+1023,Giugliano In Campania,15.281587600708008,0.34366611264786684
+1024,Gizeh,,
+1025,Glasgow,7.870716571807861,-0.2685808739572195
+1026,Glazov,2.310798168182373,-0.013390912323793636
+1027,Glendale,,
+1028,Gliwice,8.832867622375488,-0.035812444506950314
+1029,Gloucester,9.373305320739746,-0.1749935671968288
+1030,Godhra,26.243995666503906,0.014713812565457118
+1031,Goiânia,,
+1032,Gojra,,
+1033,Gold Coast,,
+1034,Goma,,
+1035,Gombe,,
+1036,Gomel,7.179912567138672,-0.09797754557627592
+1037,Gonbad E Qabus,,
+1038,Gonda,26.042537689208984,0.016763687133789062
+1039,Gondal,26.636825561523438,0.0051784515380859375
+1040,Gondar,,
+1041,Gongzhuling,,
+1042,Gorakhpur,25.634593963623047,0.019655227661132812
+1043,Gorgan,,
+1044,Gorontalo,,
+1045,Gorzow Wielkopolski,9.327188491821289,-0.17145070669785945
+1046,Governador Valadares,,
+1047,Granada,17.60344123840332,0.4738731384277344
+1048,Grand Prairie,,
+1049,Grand Rapids,9.72319221496582,0.04767283178725279
+1050,Gravataí,,
+1051,Graz,8.40863037109375,0.3308400208095339
+1052,Green Bay,8.349649429321289,0.07005252208349866
+1053,Greensboro,15.368032455444336,-0.03491811788580712
+1054,Grenoble,9.600523948669434,0.1634276462051112
+1055,Grogol,,
+1056,Groningen,9.226312637329102,-0.2910518448307826
+1057,Guaíba,,
+1058,Guacara,,
+1059,Guadalajara,,
+1060,Guadalupe,,
+1061,Guanare,,
+1062,Guangshui,,
+1063,Guangyuan,,
+1064,Guangzhou,,
+1065,Guantánamo,,
+1066,Guarapari,,
+1067,Guarapuava,,
+1068,Guaratinguetá,,
+1069,Guarenas,,
+1070,Guarujá,,
+1071,Guarulhos,,
+1072,Guatemala,,
+1073,Guatemala City,,
+1074,Guatire,,
+1075,Guayaquil,,
+1076,Guaymas,,
+1077,Gudalur,28.418712615966797,-0.04481138501848392
+1078,Gudivada,27.988967895507812,-0.02309504917689864
+1079,Guelph,7.113068580627441,0.09060875694706727
+1080,Guilin,,
+1081,Guiyang,,
+1082,Gujranwala,,
+1083,Gujrat,,
+1084,Gulbarga,27.12727928161621,-0.00941595349992852
+1085,Gulu,,
+1086,Guna,25.970380783081055,0.012105978629438852
+1087,Guntakal,27.56686782836914,-0.02045930226643833
+1088,Guntur,27.988967895507812,-0.02309504917689864
+1089,Gurgaon,26.171710968017578,0.006366729736328125
+1090,Gusau,,
+1091,Guwahati,,
+1092,Gwalior,26.18960189819336,-0.0002704040676952957
+1093,Gweru,,
+1094,Gyor,11.188156127929688,0.24413789893096371
+1095,Gyumri,,
+1096,Hòa Bình,,
+1097,Ha Noi,,
+1098,Haarlem,9.656573295593262,-0.1849310263147892
+1099,Haarlemmermeer,9.656573295593262,-0.1849310263147892
+1100,Habikino,,
+1101,Habra,26.761056900024414,0.02731297151097678
+1102,Hachinohe,,
+1103,Hachioji,,
+1104,Hadano,,
+1105,Hadejia,,
+1106,Hafizabad,,
+1107,Hagen,9.594444274902344,-0.1605345042246693
+1108,Hagonoy,,
+1109,Hai Phong,,
+1110,Haibowan,,
+1111,Haicheng,,
+1112,Haifa,,
+1113,Haikou,,
+1114,Hailar,,
+1115,Hailun,,
+1116,Haimen,,
+1117,Hajipur,26.03864860534668,0.020519256591796875
+1118,Hakodate,,
+1119,Haldia,26.84687042236328,0.020317680430860463
+1120,Haldwani,18.077762603759766,0.012050628662109375
+1121,Halifax,7.403377532958984,0.24970810041681446
+1122,Halisahar,26.761056900024414,0.02731297151097678
+1123,Halle,8.498891830444336,0.05004027294662805
+1124,Hamadan,,
+1125,Hamamatsu,,
+1126,Hamburg,8.813272476196289,-0.3120222955379841
+1127,Hami,,
+1128,Hamilton,9.055183410644531,-1.4205801959307696
+1129,Hamm,9.594444274902344,-0.1605345042246693
+1130,Hampton,16.492578506469727,-0.029669355530248964
+1131,Handa,,
+1132,Handan,,
+1133,Hangu,,
+1134,Hangzhou,,
+1135,Hanoi,,
+1136,Hanover,9.078520774841309,-0.17235510844104773
+1137,Hanumangarh,,
+1138,Hanzhong,,
+1139,Haora,26.761056900024414,0.02731297151097678
+1140,Hapur,26.171710968017578,0.006366729736328125
+1141,Harare,,
+1142,Harbin,,
+1143,Hardoi,25.704683303833008,0.0004329681396484375
+1144,Hargeysa,,
+1145,Haridwar,24.117050170898438,0.0074596405029296875
+1146,Hartford,11.167519569396973,0.1758220875671146
+1147,Hassan,24.836944580078125,-0.019451304844448458
+1148,Hat Yai,,
+1149,Hathras,26.171710968017578,0.006366729736328125
+1150,Hayward,,
+1151,Hazaribag,24.9002628326416,0.018566086178733343
+1152,Hebi,,
+1153,Hefei,,
+1154,Hegang,,
+1155,Heidelberg,9.705833435058594,0.15111947329539177
+1156,Heihe,,
+1157,Heilbronn,9.705833435058594,0.15111947329539177
+1158,Helsinki,4.825056552886963,-0.40726949426363124
+1159,Henderson,,
+1160,Hengshan,,
+1161,Hengshui,,
+1162,Hengyang,,
+1163,Henzada,27.047683715820312,0.04248764829815599
+1164,Herat,,
+1165,Hermosillo,,
+1166,Herne,9.594444274902344,-0.1605345042246693
+1167,Heze,,
+1168,Hialeah,23.533933639526367,-0.035188237826030644
+1169,Higüey,,
+1170,Highlands Ranch,,
+1171,Hikone,,
+1172,Hildesheim,9.078520774841309,-0.17235510844104773
+1173,Himeji,,
+1174,Hindupur,24.836944580078125,-0.019451304844448458
+1175,Hino,,
+1176,Hirakata,,
+1177,Hiratsuka,,
+1178,Hirosaki,,
+1179,Hiroshima,,
+1180,Hisar,,
+1181,Hitachi,,
+1182,Ho Chi Minh City,,
+1183,Hobart,,
+1184,Hofu,,
+1185,Hohhot,,
+1186,Holguín,,
+1187,Hollywood,23.533933639526367,-0.035188237826030644
+1188,Hong Gai,,
+1189,Honggang,,
+1190,Honghu,,
+1191,Horlivka,8.630861282348633,0.020552713016293467
+1192,Hortolândia,,
+1193,Hoshangabad,25.941036224365234,0.01025267101469396
+1194,Hoshiarpur,,
+1195,Hospet,25.366531372070312,-0.009683045886813346
+1196,Hosur,25.02842140197754,-0.024603380475724634
+1197,Houma,,
+1198,Houston,,
+1199,Hrodna,7.00872278213501,-0.2632414907779337
+1200,Hsichih,,
+1201,Hsinchu,,
+1202,Hsintien,,
+1203,Huánuco,,
+1204,Huadian,,
+1205,Huaibei,,
+1206,Huaihua,,
+1207,Huainan,,
+1208,Huaiyin,,
+1209,Huambo,,
+1210,Huancayo,,
+1211,Huangcun,,
+1212,Huangpu,,
+1213,Huangyan,,
+1214,Huangzhou,,
+1215,Hubli,25.366531372070312,-0.009683045886813346
+1216,Huddersfield,8.7952241897583,-0.34976662869723363
+1217,Hue,,
+1218,Huelva,18.325037002563477,0.48017120361328125
+1219,Huicheng,,
+1220,Huixquilucan,,
+1221,Huizhou,,
+1222,Hulan,,
+1223,Hulan Ergi,,
+1224,Humen,,
+1225,Huntington Beach,,
+1226,Huntsville,16.03913116455078,-0.00513341490306729
+1227,Huzhou,,
+1228,Hyderabad,26.921018600463867,0.0010171890258803273
+1229,Iasi,9.676478385925293,0.0702777646622561
+1230,Ibadan,,
+1231,Ibagué,,
+1232,Ibaraki,,
+1233,Ibarra,,
+1234,Ibb,,
+1235,Ibirité,,
+1236,Ica,,
+1237,Ichalkaranji,25.816425323486328,0.002164413815453514
+1238,Ichihara,,
+1239,Ichikawa,,
+1240,Ichinomiya,,
+1241,Idlib,19.632671356201172,0.1443634033203125
+1242,Ife,,
+1243,Igboho,,
+1244,Iguala,,
+1245,Iida,,
+1246,Ijero,,
+1247,Ikare,,
+1248,Ikere,,
+1249,Ikire,,
+1250,Ikirun,,
+1251,Ikole,,
+1252,Ikoma,,
+1253,Ikorodu,,
+1254,Ikot Ekpene,,
+1255,Ila,,
+1256,Ilam,,
+1257,Ilawe,,
+1258,Ilebo,,
+1259,Ilesha,,
+1260,Ilhéus,,
+1261,Iligan,,
+1262,Ilobu,,
+1263,Iloilo,,
+1264,Ilorin,,
+1265,Imabari,,
+1266,Imperatriz,,
+1267,Imphal,,
+1268,Inazawa,,
+1269,Indaiatuba,,
+1270,Independence,13.167661666870117,0.009807861390918049
+1271,Indianapolis,12.439940452575684,0.018422705139043316
+1272,Indore,25.588043212890625,0.014933213733492323
+1273,Indramayu,,
+1274,Inegol,12.600868225097656,0.18959568839036756
+1275,Inglewood,,
+1276,Ingolstadt,8.968754768371582,0.2782214605583331
+1277,Ingraj Bazar,25.975900650024414,0.030246734619140625
+1278,Inisa,,
+1279,Innsbruck,5.770110607147217,0.24686834722194995
+1280,Ipatinga,,
+1281,Ipoh,,
+1282,Ipswich,9.921502113342285,-0.1259336147668222
+1283,Iquique,,
+1284,Iquitos,,
+1285,Iráklion,19.47543716430664,0.2248382568359375
+1286,Iranshahr,,
+1287,Irapuato,,
+1288,Irbid,,
+1289,Irbil,,
+1290,Iringa,,
+1291,Irkutsk,,
+1292,Iruma,,
+1293,Irvine,,
+1294,Irving,,
+1295,Ise,,
+1296,Isehara,,
+1297,Isesaki,,
+1298,Iseyin,,
+1299,Ishinomaki,,
+1300,Isiro,,
+1301,Iskenderun,19.632671356201172,0.1443634033203125
+1302,Islamabad,,
+1303,Ismailia,,
+1304,Isparta,12.99049186706543,0.1744241714477539
+1305,Istanbul,14.486783027648926,0.18231336485664862
+1306,Itaboraí,,
+1307,Itabuna,,
+1308,Itagüí,,
+1309,Itaguaí,,
+1310,Itajaí,,
+1311,Itami,,
+1312,Itapecerica Da Serra,,
+1313,Itapetininga,,
+1314,Itapevi,,
+1315,Itaquaquecetuba,,
+1316,Itarsi,25.941036224365234,0.01025267101469396
+1317,Itu,,
+1318,Ivanovo,4.308075428009033,-0.13043786174846161
+1319,Iwaki,,
+1320,Iwakuni,,
+1321,Iwatsuki,,
+1322,Iwo,,
+1323,Ixtapaluca,,
+1324,Izhevsk,3.0051586627960205,0.004782285527131336
+1325,Izmir,18.164169311523438,0.2238750457763672
+1326,Izmit,14.486783027648926,0.18231336485664862
+1327,Izumi,,
+1328,Jaén,17.60344123840332,0.4738731384277344
+1329,Jaú,,
+1330,Jabalpur,25.708749771118164,0.007163483755928013
+1331,Jaboatão,,
+1332,Jacareí,,
+1333,Jackson,18.641416549682617,-0.04444946194090704
+1334,Jacksonville,21.626869201660156,-0.013704720558774142
+1335,Jacobabad,,
+1336,Jaffna,27.746850967407227,-0.019222277686708367
+1337,Jagadhri,24.117050170898438,0.0074596405029296875
+1338,Jahrom,,
+1339,Jaipur,26.305652618408203,0.008792374264540825
+1340,Jakarta,,
+1341,Jalalabad,,
+1342,Jalandhar,,
+1343,Jalingo,,
+1344,Jalna,25.615386962890625,0.006924629211425781
+1345,Jalpaiguri,22.186540603637695,0.025049209594726562
+1346,Jamalpur,25.336788177490234,0.04168128967285156
+1347,Jamame,,
+1348,Jambi,,
+1349,Jammu,,
+1350,Jamnagar,26.636825561523438,0.0051784515380859375
+1351,Jamshedpur,26.024700164794922,0.0264973730411171
+1352,Jamuria,26.024700164794922,0.0264973730411171
+1353,Jandira,,
+1354,Jaraguá Do Sul,,
+1355,Jaramana,,
+1356,Jaranwala,,
+1357,Jaunpur,26.042537689208984,0.016763687133789062
+1358,Jember,,
+1359,Jequié,,
+1360,Jerez,18.396120071411133,0.5000572204589844
+1361,Jersey City,10.7660493850708,0.07818755994731497
+1362,Jerusalem,,
+1363,Jetpur,26.636825561523438,0.0051784515380859375
+1364,Jhang,,
+1365,Jhansi,25.970380783081055,0.012105978629438852
+1366,Jhelum,,
+1367,Jhunjhunun,26.199323654174805,0.003765106201171875
+1368,Ji Paraná,,
+1369,Jiamusi,,
+1370,Jian,,
+1371,Jiangmen,,
+1372,Jiangyin,,
+1373,Jiangyou,,
+1374,Jiaohe,,
+1375,Jiaojiang,,
+1376,Jiaozhou,,
+1377,Jiaozuo,,
+1378,Jiaxing,,
+1379,Jiayuguan,,
+1380,Jiazi,,
+1381,Jibuti,,
+1382,Jiddah,,
+1383,Jieshi,,
+1384,Jieshou,,
+1385,Jilin,,
+1386,Jimeta,,
+1387,Jimma,,
+1388,Jinan,,
+1389,Jinchang,,
+1390,Jinchengjiang,,
+1391,Jind,,
+1392,Jingdezhen,,
+1393,Jinhua,,
+1394,Jining,,
+1395,Jinxi,,
+1396,Jinzhou,,
+1397,Jiroft,,
+1398,Jishou,,
+1399,Jishu,,
+1400,Jiujiang,,
+1401,Jiupu,,
+1402,Jiutai,,
+1403,Jiutepec,,
+1404,Jixi,,
+1405,João Pessoa,,
+1406,Jodhpur,27.18605613708496,0.010129928588867188
+1407,Joetsu,,
+1408,Johannesburg,,
+1409,Johor Bahru,,
+1410,Joinville,,
+1411,Joliet,11.244667053222656,0.03057279046976369
+1412,Jolo,,
+1413,Jombang,,
+1414,Jos,,
+1415,Juàzeiro,,
+1416,Juarez,,
+1417,Juazeiro Do Norte,,
+1418,Juba,,
+1419,Juiz De Fora,,
+1420,Jujuy,,
+1421,Juliaca,,
+1422,Junagadh,26.636825561523438,0.0051784515380859375
+1423,Jundiaí,,
+1424,Kütahya,12.600868225097656,0.18959568839036756
+1425,Kabankalan,,
+1426,Kabul,,
+1427,Kabwe,,
+1428,Kadoma,,
+1429,Kaduna,,
+1430,Kahramanmaras,14.87967300415039,0.1046895980834961
+1431,Kaifeng,,
+1432,Kaili,,
+1433,Kaithal,,
+1434,Kaiyuan,,
+1435,Kakamigahara,,
+1436,Kakinada,27.753023147583008,-0.022037814912341247
+1437,Kakogawa,,
+1438,Kalemie,,
+1439,Kaliningrad,7.450124263763428,-0.4080086690074989
+1440,Kalisz,8.92819595336914,-0.17227354409559759
+1441,Kallithéa,18.33710479736328,0.2367401123046875
+1442,Kalmunai,27.714719772338867,-0.014189810979935658
+1443,Kalol,27.185630798339844,0.00852203369140625
+1444,Kaluga,5.487555503845215,-0.10229738658329257
+1445,Kalyan,25.463857650756836,0.007403182983399148
+1446,Kamagaya,,
+1447,Kamakura,,
+1448,Kamalia,,
+1449,Kamarhati,26.761056900024414,0.02731297151097678
+1450,Kamensk Uralskiy,,
+1451,Kamoke,,
+1452,Kampala,,
+1453,Kamyshin,6.95011043548584,-0.0021366659200419136
+1454,Kananga,,
+1455,Kanchipuram,28.75031852722168,-0.045692652747746365
+1456,Kanchrapara,26.761056900024414,0.02731297151097678
+1457,Kandi,,
+1458,Kandy,26.015480041503906,-0.013515690394811486
+1459,Kankan,,
+1460,Kano,,
+1461,Kanpur,25.704683303833008,0.0004329681396484375
+1462,Kansas City,13.167661666870117,0.009807861390918049
+1463,Kansk,,
+1464,Kaohsiung,,
+1465,Kaolack,,
+1466,Kapra,27.228721618652344,-0.01832871210007525
+1467,Karachi,26.783039093017578,-0.007507549188076723
+1468,Karaj,,
+1469,Karaman,11.621105194091797,0.15672588348388672
+1470,Karamay,,
+1471,Karang Tengah,,
+1472,Karawang,,
+1473,Karimnagar,27.83600425720215,-0.011939066932313835
+1474,Kariya,,
+1475,Karlsruhe,10.015486717224121,0.09480283485268615
+1476,Karnal,24.117050170898438,0.0074596405029296875
+1477,Kashan,,
+1478,Kashi,,
+1479,Kashihara,,
+1480,Kashipur,18.077762603759766,0.012050628662109375
+1481,Kashiwa,,
+1482,Kassala,,
+1483,Kassel,9.028719902038574,0.01696258041094012
+1484,Kasuga,,
+1485,Kasugai,,
+1486,Kasukabe,,
+1487,Kasur,,
+1488,Kathmandu,15.485403060913086,-0.0036554336547851562
+1489,Katihar,26.28045654296875,0.029092788696289062
+1490,Katowice,8.832867622375488,-0.035812444506950314
+1491,Katsina,,
+1492,Katumba,,
+1493,Kaunas,6.830940246582031,-0.3888902101876601
+1494,Kawagoe,,
+1495,Kawaguchi,,
+1496,Kawanishi,,
+1497,Kawasaki,,
+1498,Kayseri,10.108200073242188,0.13288021087646484
+1499,Kazan,4.793765068054199,-0.04104063016063719
+1500,Kebumen,,
+1501,Kecskemét,11.044191360473633,0.17000992073202958
+1502,Kediri,,
+1503,Kedungwuni,,
+1504,Keelung,,
+1505,Kelowna,,
+1506,Kemang,,
+1507,Kemerovo,,
+1508,Kendari,,
+1509,Kenitra,18.424266815185547,0.48136329650878906
+1510,Kerch,11.61408519744873,0.07547479665504397
+1511,Kerman,,
+1512,Kermanshah,,
+1513,Khabarovsk,,
+1514,Khairpur,,
+1515,Khammam,27.988967895507812,-0.02309504917689864
+1516,Khandwa,26.421295166015625,0.008182389395578582
+1517,Khanewal,,
+1518,Khanna,,
+1519,Khanpur,,
+1520,Kharagpur,26.84687042236328,0.020317680430860463
+1521,Khardaha,26.761056900024414,0.02731297151097678
+1522,Khartoum,,
+1523,Kherson,10.096135139465332,0.051674020515298125
+1524,Khimki,5.123537063598633,-0.14208798948323942
+1525,Khlong Luang,,
+1526,Khomeynishahr,,
+1527,Khon Kaen,,
+1528,Khorramabad,,
+1529,Khorramshahr,,
+1530,Khoy,,
+1531,Khujand,,
+1532,Khulna,26.183879852294922,0.027882099151611328
+1533,Khurja,26.171710968017578,0.006366729736328125
+1534,Khushab,,
+1535,Khuzdar,,
+1536,Kiel,8.813272476196289,-0.3120222955379841
+1537,Kielce,8.507807731628418,-0.06814573845773353
+1538,Kiev,8.218008995056152,-0.04348514619863231
+1539,Kigali,,
+1540,Kigoma,,
+1541,Kikwit,,
+1542,Killeen,,
+1543,Kimberley,,
+1544,Kindia,,
+1545,Kindu,,
+1546,Kingston,7.877784729003906,-6.775227285556074
+1547,Kingston Upon Hull,8.7952241897583,-0.34976662869723363
+1548,Kinshasa,,
+1549,Kirkuk,,
+1550,Kirov,3.1426568031311035,-0.04954179120513613
+1551,Kirovohrad,8.584285736083984,0.009455403741799984
+1552,Kiryu,,
+1553,Kisangani,,
+1554,Kisaran,,
+1555,Kisarazu,,
+1556,Kishi,,
+1557,Kishiwada,,
+1558,Kislovodsk,8.630860328674316,0.06089019775390625
+1559,Kismayo,,
+1560,Kisumu,,
+1561,Kitakyushu,,
+1562,Kitami,,
+1563,Kitchener,7.113068580627441,0.09060875694706727
+1564,Kitwe,,
+1565,Klaipeda,7.450124263763428,-0.4080086690074989
+1566,Klang,,
+1567,Klaten,,
+1568,Klerksdorp,,
+1569,Kluang,,
+1570,Knoxville,13.900813102722168,-0.017837078399077555
+1571,Kobe,,
+1572,Koblenz,9.58016300201416,-0.021500294163541156
+1573,Kochi,26.808897018432617,-0.018389169986431142
+1574,Kodaira,,
+1575,Koganei,,
+1576,Kohat,,
+1577,Koidu,,
+1578,Kokubunji,,
+1579,Kolar,26.41895294189453,-0.03296974727085811
+1580,Kolhapur,25.816425323486328,0.002164413815453514
+1581,Kollam,26.31475830078125,-0.015162147008457083
+1582,Kolomna,5.3709211349487305,-0.1057641515191996
+1583,Kolpino,4.566286087036133,-0.38445784753223666
+1584,Komaki,,
+1585,Komatsu,,
+1586,Komsomolsk Na Amure,,
+1587,Konan,,
+1588,Konya,11.621105194091797,0.15672588348388672
+1589,Korba,26.598772048950195,0.003492291768392164
+1590,Korhogo,,
+1591,Koriyama,,
+1592,Korla,,
+1593,Koronadal,,
+1594,Koshigaya,,
+1595,Kosice,8.648335456848145,0.04551273651842713
+1596,Kostroma,4.308075428009033,-0.13043786174846161
+1597,Koszalin,8.461454391479492,-0.3352459574645419
+1598,Kot Addu,,
+1599,Kota,26.980100631713867,0.0056362152099609375
+1600,Kota Bahru,,
+1601,Kota Kinabalu,,
+1602,Kotte,26.015480041503906,-0.013515690394811486
+1603,Kousséri,,
+1604,Kovrov,4.644656658172607,-0.08911850587377046
+1605,Kpalimé,,
+1606,Kragujevac,11.391117095947266,0.2715035438537594
+1607,Krasnodar,11.946971893310547,0.05893894951298506
+1608,Krasnoyarsk,,
+1609,Krefeld,9.58016300201416,-0.021500294163541156
+1610,Kremenchuk,8.850591659545898,0.005502994555348195
+1611,Kresek,,
+1612,Krishnanagar,26.761056900024414,0.02731297151097678
+1613,Kroonstad,,
+1614,Krugersdorp,,
+1615,Kryvyy Rih,10.042252540588379,0.04200378543925787
+1616,Kuala Lumpur,,
+1617,Kuala Terengganu,,
+1618,Kuantan,,
+1619,Kuching,,
+1620,Kuhdasht,,
+1621,Kuito,,
+1622,Kulim,,
+1623,Kulti,26.024700164794922,0.0264973730411171
+1624,Kumagaya,,
+1625,Kumanovo,10.903602600097656,0.26133980481129804
+1626,Kumasi,,
+1627,Kumba,,
+1628,Kumbakonam,28.24704933166504,-0.029304567972818774
+1629,Kunming,,
+1630,Kupang,,
+1631,Kurashiki,,
+1632,Kure,,
+1633,Kurgan,,
+1634,Kursk,6.194879055023193,-0.06748813143316301
+1635,Kurume,,
+1636,Kusatsu,,
+1637,Kusti,,
+1638,Kuwana,,
+1639,Kuytun,,
+1640,Kwekwe,,
+1641,Kyzyl,,
+1642,Lárisa,16.569902420043945,0.2644331806110891
+1643,López Mateos,,
+1644,Lübeck,8.813272476196289,-0.3120222955379841
+1645,La Ceiba,,
+1646,La Paz,,
+1647,La Plata,,
+1648,La Rioja,,
+1649,La Romana,,
+1650,La Serena,,
+1651,La Vega,,
+1652,Lafayette,,
+1653,Lafia,,
+1654,Lafiagi,,
+1655,Lages,,
+1656,Lagos,,
+1657,Lahad Datu,,
+1658,Lahore,,
+1659,Laiwu,,
+1660,Laiyang,,
+1661,Lakewood,,
+1662,Lakhimpur,24.42346954345703,0.01067605349096823
+1663,Lakhnau,25.704683303833008,0.0004329681396484375
+1664,Lalitpur,20.08477783203125,-0.010040955842981703
+1665,Lambaré,,
+1666,Lampang,,
+1667,Lancaster,,
+1668,Langfang,,
+1669,Lansing,9.72319221496582,0.04767283178725279
+1670,Lanzhou,,
+1671,Laoag,,
+1672,Laohekou,,
+1673,Lapu Lapu,,
+1674,Laredo,,
+1675,Larkana,,
+1676,Las Palmas,20.532657623291016,0.19329524152155741
+1677,Las Tunas,,
+1678,Las Vegas,,
+1679,Lasa,,
+1680,Lashio,,
+1681,Latina,16.96621322631836,0.3453697708417778
+1682,Latur,26.640790939331055,0.0010623841058645667
+1683,Lausanne,9.600523948669434,0.1634276462051112
+1684,Lawang,,
+1685,León,12.147278785705566,-3.9599178494147544
+1686,Le Havre,10.856691360473633,0.02152308518031809
+1687,Le Mans,11.629853248596191,0.08104307426596513
+1688,Leeds,8.7952241897583,-0.34976662869723363
+1689,Leganés,12.581672668457031,0.381935956343165
+1690,Legaspi,,
+1691,Leghorn,13.104381561279297,0.28531394634606677
+1692,Legnica,8.291875839233398,0.01644314819911763
+1693,Leicester,9.921502113342285,-0.1259336147668222
+1694,Leiden,9.656573295593262,-0.1849310263147892
+1695,Leipzig,8.498891830444336,0.05004027294662805
+1696,Leiyang,,
+1697,Lembang,,
+1698,Lemesos,19.874202728271484,0.15470123291015625
+1699,Lengshuijiang,,
+1700,Leninsk Kuznetskiy,,
+1701,Leshan,,
+1702,Leuwiliang,,
+1703,Leverkusen,9.58016300201416,-0.021500294163541156
+1704,Lexington Fayette,14.121134757995605,0.004441047349356353
+1705,Liège,9.58016300201416,-0.021500294163541156
+1706,Liancheng,,
+1707,Lianran,,
+1708,Liaocheng,,
+1709,Liaoyang,,
+1710,Libreville,,
+1711,Licheng,,
+1712,Lichinga,,
+1713,Likasi,,
+1714,Lille,10.51531982421875,-0.08531268677621462
+1715,Lilongwe,,
+1716,Lima,,
+1717,Limeira,,
+1718,Limoges,11.413178443908691,0.1683933402007476
+1719,Linchuan,,
+1720,Lincoln,11.524758338928223,0.004503137238170751
+1721,Linfen,,
+1722,Linhai,,
+1723,Linhares,,
+1724,Linqing,,
+1725,Linshui,,
+1726,Linxi,,
+1727,Linxia,,
+1728,Linz,8.142858505249023,0.24402855837120185
+1729,Lipa,,
+1730,Lipetsk,6.301098823547363,-0.048668666155832874
+1731,Lira,,
+1732,Lisbon,16.54544448852539,0.41173553466796875
+1733,Little Rock,17.43242835998535,-0.02054036301349882
+1734,Liusha,,
+1735,Liuzhou,,
+1736,Liverpool,9.451807975769043,-0.2708700539930806
+1737,Livingstone,,
+1738,Ljubljana,10.786163330078125,0.3323783244726801
+1739,Lleida,15.634329795837402,0.3670339116510348
+1740,Loa Janan,,
+1741,Lobito,,
+1742,Logroño,12.682516098022461,0.3146203185027492
+1743,Loja,,
+1744,London,9.194697380065918,-0.028510497028666038
+1745,Londrina,,
+1746,Long Beach,,
+1747,Long Xuyên,,
+1748,Longfeng,,
+1749,Longjiang,,
+1750,Longjing,,
+1751,Longyan,,
+1752,Loni,26.171710968017578,0.006366729736328125
+1753,Los Angeles,,
+1754,Los Mochis,,
+1755,Los Reyes,,
+1756,Los Teques,,
+1757,Loudi,,
+1758,Louga,,
+1759,Louisville,14.121134757995605,0.004441036470941739
+1760,Loum,,
+1761,Lowell,8.827155113220215,0.2607408873028625
+1762,Lower Hutt,,
+1763,Luan,,
+1764,Luancheng,,
+1765,Luanda,,
+1766,Luanshya,,
+1767,Lubango,,
+1768,Lubbock,,
+1769,Lublin,8.507807731628418,-0.06814573845773353
+1770,Lubumbashi,,
+1771,Lucena,,
+1772,Luchou,,
+1773,Ludhiana,,
+1774,Ludwigshafen,10.015486717224121,0.09480283485268615
+1775,Lumajang,,
+1776,Luohe,,
+1777,Luoyang,,
+1778,Luqiao,,
+1779,Luque,,
+1780,Lusaka,,
+1781,Luton,9.921502113342285,-0.1259336147668222
+1782,Luxor,,
+1783,Luzhou,,
+1784,Luziânia,,
+1785,Lvov,8.232300758361816,-0.07076531266266528
+1786,Lyon,9.600523948669434,0.1634276462051112
+1787,Lyubertsy,5.123537063598633,-0.14208798948323942
+1788,Málaga,18.115049362182617,0.48565673828125
+1789,Médéa,18.133331298828125,0.435791015625
+1790,Mérida,,
+1791,Móstoles,12.581672668457031,0.381935956343165
+1792,Mönchengladbach,9.58016300201416,-0.021500294163541156
+1793,Mülheim,9.58016300201416,-0.021500294163541156
+1794,Münster,9.594444274902344,-0.1605345042246693
+1795,Maanshan,,
+1796,Maastricht,9.58016300201416,-0.021500294163541156
+1797,Maba,,
+1798,Mabalacat,,
+1799,Macaé,,
+1800,Macapá,,
+1801,Maceió,,
+1802,Machala,,
+1803,Macheng,,
+1804,Machida,,
+1805,Machilipatnam,28.57583236694336,-0.038719258989605265
+1806,Madanapalle,26.41895294189453,-0.03296974727085811
+1807,Madhyamgram,26.761056900024414,0.02731297151097678
+1808,Madison,9.479264259338379,0.059660432248746176
+1809,Madiun,,
+1810,Madras,28.75031852722168,-0.045692652747746365
+1811,Madrid,12.581672668457031,0.381935956343165
+1812,Madurai,25.496929168701172,-0.024891390119279322
+1813,Magé,,
+1814,Magangué,,
+1815,Magdeburg,9.078520774841309,-0.1723551120398188
+1816,Magelang,,
+1817,Magnitogorsk,,
+1818,Mahabad,,
+1819,Mahajanga,,
+1820,Mahbubnagar,27.228721618652344,-0.01832871210007525
+1821,Mahesana,27.185630798339844,0.00852203369140625
+1822,Maicao,,
+1823,Maiduguri,,
+1824,Mainz,9.028719902038574,0.01696258041094012
+1825,Maisuru,25.02842140197754,-0.024603380475724634
+1826,Majalaya,,
+1827,Makasar,,
+1828,Makati,,
+1829,Makhachkala,,
+1830,Makiyivka,10.240324020385742,0.03828978088666801
+1831,Makurdi,,
+1832,Malabo,,
+1833,Malakal,,
+1834,Malambo,,
+1835,Malang,,
+1836,Malatya,,
+1837,Malegaon,25.615386962890625,0.006924629211425781
+1838,Maler Kotla,,
+1839,Malmö,7.793999671936035,-0.4310227376110145
+1840,Malolos,,
+1841,Man,,
+1842,Manado,,
+1843,Managua,,
+1844,Manama,,
+1845,Manaus,,
+1846,Manbij,,
+1847,Manchester,8.167081832885742,-0.023855116582454983
+1848,Mandalay,,
+1849,Mandaue,,
+1850,Mandi Bahauddin,,
+1851,Mandsaur,25.87972640991211,0.010074129291609779
+1852,Mandya,25.02842140197754,-0.024603380475724634
+1853,Mangaluru,25.406036376953125,-0.00979483468191944
+1854,Manila,,
+1855,Manisa,16.529874801635742,0.1990461566231474
+1856,Manizales,,
+1857,Mannheim,10.015486717224121,0.09480283485268615
+1858,Manta,,
+1859,Manzanillo,,
+1860,Manzini,,
+1861,Maoming,,
+1862,Maputo,,
+1863,Marília,,
+1864,Mar Del Plata,,
+1865,Marabá,,
+1866,Maracaibo,,
+1867,Maracanaú,,
+1868,Maracay,,
+1869,Maradi,,
+1870,Maragheh,,
+1871,Marand,,
+1872,Marawi,,
+1873,Marbella,18.115049362182617,0.48565673828125
+1874,Mardan,,
+1875,Mariara,,
+1876,Maringá,,
+1877,Marivan,,
+1878,Maroua,,
+1879,Marrakesh,18.618619918823242,0.34776410189541807
+1880,Marseille,16.15536117553711,0.315291678230718
+1881,Martapura,,
+1882,Marv Dasht,,
+1883,Masaya,,
+1884,Maseru,,
+1885,Mashhad,,
+1886,Masjed E Soleyman,,
+1887,Matadi,,
+1888,Matamoros,,
+1889,Matanzas,,
+1890,Mataró,17.062545776367188,0.35597838635714396
+1891,Mataram,,
+1892,Mathura,26.171710968017578,0.006366729736328125
+1893,Matola,,
+1894,Matsubara,,
+1895,Matsudo,,
+1896,Matsumoto,,
+1897,Matsusaka,,
+1898,Maturín,,
+1899,Mau,25.634593963623047,0.019655227661132812
+1900,Mauá,,
+1901,Mawlamyine,26.824670791625977,0.044659704532264755
+1902,Maxixe,,
+1903,Maykop,10.777175903320312,0.06925041228532791
+1904,Maymyo,,
+1905,Mazatlán,,
+1906,Mazyr,7.444560527801514,-0.11206121197286656
+1907,Mbandaka,,
+1908,Mbeya,,
+1909,Mbouda,,
+1910,Mbour,,
+1911,Mbuji Mayi,,
+1912,Mecca,,
+1913,Medan,,
+1914,Medellín,,
+1915,Meiktila,27.319107055664062,0.0435226098546444
+1916,Meilu,,
+1917,Mejicanos,,
+1918,Melaka,,
+1919,Melbourne,,
+1920,Memphis,17.108205795288086,0.02010212742330353
+1921,Mendoza,,
+1922,Mentougou,,
+1923,Mercedes,,
+1924,Mergui,,
+1925,Mersin,18.4622802734375,0.1364765167236328
+1926,Mesa,,
+1927,Mesquite,,
+1928,Messina,17.82095718383789,0.336535687716502
+1929,Metairie,20.971832275390625,-0.11596728522996358
+1930,Metepec,,
+1931,Metro,,
+1932,Metz,10.015486717224121,0.09480283485268615
+1933,Mexicali,,
+1934,Mexico,,
+1935,Meycauayan,,
+1936,Mezhdurechensk,,
+1937,Miami,23.533933639526367,-0.035188237826030644
+1938,Miandoab,,
+1939,Mianyang,,
+1940,Miass,,
+1941,Middelburg,,
+1942,Middlesbrough,8.7952241897583,-0.34976662869723363
+1943,Midrand,,
+1944,Milagro,,
+1945,Milan,7.900254726409912,0.23349317154794402
+1946,Milwaukee,11.10434341430664,0.04007201104793978
+1947,Minatitlán,,
+1948,Mingaora,,
+1949,Mingshui,,
+1950,Minna,,
+1951,Minneapolis,6.67225980758667,0.10807493407771229
+1952,Minsk,6.3646416664123535,-0.1834940249627488
+1953,Miramar,23.533933639526367,-0.035188237826030644
+1954,Miri,,
+1955,Mirpur Khas,27.49698829650879,0.011699676513671875
+1956,Mirzapur,26.262765884399414,0.016048431396484375
+1957,Misato,,
+1958,Mishima,,
+1959,Miskolc,11.044191360473633,0.17000991713325853
+1960,Misratah,20.67184066772461,0.32505226135253906
+1961,Mitaka,,
+1962,Mixco,,
+1963,Miyakonojo,,
+1964,Mobile,19.16559410095215,-0.0537318312775561
+1965,Modakeke,,
+1966,Modena,13.104381561279297,0.28531394634606677
+1967,Modesto,,
+1968,Moers,9.58016300201416,-0.021500294163541156
+1969,Moga,,
+1970,Mogadishu,,
+1971,Moji Das Cruzes,,
+1972,Mojokerto,,
+1973,Mokolo,,
+1974,Mombasa,,
+1975,Monclova,,
+1976,Monrovia,,
+1977,Montalban,,
+1978,Montería,,
+1979,Monterrey,,
+1980,Montes Claros,,
+1981,Montevideo,,
+1982,Montgomery,18.007116317749023,0.0021634700180470645
+1983,Montpellier,12.422080039978027,0.25719682405579825
+1984,Montreal,6.172474384307861,0.23652368581519934
+1985,Monywa,25.276851654052734,0.032658046146607944
+1986,Monza,10.545774459838867,0.22803743830266932
+1987,Mopti,,
+1988,Moradabad,25.753948211669922,0.009218215942382812
+1989,Moratuwa,26.015480041503906,-0.013515690394811486
+1990,Morelia,,
+1991,Morena,26.18960189819336,-0.0002704040676952957
+1992,Moreno Valley,,
+1993,Moriguchi,,
+1994,Mormugao,25.907501220703125,-0.0029233478364503185
+1995,Morogoro,,
+1996,Morvi,27.265056610107422,0.0015869140625
+1997,Moscow,5.123537063598633,-0.14208798948323942
+1998,Moshi,,
+1999,Mossoró,,
+2000,Mostar,16.974695205688477,0.3193624496459968
+2001,Motihari,25.634593963623047,0.019655227661132812
+2002,Moundou,,
+2003,Mubi,,
+2004,Mudanjiang,,
+2005,Mufulira,,
+2006,Mulhouse,7.8296284675598145,0.15524916918772558
+2007,Multan,,
+2008,Munger,26.28045654296875,0.029092788696289062
+2009,Munich,5.770110607147217,0.24686834722194995
+2010,Murcia,16.66396713256836,0.4516496148728244
+2011,Muridke,,
+2012,Murmansk,-0.7336665391921997,-0.06331691796065497
+2013,Murom,5.1678266525268555,-0.07008147329654335
+2014,Murwara,25.04845428466797,0.006054197038924514
+2015,Musashino,,
+2016,Musoma,,
+2017,Mutare,,
+2018,Muzaffargarh,,
+2019,Muzaffarnagar,24.117050170898438,0.0074596405029296875
+2020,Muzaffarpur,24.465896606445312,0.021734237670898438
+2021,Mwanza,,
+2022,Mwene Ditu,,
+2023,My Tho,,
+2024,Myingyan,,
+2025,Mytishchi,5.123537063598633,-0.14208798948323942
+2026,Nîmes,12.422080039978027,0.25719682405579825
+2027,Nacala,,
+2028,Nadiad,27.185630798339844,0.00852203369140625
+2029,Nador,17.75553321838379,0.4583454132080078
+2030,Naga,,
+2031,Nagaoka,,
+2032,Nagareyama,,
+2033,Nagda,25.588043212890625,0.014933213733492323
+2034,Nagercoil,26.31475830078125,-0.015162147008457083
+2035,Nagoya,,
+2036,Nagpur,26.25730323791504,0.00475514729817661
+2037,Naihati,26.761056900024414,0.02731297151097678
+2038,Nairobi,,
+2039,Najran,,
+2040,Nakhodka,,
+2041,Nakhon Pathom,,
+2042,Nakhon Ratchasima,,
+2043,Nakhon Si Thammarat,,
+2044,Nakuru,,
+2045,Nalchik,,
+2046,Nalgonda,27.228721618652344,-0.01832871210007525
+2047,Nam Dinh,,
+2048,Namangan,,
+2049,Nampula,,
+2050,Namur,10.51531982421875,-0.08531268677621462
+2051,Nancha,,
+2052,Nanchang,,
+2053,Nanchong,,
+2054,Nancy,10.015486717224121,0.09480283485268615
+2055,Nanded,27.274517059326172,-0.0048000971476227505
+2056,Nandurbar,26.91987419128418,0.010683967953635687
+2057,Nandyal,28.299165725708008,-0.030340276445659953
+2058,Nangloi Jat,26.171710968017578,0.006366729736328125
+2059,Nanjing,,
+2060,Nanning,,
+2061,Nanpiao,,
+2062,Nantes,12.023782730102539,0.09953162895058654
+2063,Nantong,,
+2064,Nantou,,
+2065,Nanyang,,
+2066,Naperville,11.244667053222656,0.03057279046976369
+2067,Naples,15.281587600708008,0.34366611264786684
+2068,Narashino,,
+2069,Narayanganj,26.183879852294922,0.027882099151611328
+2070,Narita,,
+2071,Narsingdi,26.183879852294922,0.027882099151611328
+2072,Nashville,15.348784446716309,0.013447721648125466
+2073,Nassau,25.08012580871582,-0.0623797518866418
+2074,Natal,,
+2075,Naucalpan,,
+2076,Navadwip,26.761056900024414,0.02731297151097678
+2077,Navoi,,
+2078,Navsari,25.463857650756836,0.007403182983399148
+2079,Nawabganj,25.975900650024414,0.030246734619140625
+2080,Nawabshah,,
+2081,Nazilli,16.128305435180664,0.18871784210205078
+2082,Nazran,11.327162742614746,0.0336073345608181
+2083,Nazret,,
+2084,Ndola,,
+2085,Neftekamsk,3.705796957015991,0.010847215416766698
+2086,Nefteyugansk,,
+2087,Negombo,26.015480041503906,-0.013515690394811486
+2088,Nehe,,
+2089,Neijiang,,
+2090,Neiva,,
+2091,Nelspruit,,
+2092,Netanya,,
+2093,Neuquen,,
+2094,Neuss,9.58016300201416,-0.021500294163541156
+2095,Nevinnomyssk,8.630860328674316,0.06089019775390625
+2096,New Delhi,26.171710968017578,0.006366729736328125
+2097,New Haven,11.167519569396973,0.1758220875671146
+2098,New Orleans,20.971832275390625,-0.11596728522996358
+2099,New York,10.7660493850708,0.07818755994731497
+2100,Newark,10.7660493850708,0.07818755994731497
+2101,Newcastle,,
+2102,Newcastle Upon Tyne,7.870716571807861,-0.26858088115476164
+2103,Newport,9.373305320739746,-0.1749935671968288
+2104,Newport News,14.667121887207031,-0.04704750445405814
+2105,Neyagawa,,
+2106,Neyshabur,,
+2107,Neyveli,27.537517547607422,-0.03596629188174205
+2108,Nezahualcóyotl,,
+2109,Ngaoundéré,,
+2110,Nguru,,
+2111,Nha Trang,,
+2112,Niamey,,
+2113,Nice,10.137490272521973,0.2812105898587216
+2114,Nicolás Romero,,
+2115,Nigel,,
+2116,Niigata,,
+2117,Niihama,,
+2118,Niiza,,
+2119,Nijmegen,9.656573295593262,-0.18493103711110237
+2120,Nilópolis,,
+2121,Ningbo,,
+2122,Nis,10.903602600097656,0.26133980481129804
+2123,Nishinomiya,,
+2124,Nishio,,
+2125,Niterói,,
+2126,Nizamabad,27.274517059326172,-0.0048000971476227505
+2127,Nizhnekamsk,4.279224395751953,-0.005945572381690134
+2128,Nizhnevartovsk,,
+2129,Nizhniy Novgorod,4.644656658172607,-0.08911850587377046
+2130,Nizhniy Tagil,,
+2131,Nkongsamba,,
+2132,Nkpor,,
+2133,Nnewi,,
+2134,Nobeoka,,
+2135,Noda,,
+2136,Nogales,,
+2137,Noginsk,5.3709211349487305,-0.1057641515191996
+2138,Nonthaburi,,
+2139,Norfolk,16.492578506469727,-0.029669355530248964
+2140,Norilsk,,
+2141,Norman,,
+2142,North Las Vegas,,
+2143,North Shore,,
+2144,Northampton,9.921502113342285,-0.1259336147668222
+2145,Norwalk,,
+2146,Norwich,9.921502113342285,-0.1259336147668222
+2147,Nossa Senhora Do Socorro,,
+2148,Nottingham,8.7952241897583,-0.34976662869723363
+2149,Nouakchott,,
+2150,Nova Friburgo,,
+2151,Nova Iguaçu,,
+2152,Novara,7.900254726409912,0.23349317154794402
+2153,Novi Sad,11.953727722167969,0.25695012470461265
+2154,Novo Hamburgo,,
+2155,Novocheboksarsk,4.793765068054199,-0.04104063016063719
+2156,Novocherkassk,10.240324020385742,0.03828978088666801
+2157,Novokuznetsk,,
+2158,Novomoskovsk,5.579939365386963,-0.08069585044428962
+2159,Novorossiysk,13.878291130065918,0.09069964550293896
+2160,Novosibirsk,,
+2161,Novotroitsk,,
+2162,Nsukka,,
+2163,Nueva San Salvador,,
+2164,Nuevo Laredo,,
+2165,Nukus,,
+2166,Numazu,,
+2167,Nuremberg,8.968754768371582,0.2782214497620199
+2168,Nyíregyháza,10.331692695617676,0.1249646978558232
+2169,Nzérékoré,,
+2170,Oakland,,
+2171,Oaxaca,,
+2172,Oberhausen,9.58016300201416,-0.021500294163541156
+2173,Obihiro,,
+2174,Obninsk,5.123537063598633,-0.14208798948323942
+2175,Obosi,,
+2176,Obregon,,
+2177,Obuasi,,
+2178,Oceanside,,
+2179,Ocumare Del Tuy,,
+2180,Odawara,,
+2181,Odense,8.264211654663086,-0.42150829603087203
+2182,Odesa,11.498823165893555,0.09335051482578471
+2183,Odintsovo,5.123537063598633,-0.14208798948323942
+2184,Offa,,
+2185,Offenbach,9.028719902038574,0.01696258041094012
+2186,Ogaki,,
+2187,Ogbomosho,,
+2188,Okara,,
+2189,Okazaki,,
+2190,Oklahoma City,,
+2191,Okrika,,
+2192,Oktyabrskiy,4.242212772369385,0.018681843772188955
+2193,Olathe,13.229276657104492,-0.011234175565554949
+2194,Oldenburg,9.594444274902344,-0.1605345042246693
+2195,Oldham,8.7952241897583,-0.34976662869723363
+2196,Olinda,,
+2197,Olomouc,9.235091209411621,0.16455442590533487
+2198,Olongapo,,
+2199,Olsztyn,7.653296947479248,-0.3000771639482034
+2200,Omaha,11.524758338928223,0.004503137238170751
+2201,Ome,,
+2202,Omsk,,
+2203,Omuta,,
+2204,Ondo,,
+2205,Ongole,28.57583236694336,-0.038719258989605265
+2206,Onitsha,,
+2207,Ontario,,
+2208,Opobo,,
+2209,Opole,8.832867622375488,-0.035812444506950314
+2210,Orël,6.194879055023193,-0.06748813143316301
+2211,Oradea,10.331692695617676,0.1249646978558232
+2212,Orai,26.18960189819336,-0.0002704040676952957
+2213,Orange,,
+2214,Ordu,12.759488105773926,0.1071515205578919
+2215,Orekhovo Zuevo,5.3709211349487305,-0.1057641515191996
+2216,Orizaba,,
+2217,Orkney,,
+2218,Orléans,11.629853248596191,0.08104307426596513
+2219,Orlando,22.86634635925293,-0.0027662429519494935
+2220,Oron,,
+2221,Orsha,6.075591564178467,-0.16064476561996166
+2222,Orsk,,
+2223,Orumiyeh,,
+2224,Oruro,,
+2225,Osasco,,
+2226,Oshawa,7.383966445922852,0.11347302265887027
+2227,Oshogbo,,
+2228,Oslo,2.897425413131714,-0.4021922871751604
+2229,Osmaniye,14.87967300415039,0.1046895980834961
+2230,Osnabrück,9.594444274902344,-0.1605345042246693
+2231,Osorno,,
+2232,Ostrava,8.832867622375488,-0.035812444506950314
+2233,Ota,,
+2234,Otaru,,
+2235,Ottawa,5.611653804779053,0.20035040153647365
+2236,Otukpo,,
+2237,Ouagadougou,,
+2238,Oulu,2.3703222274780273,-0.17151291389281864
+2239,Overland Park,13.167661666870117,0.009807861390918049
+2240,Oviedo,12.147278785705566,0.3196066370550188
+2241,Owerri,,
+2242,Owo,,
+2243,Oxford,9.921502113342285,-0.1259336147668222
+2244,Oxnard,,
+2245,Oyama,,
+2246,Oyo,,
+2247,Pátrai,15.676582336425781,0.2569619959050957
+2248,Pécs,12.019518852233887,0.2941938562213249
+2249,Pétionville,,
+2250,Pôrto Seguro,,
+2251,Pôrto Velho,,
+2252,Paarl,,
+2253,Pabna,26.183879852294922,0.027882099151611328
+2254,Pacet,,
+2255,Pachuca,,
+2256,Padalarang,,
+2257,Padang,,
+2258,Paderborn,9.594444274902344,-0.1605345042246693
+2259,Padova,12.69031047821045,0.31194145994366274
+2260,Pagadian,,
+2261,Pak Kret,,
+2262,Pakokku,25.276851654052734,0.032658046146607944
+2263,Pakpattan,,
+2264,Palakkad,26.808897018432617,-0.018389169986431142
+2265,Palanpur,25.10956382751465,0.01366927493270964
+2266,Palembang,,
+2267,Palermo,16.44361114501953,0.3523559066484552
+2268,Palhoça,,
+2269,Pali,27.18605613708496,0.010129928588867188
+2270,Pallavaram,28.75031852722168,-0.045692652747746365
+2271,Palma,18.123029708862305,0.3917708342930055
+2272,Palma Soriano,,
+2273,Palmas,,
+2274,Palmdale,,
+2275,Palmira,,
+2276,Palo Negro,,
+2277,Palu,,
+2278,Palwal,26.171710968017578,0.006366729736328125
+2279,Pamanukan,,
+2280,Pamplona,12.682516098022461,0.3146203185027492
+2281,Pamulang,,
+2282,Panamá,,
+2283,Panchiao,,
+2284,Panevezys,6.2238640785217285,-0.32525893877137424
+2285,Pangkah,,
+2286,Panihati,26.761056900024414,0.02731297151097678
+2287,Panipat,24.117050170898438,0.0074596405029296875
+2288,Panvel,26.8622989654541,0.00454489390055457
+2289,Panzhihua,,
+2290,Paradise,,
+2291,Parakou,,
+2292,Paramaribo,,
+2293,Parana,,
+2294,Paranaguá,,
+2295,Parbhani,27.058208465576172,0.004157238914853423
+2296,Paris,11.09526252746582,-0.017877271040431353
+2297,Parma,13.104381561279297,0.28531394634606677
+2298,Parnaíba,,
+2299,Parnamirim,,
+2300,Parsabad,,
+2301,Parung,,
+2302,Pasadena,,
+2303,Pasarkemis,,
+2304,Paseh,,
+2305,Pasir Gudang,,
+2306,Passo Fundo,,
+2307,Pasto,,
+2308,Pasuruan,,
+2309,Patan,27.185630798339844,0.00852203369140625
+2310,Pate,,
+2311,Paterson,10.7660493850708,0.07818755994731497
+2312,Pathankot,,
+2313,Pathein,27.047683715820312,0.04248764829815599
+2314,Pati,,
+2315,Patiala,,
+2316,Patna,26.03864860534668,0.020519256591796875
+2317,Patos De Minas,,
+2318,Paulista,,
+2319,Pavlodar,,
+2320,Pavlohrad,8.610199928283691,0.011816215515136008
+2321,Payakumbuh,,
+2322,Pekalongan,,
+2323,Peking,,
+2324,Pelotas,,
+2325,Pemalang,,
+2326,Pemba,,
+2327,Pembroke Pines,23.533933639526367,-0.03518824577331614
+2328,Penza,5.108641147613525,-0.04890411304977693
+2329,Peoria,11.320747375488281,-2.8851544560126534
+2330,Perbaungan,,
+2331,Pereira,,
+2332,Peristérion,18.33710479736328,0.2367401123046875
+2333,Perm,2.4904675483703613,0.00704285513765468
+2334,Perpignan,12.210328102111816,0.30837543055696237
+2335,Perth,,
+2336,Perugia,13.13241958618164,0.333500970084712
+2337,Pervouralsk,,
+2338,Pescara,16.46429443359375,0.331397499228423
+2339,Peshawar,,
+2340,Petaling Jaya,,
+2341,Petapa,,
+2342,Petare,,
+2343,Peterborough,9.921502113342285,-0.1259336147668222
+2344,Petrópolis,,
+2345,Petrolina,,
+2346,Petropavl,,
+2347,Petropavlovsk Kamchatskiy,,
+2348,Petrozavodsk,2.514974594116211,-0.213267231577972
+2349,Pforzheim,9.705833435058594,0.15111947329539177
+2350,Phagwara,,
+2351,Phalaborwa,,
+2352,Phan Thiet,,
+2353,Philadelphia,12.868149757385254,-0.036126006238813346
+2354,Phitsanulok,,
+2355,Phnum Pénh,,
+2356,Phoenix,,
+2357,Phra Pradaeng,,
+2358,Piatra Neamt,9.676478385925293,0.0702777646622561
+2359,Piedras Negras,,
+2360,Pietermaritzburg,,
+2361,Pietersburg,,
+2362,Pilibhit,25.753948211669922,0.009218215942382812
+2363,Pimpri,25.03589630126953,0.00635499500092962
+2364,Pinar Del Río,,
+2365,Pindamonhangaba,,
+2366,Pindiga,,
+2367,Pingchen,,
+2368,Pingdingshan,,
+2369,Pingliang,,
+2370,Pingshan,,
+2371,Pingtung,,
+2372,Pingxiang,,
+2373,Pinsk,7.551875114440918,-0.14072351230765268
+2374,Piracicaba,,
+2375,Pitesti,12.144901275634766,0.19115556680931256
+2376,Pittsburgh,10.787077903747559,0.018045878682299232
+2377,Piura,,
+2378,Plây Cu,,
+2379,Plano,,
+2380,Pleven,12.144901275634766,0.19115556680931256
+2381,Plock,8.92819595336914,-0.17227354409559759
+2382,Ploiesti,8.91058349609375,0.12838396306307764
+2383,Plovdiv,9.614596366882324,0.22569191770733532
+2384,Plumbon,,
+2385,Plymouth,10.857382774353027,-0.04226751687391683
+2386,Plzen,9.193336486816406,0.030091361279756867
+2387,Poá,,
+2388,Poços De Caldas,,
+2389,Podgorica,11.485777854919434,0.28922282704767177
+2390,Podolsk,5.123537063598633,-0.14208798948323942
+2391,Pokhara,15.485403060913086,-0.0036554336547851562
+2392,Poltava,8.850591659545898,0.005502994555348195
+2393,Pomona,,
+2394,Ponce,,
+2395,Pondicherry,28.418712615966797,-0.04481138501848392
+2396,Ponnani,26.808897018432617,-0.018389169986431142
+2397,Ponta Grossa,,
+2398,Pontianak,,
+2399,Poole,10.641386985778809,-0.019289984793033454
+2400,Porbandar,26.636825561523438,0.0051784515380859375
+2401,Port Au Prince,,
+2402,Port Blair,27.452592849731445,0.02791517185714909
+2403,Port Elizabeth,,
+2404,Port Gentil,,
+2405,Port Harcourt,,
+2406,Port Louis,,
+2407,Port Moresby,,
+2408,Port Said,,
+2409,Port Saint Lucie,23.533933639526367,-0.035188237826030644
+2410,Portland,,
+2411,Portmore,,
+2412,Porto,14.612515449523926,0.36374469973006285
+2413,Porto Alegre,,
+2414,Portoviejo,,
+2415,Portsmouth,10.641386985778809,-0.019289984793033454
+2416,Posadas,,
+2417,Potchefstroom,,
+2418,Potgietersrus,,
+2419,Potosí,,
+2420,Potsdam,9.58258056640625,-0.2233858846268557
+2421,Pouso Alegre,,
+2422,Poznan,9.327188491821289,-0.17145070669785945
+2423,Prabumulih,,
+2424,Prague,9.193336486816406,0.03009135768098581
+2425,Praia Grande,,
+2426,Prato,13.104381561279297,0.2853139355497536
+2427,Presidente Prudente,,
+2428,Preston,8.7952241897583,-0.34976662869723363
+2429,Pretoria,,
+2430,Pringsewu,,
+2431,Pristina,10.903602600097656,0.26133980481129804
+2432,Prizren,10.903602600097656,0.26133980481129804
+2433,Probolinggo,,
+2434,Proddatur,28.299165725708008,-0.030340276445659953
+2435,Prokopyevsk,,
+2436,Providence,8.827155113220215,0.2607408873028625
+2437,Provo,,
+2438,Pskov,5.439666748046875,-0.3648691492260623
+2439,Pucallpa,,
+2440,Pudukkottai,28.24704933166504,-0.029304567972818774
+2441,Puebla,,
+2442,Pueblo,,
+2443,Puerto Cabello,,
+2444,Puerto Montt,,
+2445,Puerto Plata,,
+2446,Puerto Princesa,,
+2447,Puerto Vallarta,,
+2448,Pulandian,,
+2449,Pune,25.03589630126953,0.00635499500092962
+2450,Puno,,
+2451,Punta Arenas,,
+2452,Punto Fijo,,
+2453,Puqi,,
+2454,Puri,27.067256927490234,0.01028254347027513
+2455,Purnia,22.278688430786133,0.023180007934570312
+2456,Puruliya,26.024700164794922,0.0264973730411171
+2457,Purwakarta,,
+2458,Purwodadi,,
+2459,Purwokerto,,
+2460,Purworejo,,
+2461,Puyang,,
+2462,Pyatigorsk,8.630860328674316,0.06089019775390625
+2463,Pyay,26.258800506591797,0.04122590118983993
+2464,Qabis,20.74281883239746,0.3736228942871094
+2465,Qalyub,,
+2466,Qandahar,,
+2467,Qarchak,,
+2468,Qazvin,,
+2469,Qena,,
+2470,Qianguo,,
+2471,Qianjiang,,
+2472,Qingdao,,
+2473,Qingyuan,,
+2474,Qinhuangdao,,
+2475,Qinzhou,,
+2476,Qiqihar,,
+2477,Qitaihe,,
+2478,Qom,,
+2479,Qostanay,,
+2480,Quanzhou,,
+2481,Quchan,,
+2482,Quebec,2.929067850112915,0.24127622179265273
+2483,Queenstown,,
+2484,Queimados,,
+2485,Quelimane,,
+2486,Queluz,16.54544448852539,0.41173553466796875
+2487,Querétaro,,
+2488,Quetta,,
+2489,Quetzaltenango,,
+2490,Quevedo,,
+2491,Qui Nhon,,
+2492,Quilpue,,
+2493,Quito,,
+2494,Qujing,,
+2495,Qunduz,,
+2496,Rabak,,
+2497,Rabat,18.424266815185547,0.48136329650878906
+2498,Rach Gia,,
+2499,Radom,8.507807731628418,-0.06814574025711906
+2500,Rae Bareli,25.704683303833008,0.0004329681396484375
+2501,Rafsanjan,,
+2502,Raichur,27.12727928161621,-0.00941595349992852
+2503,Raiganj,25.975900650024414,0.030246734619140625
+2504,Raigarh,26.83432388305664,0.00873144240606294
+2505,Raipur,26.598772048950195,0.003492291768392164
+2506,Rajamahendri,27.753023147583008,-0.022037814912341247
+2507,Rajapalaiyam,26.31475830078125,-0.015162147008457083
+2508,Rajkot,26.636825561523438,0.0051784515380859375
+2509,Rajpur,26.761056900024414,0.02731297151097678
+2510,Rajshahi,25.975900650024414,0.030246734619140625
+2511,Raleigh,15.368032455444336,-0.03491811788580712
+2512,Ramat Gan,,
+2513,Ramnicu Valcea,8.328996658325195,0.15410388190791302
+2514,Rampur,25.753948211669922,0.009218215942382812
+2515,Rancaekek,,
+2516,Rancagua,,
+2517,Ranchi,24.9002628326416,0.018566086178733343
+2518,Rancho Cucamonga,,
+2519,Randfontein,,
+2520,Ranghulu,,
+2521,Rangkasbitung,,
+2522,Rangoon,27.047683715820312,0.04248764829815599
+2523,Rangpur,22.186540603637695,0.025049209594726562
+2524,Raniganj,26.024700164794922,0.0264973730411171
+2525,Rantauprapat,,
+2526,Rasht,,
+2527,Ratisbon,8.968754768371582,0.2782214605583331
+2528,Ratlam,26.243995666503906,0.014713812565457118
+2529,Raurkela,26.2663516998291,0.017352697984229337
+2530,Ravenna,13.104381561279297,0.28531394634606677
+2531,Rawalpindi,,
+2532,Rawang,,
+2533,Rayong,,
+2534,Reading,10.641386985778809,-0.019289984793033454
+2535,Recife,,
+2536,Recklinghausen,9.594444274902344,-0.1605345042246693
+2537,Reggio Di Calabria,17.82095718383789,0.3365356949140441
+2538,Regina,,
+2539,Reims,10.425849914550781,0.015270121592395824
+2540,Remscheid,9.58016300201416,-0.021500294163541156
+2541,Rengasdengklok,,
+2542,Rennes,12.023782730102539,0.09953162895058654
+2543,Reno,,
+2544,Resende,,
+2545,Resistencia,,
+2546,Reutlingen,9.705833435058594,0.15111947329539177
+2547,Rewa,26.38191795349121,0.013479232788085938
+2548,Rewari,26.171710968017578,0.006366729736328125
+2549,Reykjavík,1.9793825149536133,-0.06942582130432129
+2550,Reynosa,,
+2551,Rialto,,
+2552,Ribeirão Das Neves,,
+2553,Ribeirão Pires,,
+2554,Ribeirão Prêto,,
+2555,Richards Bay,,
+2556,Richardson,,
+2557,Richmond,14.667121887207031,0.2643216444965546
+2558,Riga,5.8857879638671875,-0.44487494837563
+2559,Rijeka,10.786163330078125,0.3323783244726801
+2560,Rimini,14.899786949157715,0.324839563189812
+2561,Rio Branco,,
+2562,Rio Claro,,
+2563,Rio Cuarto,,
+2564,Rio De Janeiro,,
+2565,Rio Grande,,
+2566,Riobamba,,
+2567,Rishra,26.761056900024414,0.02731297151097678
+2568,Riverside,,
+2569,Rivne,7.984320640563965,-0.06302422127633811
+2570,Riyadh,,
+2571,Rizhao,,
+2572,Robertsonpet,26.41895294189453,-0.03296974727085811
+2573,Rochester,8.956672668457031,0.05758456509068388
+2574,Rockford,9.479264259338379,0.059660432248746176
+2575,Rohtak,26.171710968017578,0.006366729736328125
+2576,Rome,13.13241958618164,0.3335009736834831
+2577,Rondonópolis,,
+2578,Rongcheng,,
+2579,Rosario,,
+2580,Roseville,,
+2581,Rostock,8.767230033874512,-0.3477801970715788
+2582,Rostov Na Donu,10.240324020385742,0.03828978088666801
+2583,Rotherham,8.7952241897583,-0.34976662869723363
+2584,Rotterdam,9.656573295593262,-0.18493103711110237
+2585,Rouen,10.856691360473633,0.02152308518031809
+2586,Roxas,,
+2587,Rubtsovsk,,
+2588,Ruda Slaska,8.832867622375488,-0.035812444506950314
+2589,Ruian,,
+2590,Ruiru,,
+2591,Ruse,12.18924617767334,0.16160013450766542
+2592,Rustenburg,,
+2593,Ryazan,5.579939365386963,-0.08069585044428962
+2594,Rybinsk,3.7471394538879395,-0.1434317170449022
+2595,Rybnik,8.832867622375488,-0.035812444506950314
+2596,Rzeszow,8.507807731628418,-0.06814573845773353
+2597,São Bernardo Do Campo,,
+2598,São Caetano Do Sul,,
+2599,São Carlos,,
+2600,São Gonçalo,,
+2601,São João De Meriti,,
+2602,São José,,
+2603,São José Do Rio Prêto,,
+2604,São José Dos Campos,,
+2605,São José Dos Pinhais,,
+2606,São Leopoldo,,
+2607,São Luís,,
+2608,São Paulo,,
+2609,São Vicente,,
+2610,Saarbrücken,10.015486717224121,0.09480283485268615
+2611,Sabadell,17.062545776367188,0.35597837915960184
+2612,Sabará,,
+2613,Sabha,24.112289428710938,0.1818675994873047
+2614,Sabratah,20.462068557739258,0.34209251403808594
+2615,Sabzevar,,
+2616,Sacramento,,
+2617,Sadiqabad,,
+2618,Safaqis,19.94846534729004,0.35808372497558594
+2619,Saga,,
+2620,Sagamihara,,
+2621,Sagar,25.708749771118164,0.007163483755928013
+2622,Saharanpur,24.117050170898438,0.0074596405029296875
+2623,Saharsa,24.465896606445312,0.021734237670898438
+2624,Sahiwal,,
+2625,Saint Étienne,9.713723182678223,0.16583057079675
+2626,Saint Denis,,
+2627,Saint Helens,9.451807975769043,-0.2708700539930806
+2628,Saint Louis,13.113140106201172,-2.9647473509320754
+2629,Saint Paul,6.67225980758667,0.10807493407771229
+2630,Saint Petersburg,13.625248908996582,0.0033955735371531404
+2631,Saitama,,
+2632,Sakai,,
+2633,Sakata,,
+2634,Sakura,,
+2635,Salalah,,
+2636,Salamanca,12.99386215209961,-0.936707964483297
+2637,Salatiga,,
+2638,Salavat,3.7665653228759766,0.004736974446669873
+2639,Salem,,
+2640,Salerno,15.281587600708008,0.34366611264786684
+2641,Salihorsk,7.551875114440918,-0.14072351230765268
+2642,Salinas,,
+2643,Salt Lake City,,
+2644,Salta,,
+2645,Saltillo,,
+2646,Salto,,
+2647,Salvador,,
+2648,Salzburg,5.982607841491699,0.34393711652395886
+2649,Salzgitter,9.078520774841309,-0.17235510844104773
+2650,Samara,4.9080634117126465,0.003721403984968674
+2651,Samarinda,,
+2652,Samarkand,,
+2653,Sambalpur,26.83432388305664,0.00873144240606294
+2654,Sambhal,25.753948211669922,0.009218215942382812
+2655,Samsun,13.025400161743164,0.11461067199707031
+2656,Samut Prakan,,
+2657,San Antonio,,
+2658,San Bernardino,,
+2659,San Bernardo,,
+2660,San Carlos De Bariloche,,
+2661,San Cristóbal,,
+2662,San Diego,,
+2663,San Fernando,,
+2664,San Francisco,,
+2665,San Francisco De Macorís,,
+2666,San José,,
+2667,San Jose,,
+2668,San Juan,,
+2669,San Juan Del Río,,
+2670,San Juan Sacatepéquez,,
+2671,San Lorenzo,,
+2672,San Luis,,
+2673,San Luis Potosí,,
+2674,San Luis Río Colorado,,
+2675,San Martin,,
+2676,San Mateo,,
+2677,San Miguelito,,
+2678,San Nicolás De Los Garza,,
+2679,San Nicolas,,
+2680,San Pédro,,
+2681,San Pablo,,
+2682,San Pablo De Las Salinas,,
+2683,San Pedro,,
+2684,San Pedro De Macorís,,
+2685,San Pedro Sula,,
+2686,San Rafael,,
+2687,San Salvador,,
+2688,Sanandaj,,
+2689,Sanbu,,
+2690,Sanchung,,
+2691,Sancti Spíritus,,
+2692,Sanda,,
+2693,Sandakan,,
+2694,Sanhsia,,
+2695,Sanmenxia,,
+2696,Sanming,,
+2697,Santa Ana,,
+2698,Santa Catarina,,
+2699,Santa Clara,,
+2700,Santa Clarita,,
+2701,Santa Cruz,,
+2702,Santa Cruz De Tenerife,20.532657623291016,0.19329524152155741
+2703,Santa Cruz Do Sul,,
+2704,Santa Fe,,
+2705,Santa Luzia,,
+2706,Santa Maria,,
+2707,Santa Marta,,
+2708,Santa Rita,,
+2709,Santa Rosa,,
+2710,Santa Teresa,,
+2711,Santander,14.27574634552002,0.2505354935268187
+2712,Santarém,,
+2713,Santiago,,
+2714,Santiago De Cuba,,
+2715,Santiago Del Estero,,
+2716,Santo André,,
+2717,Santo Domingo,,
+2718,Santos,,
+2719,Sapele,,
+2720,Sapucaia,,
+2721,Saqqez,,
+2722,Sarajevo,10.375819206237793,0.30716362539327413
+2723,Saransk,5.108641147613525,-0.04890411215008417
+2724,Sarapul,3.0051586627960205,0.004782285527131336
+2725,Saratov,5.924790382385254,-0.004082636234878478
+2726,Sargodha,,
+2727,Sarh,,
+2728,Sari,,
+2729,Sasaram,26.262765884399414,0.016048431396484375
+2730,Sasebo,,
+2731,Saskatoon,,
+2732,Sassari,16.478654861450195,0.34985804287892464
+2733,Satara,25.816425323486328,0.002164413815453514
+2734,Satkhira,26.761056900024414,0.02731297151097678
+2735,Satna,26.38191795349121,0.013479232788085938
+2736,Satu Mare,10.331692695617676,0.12496469425705214
+2737,Savannah,20.09333610534668,-0.02138802851107613
+2738,Saveh,,
+2739,Sawai Madhopur,26.53820037841797,-0.0005093659504815662
+2740,Sawangan,,
+2741,Sayama,,
+2742,Scottsdale,,
+2743,Seattle,,
+2744,Sekondi,,
+2745,Sekudai,,
+2746,Selam,27.537517547607422,-0.03596629188174205
+2747,Semarang,,
+2748,Semey,,
+2749,Semnan,,
+2750,Seoni,26.25730323791504,0.00475514729817661
+2751,Seoul,,
+2752,Sepatan,,
+2753,Serang,,
+2754,Serekunda,,
+2755,Seremban,,
+2756,Sergiyev Posad,4.623477458953857,-0.17990638804885606
+2757,Serpukhov,5.123537063598633,-0.14208798948323942
+2758,Serra,,
+2759,Setúbal,16.54544448852539,0.41173553466796875
+2760,Sete Lagoas,,
+2761,Seto,,
+2762,Severodvinsk,1.352810263633728,-0.09806275536956366
+2763,Seversk,,
+2764,Sevilla,18.325037002563477,0.48017120361328125
+2765,Shagamu,,
+2766,Shah Alam,,
+2767,Shahe,,
+2768,Shahjahanpur,25.753948211669922,0.009218215942382812
+2769,Shahr E Kord,,
+2770,Shahreza,,
+2771,Shahrud,,
+2772,Shakhty,10.240324020385742,0.03828978088666801
+2773,Shaki,,
+2774,Shanghai,,
+2775,Shangqiu,,
+2776,Shangrao,,
+2777,Shantipur,26.761056900024414,0.02731297151097678
+2778,Shaoguan,,
+2779,Shaowu,,
+2780,Shaoxing,,
+2781,Shaoyang,,
+2782,Shaping,,
+2783,Sharjah,,
+2784,Shashi,,
+2785,Sheffield,8.7952241897583,-0.34976662869723363
+2786,Shekhupura,,
+2787,Shenyang,,
+2788,Shenzhen,,
+2789,Sherbrooke,6.172474384307861,0.23652368581519934
+2790,Sherpur,25.154809951782227,0.031093597412109375
+2791,Shihezi,,
+2792,Shikarpur,,
+2793,Shiliguri,22.278688430786133,0.023180007934570312
+2794,Shillong,23.973783493041992,0.014448165893554688
+2795,Shilong,,
+2796,Shimla,,
+2797,Shimoga,25.406036376953125,-0.00979483468191944
+2798,Shimonoseki,,
+2799,Shinyanga,,
+2800,Shiraz,,
+2801,Shishou,,
+2802,Shiyan,,
+2803,Shizuishan,,
+2804,Sholapur,26.640790939331055,0.0010623841058645667
+2805,Shreveport,18.475088119506836,-0.11124671754382831
+2806,Shrirampur,26.761056900024414,0.02731297151097678
+2807,Shuangcheng,,
+2808,Shuangyashan,,
+2809,Shulin,,
+2810,Shunyi,,
+2811,Shymkent,,
+2812,Si Racha,,
+2813,Sialkot,,
+2814,Siauliai,6.830940246582031,-0.3888902101876601
+2815,Sibiu,8.328996658325195,0.15410388190791302
+2816,Sibu,,
+2817,Sidoarjo,,
+2818,Siegen,9.028719902038574,0.01696258041094012
+2819,Siirt,,
+2820,Sikar,26.199323654174805,0.003765106201171875
+2821,Sikasso,,
+2822,Silchar,23.973783493041992,0.014448165893554688
+2823,Simi Valley,,
+2824,Sincelejo,,
+2825,Singapore,,
+2826,Singaraja,,
+2827,Singkawang,,
+2828,Sinnar,,
+2829,Sioux Falls,7.985019207000732,0.02403090924632778
+2830,Sirajganj,25.154809951782227,0.031093597412109375
+2831,Sirjan,,
+2832,Sirsa,,
+2833,Sitapur,24.42346954345703,0.01067605349096823
+2834,Sivas,9.353743553161621,0.08860953580668074
+2835,Siverek,,
+2836,Siwan,25.634593963623047,0.019655227661132812
+2837,Skopje,10.903602600097656,0.26133980481129804
+2838,Slough,9.921502113342285,-0.1259336147668222
+2839,Smolensk,5.548155307769775,-0.2312708584767469
+2840,Soacha,,
+2841,Sobral,,
+2842,Soc Trang,,
+2843,Sochi,10.777175903320312,0.06925041228532791
+2844,Sofia,9.614596366882324,0.22569191770733532
+2845,Sogamoso,,
+2846,Sohag,,
+2847,Soka,,
+2848,Sokodé,,
+2849,Sokoto,,
+2850,Soledad,,
+2851,Solikamsk,0.07647746056318283,0.043359524840560125
+2852,Solingen,9.58016300201416,-0.021500294163541156
+2853,Somerset West,,
+2854,Songea,,
+2855,Sonipat,26.171710968017578,0.006366729736328125
+2856,Soreang,,
+2857,Sorocaba,,
+2858,Sorong,,
+2859,Sosnowiec,8.832867622375488,-0.035812444506950314
+2860,Soubré,,
+2861,South Bend,10.977921485900879,0.019815700459030694
+2862,Southampton,10.641386985778809,-0.019289984793033454
+2863,Southend On Sea,9.921502113342285,-0.1259336147668222
+2864,Soweto,,
+2865,Soyapango,,
+2866,Spanish Town,,
+2867,Split,13.991013526916504,0.33042131459937885
+2868,Spokane,,
+2869,Spring Valley,,
+2870,Springfield,11.13643741607666,0.27307361071964564
+2871,Springs,,
+2872,Srikakulam,26.577821731567383,-0.0008783250484825089
+2873,Srinagar,,
+2874,Stamford,10.7660493850708,0.07818755994731497
+2875,Stara Zagora,12.398446083068848,0.19554434902263118
+2876,Staryy Oskol,7.371758937835693,-0.02607343388053618
+2877,Stavanger,5.910430908203125,-0.41046801693034585
+2878,Stavropol,8.630860328674316,0.06089019775390625
+2879,Sterling Heights,9.799382209777832,0.043054981951444304
+2880,Sterlitamak,3.7665653228759766,0.004736974446669873
+2881,Stockholm,6.590745449066162,-0.4960459205339536
+2882,Stockport,8.7952241897583,-0.34976662869723363
+2883,Stockton,,
+2884,Stoke On Trent,9.373305320739746,-0.1749935671968288
+2885,Strasbourg,10.015486717224121,0.09480283485268615
+2886,Stuttgart,9.705833435058594,0.15111947329539177
+2887,Subang,,
+2888,Suceava,9.676478385925293,0.0702777646622561
+2889,Sucre,,
+2890,Sudbury,5.960392475128174,0.11031340743010887
+2891,Suez,,
+2892,Suihua,,
+2893,Suining,,
+2894,Suita,,
+2895,Sujiatun,,
+2896,Sukabumi,,
+2897,Sukaraja,,
+2898,Sukkur,,
+2899,Suleja,,
+2900,Sullana,,
+2901,Sultanpur,26.042537689208984,0.016763687133789062
+2902,Sumaré,,
+2903,Sumedang,,
+2904,Sumy,7.646969795227051,-0.037577881453172424
+2905,Sunderland,7.870716571807861,-0.2685808739572195
+2906,Sungai Petani,,
+2907,Sunggal,,
+2908,Sunnyvale,,
+2909,Sunrise Manor,,
+2910,Sur,,
+2911,Surabaya,,
+2912,Surakarta,,
+2913,Surat,26.91987419128418,0.010683967953635687
+2914,Surat Thani,,
+2915,Surendranagar,27.185630798339844,0.00852203369140625
+2916,Surgut,,
+2917,Suriapet,27.988967895507812,-0.02309504917689864
+2918,Surt,20.88420867919922,0.27896690368652344
+2919,Susah,19.609086990356445,0.3757878144582101
+2920,Sutton Coldfield,9.373305320739746,-0.1749935671968288
+2921,Suzano,,
+2922,Suzhou,,
+2923,Suzuka,,
+2924,Swansea,10.118165016174316,-0.1515272680318578
+2925,Swindon,9.373305320739746,-0.1749935671968288
+2926,Sydney,,
+2927,Syktyvkar,1.405124545097351,-0.04061792599002145
+2928,Syracuse,12.532393455505371,0.17786121726932436
+2929,Syzran,4.814874172210693,-0.02930544907192001
+2930,Székesfehérvár,11.188156127929688,0.24413789893096371
+2931,Szczecin,8.461454391479492,-0.3352459574645419
+2932,Szeged,11.953727722167969,0.25695012470461265
+2933,Tétouan,18.396120071411133,0.5000572204589844
+2934,Türkmenabat,,
+2935,Taboão Da Serra,,
+2936,Tabora,,
+2937,Tabriz,,
+2938,Tabuk,,
+2939,Tachikawa,,
+2940,Tacloban,,
+2941,Tacna,,
+2942,Tacoma,,
+2943,Tadepallegudem,27.753023147583008,-0.022037814912341247
+2944,Taganrog,10.240324020385742,0.03828978088666801
+2945,Tagum,,
+2946,Taian,,
+2947,Taicheng,,
+2948,Taichung,,
+2949,Tainan,,
+2950,Taipei,,
+2951,Taiping,,
+2952,Taitung,,
+2953,Taiyuan,,
+2954,Taizhou,,
+2955,Tajimi,,
+2956,Takaoka,,
+2957,Takarazuka,,
+2958,Takasaki,,
+2959,Takatsuki,,
+2960,Takoradi,,
+2961,Talara,,
+2962,Talca,,
+2963,Talcahuano,,
+2964,Tali,,
+2965,Talisay,,
+2966,Talkha,,
+2967,Tallahassee,20.62877655029297,-0.025927415752775573
+2968,Tallinn,5.528305530548096,-0.46603536077265506
+2969,Tama,,
+2970,Tamale,,
+2971,Taman,,
+2972,Tambaram,28.75031852722168,-0.045692652747746365
+2973,Tambov,6.184533596038818,-0.023524081032230804
+2974,Tambun,,
+2975,Tampa,22.455833435058594,-0.021994967113510455
+2976,Tampere,4.3471198081970215,-0.3360019611862475
+2977,Tampico,,
+2978,Tandil,,
+2979,Tando Adam,,
+2980,Tanete,,
+2981,Tanga,,
+2982,Tangerang,,
+2983,Tanggu,,
+2984,Tangier,18.396120071411133,0.5000572204589844
+2985,Tangshan,,
+2986,Tanjung Morawa,,
+2987,Tanshui,,
+2988,Tanta,21.0634822845459,0.16278648376464844
+2989,Tanza,,
+2990,Taonan,,
+2991,Taoyüan,,
+2992,Tapachula,,
+2993,Taranto,16.56235122680664,0.33341044300007283
+2994,Taraz,,
+2995,Targu Mures,8.328996658325195,0.15410388190791302
+2996,Tarhunah,20.67184066772461,0.32505226135253906
+2997,Tarija,,
+2998,Tarlac,,
+2999,Tarnow,8.507807731628418,-0.06814573845773353
+3000,Tarragona,17.062545776367188,0.35597838635714396
+3001,Tarsus,12.376739501953125,0.14516718367226034
+3002,Tartu,5.122585296630859,-0.4136585971094524
+3003,Tartus,,
+3004,Tashkent,,
+3005,Tasikmalaya,,
+3006,Taubaté,,
+3007,Taunggyi,,
+3008,Tauranga,,
+3009,Tawau,,
+3010,Taytay,,
+3011,Tbilisi,,
+3012,Teófilo Otoni,,
+3013,Tebingtinggi,,
+3014,Tegal,,
+3015,Tegucigalpa,,
+3016,Tehuacán,,
+3017,Tekirdag,14.36270523071289,0.19957736753067934
+3018,Tel Aviv Yafo,,
+3019,Teluknaga,,
+3020,Tema,,
+3021,Tembisa,,
+3022,Temirtau,,
+3023,Tempe,,
+3024,Temuco,,
+3025,Tenali,27.988967895507812,-0.02309504917689864
+3026,Tengzhou,,
+3027,Tepic,,
+3028,Teresópolis,,
+3029,Teresina,,
+3030,Termiz,,
+3031,Ternate,,
+3032,Terni,13.13241958618164,0.3335009736834831
+3033,Terrassa,17.062545776367188,0.35597838635714396
+3034,Teshie,,
+3035,Tete,,
+3036,Texcoco,,
+3037,Thái Nguyên,,
+3038,Thana,26.8622989654541,0.00454489390055457
+3039,Thanesar,24.117050170898438,0.0074596405029296875
+3040,Thanh Hóa,,
+3041,Thanjavur,28.24704933166504,-0.029304567972818774
+3042,Thanyaburi,,
+3043,Thaton,26.824670791625977,0.044659704532264755
+3044,The Hague,9.656573295593262,-0.1849310263147892
+3045,Thessaloníki,14.924779891967773,0.24999180559842138
+3046,Thiès,,
+3047,Thiruvananthapuram,26.31475830078125,-0.015162147008457083
+3048,Thornton,,
+3049,Thousand Oaks,,
+3050,Thrissur,26.808897018432617,-0.018389169986431142
+3051,Tianjin,,
+3052,Tianmen,,
+3053,Tieli,,
+3054,Tieling,,
+3055,Tighina,10.04842758178711,0.058850557399246384
+3056,Tijuana,,
+3057,Tilburg,9.656573295593262,-0.1849310263147892
+3058,Timisoara,10.834877967834473,0.2007556699356936
+3059,Timon,,
+3060,Tirana,16.540061950683594,0.3064698021366894
+3061,Tiruchchirappalli,28.24704933166504,-0.029304567972818774
+3062,Tirunelveli,26.31475830078125,-0.015162147008457083
+3063,Tirupati,28.75031852722168,-0.045692652747746365
+3064,Tiruppur,25.496929168701172,-0.024891390119279322
+3065,Tiruvannamalai,27.537517547607422,-0.03596629188174205
+3066,Tiruvottiyur,28.75031852722168,-0.045692652747746365
+3067,Titagarh,26.761056900024414,0.02731297151097678
+3068,Tlalnepantla,,
+3069,Tlaquepaque,,
+3070,Toamasina,,
+3071,Toda,,
+3072,Tokat,13.025400161743164,0.11461067199707031
+3073,Tokorozawa,,
+3074,Tokuyama,,
+3075,Tokyo,,
+3076,Toledo,10.843331336975098,-4.229509046322493
+3077,Toliary,,
+3078,Toluca,,
+3079,Tolyatti,4.9080634117126465,0.003721423928728207
+3080,Tomakomai,,
+3081,Toms River,12.868149757385254,-0.036126006238813346
+3082,Tomsk,,
+3083,Tonalá,,
+3084,Tondabayashi,,
+3085,Tongchuan,,
+3086,Tongliao,,
+3087,Tongling,,
+3088,Tongzhou,,
+3089,Tonk,26.305652618408203,0.008792374264540825
+3090,Topeka,13.229276657104492,-0.011234175565554949
+3091,Toronto,7.113068580627441,0.09060875694706727
+3092,Torrance,,
+3093,Torreón,,
+3094,Torrejón De Ardoz,12.581672668457031,0.381935956343165
+3095,Torun,8.92819595336914,-0.17227354409559759
+3096,Tottori,,
+3097,Touliu,,
+3098,Toulon,16.15536117553711,0.315291678230718
+3099,Toulouse,11.454418182373047,0.2457927865802123
+3100,Toungoo,26.498441696166992,0.04636753730054011
+3101,Tours,11.629853248596191,0.08104307426596513
+3102,Townsville,,
+3103,Toyohashi,,
+3104,Toyokawa,,
+3105,Toyonaka,,
+3106,Toyota,,
+3107,Trabzon,11.408154487609863,0.09932294928509222
+3108,Trelew,,
+3109,Trento,10.545774459838867,0.22803743830266932
+3110,Trier,10.015486717224121,0.09480283485268615
+3111,Trieste,12.69031047821045,0.31194145994366274
+3112,Trincomalee,28.372339248657227,-0.020861807323637294
+3113,Tripoli,20.462068557739258,0.34209251403808594
+3114,Trois Rivières,6.172474384307861,0.23652368581519934
+3115,Trondheim,4.924041748046875,-0.3083715321882714
+3116,Trujillo,,
+3117,Tshikapa,,
+3118,Tsuchiura,,
+3119,Tsukuba,,
+3120,Tubruq,20.4044132232666,0.19812774658203125
+3121,Tucheng,,
+3122,Tucson,,
+3123,Tucuman,,
+3124,Tuguegarao,,
+3125,Tula,5.487555503845215,-0.10229738658329257
+3126,Tulancingo,,
+3127,Tulsa,16.28570556640625,-0.022975520310897224
+3128,Tuluá,,
+3129,Tumbes,,
+3130,Tumkur,24.836944580078125,-0.019451304844448458
+3131,Tungi,26.183879852294922,0.027882099151611328
+3132,Tunis,19.609086990356445,0.3757878144582101
+3133,Tunja,,
+3134,Turgutlu,16.128305435180664,0.18871784210205078
+3135,Turhal,13.025400161743164,0.11461067199707031
+3136,Turin,7.900254726409912,0.23349317154794402
+3137,Turku,5.344239711761475,-0.43006938957380836
+3138,Turmero,,
+3139,Tuxtla Gutiérrez,,
+3140,Tuzla,10.375819206237793,0.30718510645740515
+3141,Tver,4.623477458953857,-0.17990638804885606
+3142,Tychy,8.832867622375488,-0.035812444506950314
+3143,Tyumen,,
+3144,Ube,,
+3145,Uberaba,,
+3146,Uberlândia,,
+3147,Ubon Ratchathani,,
+3148,Udgir,27.274517059326172,-0.0048000971476227505
+3149,Udon Thani,,
+3150,Udupi,25.406036376953125,-0.00979483468191944
+3151,Ueda,,
+3152,Ufa,3.399371862411499,0.05800316665993366
+3153,Ugep,,
+3154,Uitenhage,,
+3155,Uji,,
+3156,Ujjain,25.588043212890625,0.014933213733492323
+3157,Ukhta,-0.21278078854084015,-0.030052776496751976
+3158,Ulaanbaatar,,
+3159,Ulan Ude,,
+3160,Ulhasnagar,26.8622989654541,0.00454489390055457
+3161,Ulm,9.705833435058594,0.15111947329539177
+3162,Ulubaria,26.761056900024414,0.02731297151097678
+3163,Ulyanovsk,4.814874172210693,-0.02930544907192001
+3164,Umm Durman,,
+3165,Umuahia,,
+3166,Ungaran,,
+3167,Unnao,25.704683303833008,0.0004329681396484375
+3168,Uppsala,4.772739887237549,-0.41911199610188365
+3169,Urayasu,,
+3170,Urdaneta,,
+3171,Urfa,,
+3172,Uromi,,
+3173,Uruapan,,
+3174,Uruguaiana,,
+3175,Usak,12.600868225097656,0.18959568839036756
+3176,Ussuriysk,,
+3177,Ust Ilimsk,,
+3178,Utrecht,9.656573295593262,-0.1849310263147892
+3179,Uvira,,
+3180,Uyo,,
+3181,Uzhhorod,8.648335456848145,0.04551273651842713
+3182,Várzea Grande,,
+3183,Várzea Paulista,,
+3184,Västerås,4.772739887237549,-0.41911199610188365
+3185,Vadodara,26.91987419128418,0.010683967953635687
+3186,Valdivia,,
+3187,Valencia,17.411046981811523,-2.5561099646226424
+3188,Valladolid,12.581672668457031,0.381935956343165
+3189,Valledupar,,
+3190,Vallejo,,
+3191,Valparaiso,,
+3192,Van,,
+3193,Vanadzor,,
+3194,Vancouver,,
+3195,Vanderbijlpark,,
+3196,Varamin,,
+3197,Varanasi,26.262765884399414,0.016048431396484375
+3198,Varginha,,
+3199,Varna,13.17077350616455,0.17404091313200176
+3200,Vejalpur,26.243995666503906,0.014713812565457118
+3201,Velikie Luki,5.03045654296875,-0.30576637825875874
+3202,Velikiy Novgorod,4.772462368011475,-0.35328441655860754
+3203,Velluru,27.537517547607422,-0.03596629188174205
+3204,Venice,12.69031047821045,0.31194145994366274
+3205,Veracruz,,
+3206,Veraval,26.636825561523438,0.0051784515380859375
+3207,Vereeniging,,
+3208,Verona,10.545774459838867,0.22803743830266932
+3209,Verwoerdburg,,
+3210,Viamão,,
+3211,Vicenza,12.69031047821045,0.31194145994366274
+3212,Victoria,,
+3213,Vidisha,25.941036224365234,0.01025267101469396
+3214,Vienna,9.235091209411621,0.16455442590533487
+3215,Vientiane,,
+3216,Vigo,13.896326065063477,0.30697923696266116
+3217,Vihari,,
+3218,Vijayawada,27.988967895507812,-0.02309504917689864
+3219,Vila Velha,,
+3220,Villa Canales,,
+3221,Villa Nueva,,
+3222,Villahermosa,,
+3223,Villavicencio,,
+3224,Villeurbanne,9.600523948669434,0.1634276462051112
+3225,Vilnius,6.2238640785217285,-0.32525893877137424
+3226,Vina Del Mar,,
+3227,Vinh,,
+3228,Vinh Long,,
+3229,Vinnitsa,8.321799278259277,0.007954420683518038
+3230,Vinnytsya,8.321799278259277,0.007954420683518038
+3231,Viransehir,,
+3232,Virar,25.463857650756836,0.007403182983399148
+3233,Virginia,,
+3234,Virginia Beach,16.492578506469727,-0.029669355530248964
+3235,Visakhapatnam,25.63397789001465,-0.010428346906390829
+3236,Visalia,,
+3237,Vitória,,
+3238,Vitória Da Conquista,,
+3239,Vitória De Santo Antão,,
+3240,Vitoria,12.682516098022461,0.3146203185027492
+3241,Vizianagaram,25.63397789001465,-0.010428346906390829
+3242,Vladikavkaz,,
+3243,Vladimir,5.3709211349487305,-0.1057641515191996
+3244,Vladivostok,,
+3245,Volgodonsk,10.113143920898438,0.03340729857390734
+3246,Volgograd,8.86172866821289,0.03211973087699249
+3247,Vologda,3.7471394538879395,-0.1434317170449022
+3248,Volta Redonda,,
+3249,Volzhskiy,8.86172866821289,0.03211973087699249
+3250,Voronezh,6.301098823547363,-0.048668666155832874
+3251,Vryheid,,
+3252,Vung Tau,,
+3253,Würzburg,9.705833435058594,0.15111947329539177
+3254,Waco,,
+3255,Wad Madani,,
+3256,Wah,,
+3257,Wahran,18.54826545715332,0.44974327087402344
+3258,Waitakere,,
+3259,Walbrzych,8.291875839233398,0.01644314460034657
+3260,Walsall,9.373305320739746,-0.1749935671968288
+3261,Wanxian,,
+3262,Warangal,27.83600425720215,-0.011939066932313835
+3263,Wardha,27.711254119873047,-0.0008291153680701768
+3264,Warqla,24.42658805847168,0.35958290100097656
+3265,Warren,9.799382209777832,0.043054981951444304
+3266,Warri,,
+3267,Warsaw,8.229155540466309,-0.2118693171807049
+3268,Waru,,
+3269,Washington,12.984793663024902,-0.0471236515407778
+3270,Waterbury,11.167519569396973,0.1758220875671146
+3271,Waterloo,7.113068580627441,0.09060875694706727
+3272,Watford,9.921502113342285,-0.1259336147668222
+3273,Waw,,
+3274,Wazirabad,,
+3275,Weifang,,
+3276,Weihai,,
+3277,Weinan,,
+3278,Welkom,,
+3279,Wellington,,
+3280,Wencheng,,
+3281,Wenzhou,,
+3282,Weru,,
+3283,West Bromwich,9.373305320739746,-0.1749935671968288
+3284,West Covina,,
+3285,West Jordan,,
+3286,West Valley City,,
+3287,Westminster,,
+3288,Westonaria,,
+3289,Wichita,,
+3290,Wichita Falls,,
+3291,Wiesbaden,9.028719902038574,0.01696258041094012
+3292,Windhoek,,
+3293,Windsor,9.799382209777832,0.043054981951444304
+3294,Winnipeg,,
+3295,Winston Salem,15.368032455444336,-0.03491811788580712
+3296,Witbank,,
+3297,Witten,9.594444274902344,-0.1605345042246693
+3298,Wloclawek,8.92819595336914,-0.17227354409559759
+3299,Wolfsburg,9.078520774841309,-0.17235510844104773
+3300,Wollongong,,
+3301,Wolverhampton,9.373305320739746,-0.1749935671968288
+3302,Worcester,8.44342041015625,-1.1194583276160675
+3303,Wroclaw,8.291875839233398,0.01644314819911763
+3304,Wuda,,
+3305,Wufeng,,
+3306,Wuhan,,
+3307,Wuhu,,
+3308,Wulanhaote,,
+3309,Wuning,,
+3310,Wuppertal,9.58016300201416,-0.021500294163541156
+3311,Wuwei,,
+3312,Wuxi,,
+3313,Wuxue,,
+3314,Wuzhou,,
+3315,Xai Xai,,
+3316,Xalapa,,
+3317,Xiamen,,
+3318,Xian,,
 3319,Xiangdong,,
 3320,Xiangfan,,
 3321,Xiantao,,
@@ -3344,7 +3344,7 @@
 3342,Yaizu,,
 3343,Yakeshi,,
 3344,Yamoussoukro,,
-3345,Yamunanagar,24.117050170898438,0.007419586181640625
+3345,Yamunanagar,24.117050170898438,0.0074596405029296875
 3346,Yanan,,
 3347,Yancheng,,
 3348,Yangjiang,,
@@ -3354,16 +3354,16 @@
 3352,Yantai,,
 3353,Yao,,
 3354,Yaoundé,,
-3355,Yaroslavl,4.308075428009033,
+3355,Yaroslavl,4.308075428009033,-0.13043786174846161
 3356,Yatsushiro,,
-3357,Yavatmal,27.711254119873047,
+3357,Yavatmal,27.711254119873047,-0.0008291153680701768
 3358,Yazd,,
 3359,Yekaterinburg,,
-3360,Yelahanka,24.836944580078125,
-3361,Yelets,6.301098823547363,
-3362,Yenangyaung,27.319107055664062,
+3360,Yelahanka,24.836944580078125,-0.019451304844448458
+3361,Yelets,6.301098823547363,-0.048668666155832874
+3362,Yenangyaung,27.319107055664062,0.0435226098546444
 3363,Yerevan,,
-3364,Yevpatoriya,11.447216987609863,
+3364,Yevpatoriya,11.447216987609863,0.08435417211280694
 3365,Yibin,,
 3366,Yichang,,
 3367,Yichun,,
@@ -3380,8 +3380,8 @@
 3378,Yokosuka,,
 3379,Yonago,,
 3380,Yongan,,
-3381,Yonkers,10.7660493850708,
-3382,York,8.7952241897583,
+3381,Yonkers,10.7660493850708,0.07818755994731497
+3382,York,8.7952241897583,-0.34976662869723363
 3383,Yuci,,
 3384,Yueyang,,
 3385,Yulin,,
@@ -3391,11 +3391,11 @@
 3389,Yushan,,
 3390,Yushu,,
 3391,Yuyao,,
-3392,Zaanstad,9.656573295593262,
+3392,Zaanstad,9.656573295593262,-0.1849310263147892
 3393,Zabol,,
-3394,Zabrze,8.832867622375488,
+3394,Zabrze,8.832867622375488,-0.035812444506950314
 3395,Zacatecas,,
-3396,Zagreb,10.786163330078125,
+3396,Zagreb,10.786163330078125,0.3323783244726801
 3397,Zalantun,,
 3398,Zama,,
 3399,Zamboanga,,
@@ -3405,12 +3405,12 @@
 3403,Zaoyang,,
 3404,Zaozhuang,,
 3405,Zapopan,,
-3406,Zaporizhzhya,10.042252540588379,
-3407,Zaragoza,15.634329795837402,
+3406,Zaporizhzhya,10.042252540588379,0.04200378543925787
+3407,Zaragoza,15.634329795837402,0.3670339116510348
 3408,Zaria,,
-3409,Zelenodolsk,4.793765068054199,
-3410,Zelenograd,5.123537063598633,
-3411,Zenica,10.375819206237793,
+3409,Zelenodolsk,4.793765068054199,-0.04104063016063719
+3410,Zelenograd,5.123537063598633,-0.14208798948323942
+3411,Zenica,10.375819206237793,0.30718510645740515
 3412,Zhangdian,,
 3413,Zhangjiakou,,
 3414,Zhangzhou,,
@@ -3430,20 +3430,20 @@
 3428,Zhucheng,,
 3429,Zhuhai,,
 3430,Zhuji,,
-3431,Zhukovskiy,5.123537063598633,
+3431,Zhukovskiy,5.123537063598633,-0.14208798948323942
 3432,Zhumadian,,
 3433,Zhuozhou,,
 3434,Zhuzhou,,
-3435,Zhytomyr,7.931461334228516,
-3436,Zielona Gora,9.327188491821289,
+3435,Zhytomyr,7.931461334228516,-0.054654965310726666
+3436,Zielona Gora,9.327188491821289,-0.17145070669785945
 3437,Zigong,,
 3438,Ziguinchor,,
 3439,Zinder,,
 3440,Zlatoust,,
-3441,Zoetermeer,9.656573295593262,
-3442,Zonguldak,12.053214073181152,
+3441,Zoetermeer,9.656573295593262,-0.1849310263147892
+3442,Zonguldak,12.053214073181152,0.14843020912345217
 3443,Zouxian,,
 3444,Zunyi,,
-3445,Zurich,7.8296284675598145,
-3446,Zuwarah,20.462068557739258,0.34171104431152344
-3447,Zwolle,9.656573295593262,
+3445,Zurich,7.8296284675598145,0.15524916918772558
+3446,Zuwarah,20.462068557739258,0.34209251403808594
+3447,Zwolle,9.656573295593262,-0.1849310263147892

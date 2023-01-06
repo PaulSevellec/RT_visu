@@ -6,9 +6,20 @@
   <meta charset="utf-8"><script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
   <script src="https://unpkg.com/d3-simple-slider"></script>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Average temperature by country</h1>
+  <h1>Impact of climate change on countries temperature </h1>
+  <div>
+    <form>
+      <input type="radio" id="Mean" name="mode" value="Mean"
+             onclick="change_radio()">
+      <label for="Mean">Average by year</label>
+      <input type="radio" id="Deviation" name="mode" value="Deviation" onclick="change_radio()" checked>
+      <label for="Deviation">Standard deviation</label>
+    </form>
+
+  </div>
   <svg id="map"></svg>
   <p>Country : <span id="country"></span></p>
   <p> Temperature : <span id="hint"></span></p>
@@ -18,7 +29,10 @@
     <div class="col-sm"><div id="slider-time"></div></div>
   </div>
   <a href="./graph_viz.html">
-    <button> See Graphs </button>
+    <button class="button-4"> See Graphs </button>
+  </a>
+  <a href="./map_city_viz.html">
+    <button class="button-4"> See for cities </button>
   </a>
   <script src="map.js"></script>
 </body>

@@ -18,16 +18,21 @@ const projection = d3.geoMercator()
     .translate([width / 2-20, height / 2+100]);
 
 // Data and color scale
-let data = new Map()
+let city_mean = new Map()
+let city_deviation = new Map()
 const colorScale = d3.scaleSequential([30.8,-15.5], d3.interpolateRdYlBu)
+const colorScale_deviation = d3.scaleSequential([4.0,-2.0], d3.interpolateRdYlBu)
 const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
-var requestData = async function(x){
+var requestData = async function(year, boolean){
     // Load external data and boot
     Promise.all([
         d3.json("./world_map.geojson"),
         d3.csv("./city_template.csv"),
-        d3.csv("./csv_cities_by_year/"+x+"_city.csv")
+        d3.csv("./csv_cities_by_year/"+year+"_city.csv", function (d) {
+            city_mean.set(d.name, +d.Temp);
+            city_deviation.set(d.name, +d.Mean_deviation)
+        })
     ]).then(function(loadData){
         let cities = loadData[1];
         console.log(cities);
@@ -55,14 +60,34 @@ var requestData = async function(x){
                 .attr("cx", latlong[0])
                 .attr("cy", latlong[1])
                 .attr("r",1)
-                .style("fill", "black")
+                .style("fill", function () {
+                    let color;
+                    let temp;
+                    if (boolean) {
+                        temp = city_mean.get(element.City) || -100;
+                        color = colorScale(temp);
+                    }else{
+                        temp = city_deviation.get(element.City) || -100;
+                        color = colorScale_deviation(temp);
+                    }
+
+                    if (temp == -100) {
+                        color = colorScale_noData(temp);
+                    }
+                    return color
+                })
                 .on("mouseover", function(d){
-                    console.log(d);
-                    console.log(element);
+                    console.log(city_deviation.get(element.City))
                     d3.select("#city").text(element.City);
+                    if (boolean){
+                        d3.select("#hint")
+                            .text(city_mean.get(element.City).toFixed(2)+"°C" || "no data");
+                    }else{
+                        d3.select("#hint")
+                            .text(city_deviation.get(element.City).toFixed(2)+"°C" || "no data");
+                    }
                 })
                 .on("mouseout", function(d){
-                            d3.select("#hint").remove();
                 })
         }
         cities.forEach(draw_circle);
@@ -86,7 +111,7 @@ var dataTime = d3.range(0, 272).map(function(d) {
 });
 
 
-
+var currentYear = 2013;
 var sliderTime = d3
     .sliderBottom()
     .min(d3.min(dataTime))
@@ -96,11 +121,30 @@ var sliderTime = d3
     .tickFormat(d3.timeFormat('%Y'))
     .default(new Date(2013, 1, 1))
     .on('onchange', val => {
-        svg.select("g").remove();
-        requestData(1900+val.getYear());
+        svg.selectAll("g").remove();
+        const buttons =d3.selectAll('input');
+        let check = d3.select('input[name="mode"]:checked').property("value");
+        currentYear = 1900+val.getYear();
+        if (check === 'Mean'){
+            requestData(1900+val.getYear(), true);
+        }else{
+            requestData(1900+val.getYear(), false);
+        }
         d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
 
     });
+
+function change_radio(){
+    svg.select("g").remove();
+    const buttons =d3.selectAll('input');
+    let check = d3.select('input[name="mode"]:checked').property("value");
+    console.log(currentYear);
+    if (check === 'Mean'){
+        requestData(currentYear, true);
+    }else{
+        requestData(currentYear, false);
+    }
+}
 
 var gTime = d3
     .select('div#slider-time')

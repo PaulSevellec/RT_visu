@@ -19,15 +19,18 @@ const projection = d3.geoMercator()
 
 // Data and color scale
 let data = new Map()
+let mean_map = new Map()
 const colorScale = d3.scaleSequential([30.8,-15.5], d3.interpolateRdYlBu)
+const colorScale_deviation = d3.scaleSequential([4.0,-2.0], d3.interpolateRdYlBu)
 const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
-var requestData = async function(x){
+async function requestData(x, boolean){
     // Load external data and boot
     Promise.all([
         d3.json("./world_map.geojson"),
         d3.csv("./csv_countries_by_year/"+x+"_country.csv", function(d) {
             data.set(d.code, +d.Temp);
+            mean_map.set(d.code, +d.Mean_deviation)
         })
     ]).then(function(loadData){
         let topo = loadData[0];
@@ -42,18 +45,35 @@ var requestData = async function(x){
             )
             // set the color of each country
             .attr("fill", function (d) {
-                d.total = data.get(d.id) || -100;
-                if (d.total == -100) {
-                    return colorScale_noData(d.total);
+                let color;
+                if (boolean) {
+                    d.total = data.get(d.id) || -100;
+                    color = colorScale(d.total);
+                }else{
+                    d.total = mean_map.get(d.id) || -100;
+                    color = colorScale_deviation(d.total);
                 }
-                return colorScale(d.total);
+
+                if (d.total == -100) {
+                    color = colorScale_noData(d.total);
+                }
+                return color
             })
             .on("mouseover", function(d){
                 d3.select(this).style("stroke", "black");
-                d3.select("#hint")
-                    .append("text")
-                    .attr("id", d.id.replace(/ /,""))
-                    .text(data.get(d.id).toFixed(2)+"°C" || "no data");
+                if (boolean){
+                    d3.select("#hint")
+                        .append("text")
+                        .attr("id", d.id.replace(/ /,""))
+                        .text(data.get(d.id).toFixed(2)+"°C" || "no data");
+                }else{
+                    d3.select("#hint")
+                        .append("text")
+                        .attr("id", d.id.replace(/ /,""))
+                        .text(mean_map.get(d.id).toFixed(2)+"°C" || "no data");
+                }
+
+
 
                 d3.select("#country")
                     .append("text")
@@ -76,13 +96,14 @@ var requestData = async function(x){
     })
 }
 
-requestData(2013);
+requestData(2013, false);
 
 // Time
 var dataTime = d3.range(0, 272).map(function(d) {
     return new Date(1743 + d, 1, 1);
 });
 
+var currentYear = 2013;
 var sliderTime = d3
     .sliderBottom()
     .min(d3.min(dataTime))
@@ -92,11 +113,30 @@ var sliderTime = d3
     .tickFormat(d3.timeFormat('%Y'))
     .default(new Date(2013, 1, 1))
     .on('onchange', val => {
-        svg.select("g").remove();
-        requestData(1900+val.getYear());
+        svg.selectAll("g").remove();
+        const buttons =d3.selectAll('input');
+        let check = d3.select('input[name="mode"]:checked').property("value");
+        currentYear = 1900+val.getYear();
+        if (check === 'Mean'){
+            requestData(1900+val.getYear(), true);
+        }else{
+            requestData(1900+val.getYear(), false);
+        }
         d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
 
     });
+
+function change_radio(){
+    svg.select("g").remove();
+    const buttons =d3.selectAll('input');
+    let check = d3.select('input[name="mode"]:checked').property("value");
+    console.log(currentYear);
+    if (check === 'Mean'){
+        requestData(currentYear, true);
+    }else{
+        requestData(currentYear, false);
+    }
+}
 
 var gTime = d3
     .select('div#slider-time')
