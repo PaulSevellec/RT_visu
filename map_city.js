@@ -34,6 +34,7 @@ var requestData = async function(year, boolean){
             city_deviation.set(d.name, +d.Mean_deviation)
         })
     ]).then(function(loadData){
+
         let cities = loadData[1];
         console.log(cities);
         let topo = loadData[0];

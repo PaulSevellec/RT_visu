@@ -6,7 +6,19 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <svg id="graph"></svg>
+    <h1>Graphs </h1>
+    <div>
+        <form>
+            <input type="radio" id="Mean" name="mode" value="Mean"
+               onclick="change_radio()">
+            <label for="Mean">Average by year</label>
+            <input type="radio" id="Deviation" name="mode" value="Deviation" onclick="change_radio()" checked>
+            <label for="Deviation">Standard deviation</label>
+        </form>
+    </div>
+    <!-- Initialize a select button -->
+    <select id="selectButton" onfocus='this.size=10;' onblur='this.size=1;' onchange='this.size=1; this.blur();'></select>
+    <div id="graph"></div>
     <a href="./map_city_viz.html">
         <button class="button-4"> See map for cities </button>
     </a>
@@ -15,4 +27,5 @@
     </a>
     <script src="graph.js"></script>
 </body>
+
 </html>
