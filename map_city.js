@@ -36,7 +36,7 @@ var requestData = async function(year, boolean){
     ]).then(function(loadData){
 
         let cities = loadData[1];
-        console.log(cities);
+        console.log('refresh');
         let topo = loadData[0];
         // Draw the map
         var g = svg.append("g")
@@ -78,7 +78,6 @@ var requestData = async function(year, boolean){
                     return color
                 })
                 .on("mouseover", function(d){
-                    console.log(city_deviation.get(element.City))
                     d3.select("#city").text(element.City);
                     if (boolean){
                         d3.select("#hint")
@@ -136,7 +135,7 @@ var sliderTime = d3
     });
 
 function change_radio(){
-    svg.select("g").remove();
+    svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');
     let check = d3.select('input[name="mode"]:checked').property("value");
     console.log(currentYear);

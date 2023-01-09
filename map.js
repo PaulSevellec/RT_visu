@@ -127,7 +127,7 @@ var sliderTime = d3
     });
 
 function change_radio(){
-    svg.select("g").remove();
+    svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');
     let check = d3.select('input[name="mode"]:checked').property("value");
     console.log(currentYear);

@@ -45,9 +45,14 @@ d3.select("#selectButton")
 
 var requestData = async function(country, boolean){
     // Load external data and boot
-    d3.csv("./csv_country_for_graph/"+country+"_graph.csv")
+    Promise.all([
+        d3.csv("./csv_country_for_graph/"+country+"_graph.csv"),
+        d3.csv("./csv_country_for_graph/world_graph.csv")
+    ])
     .then(function(loadData){
-        console.log(country)
+
+        let country = loadData[0]
+        let mean = loadData[1]
         // When reading the csv, I must format variables:
         function date(d){
             return { date : d3.timeParse("%Y")(d.Year), value : d.Temp }
@@ -106,10 +111,34 @@ var requestData = async function(country, boolean){
 
         // Initialize line with group a
         if (boolean){
+
+            svg
+                .append('g')
+                .append("path")
+                .datum(mean)
+                .attr("d", d3.line()
+                    .curve(d3.curveBasis)
+                    .x(function(d) {
+                        if (d.Temp !== ""){
+                            return x(+Number(d.Year))
+                        }
+                        return x(+Number(d.Year))
+                    })
+                    .y(function(d) {
+                        if (d.Temp !== ""){
+                            return y(+d.Temp)
+                        }
+                        return y(+d.Temp)
+                    })
+                )
+                .attr("stroke", "gray")
+                .style("stroke-width", 4)
+                .style("fill", "none")
+
             var line = svg
                 .append('g')
                 .append("path")
-                .datum(loadData)
+                .datum(country)
                 .attr("d", d3.line()
                     .curve(d3.curveBasis)
                     .x(function(d) {
@@ -133,7 +162,7 @@ var requestData = async function(country, boolean){
             svg
                 .append("g")
                 .selectAll("dot")
-                .data(loadData)
+                .data(country)
                 .enter()
                 .append("circle")
                 .attr("class", "myCircle")
@@ -152,13 +181,39 @@ var requestData = async function(country, boolean){
                 .on("mouseover", mouseover)
                 .on("mousemove", mousemove)
                 .on("mouseleave", mouseleave)
+
+
+
         }else{
+
+            svg
+                .append('g')
+                .append("path")
+                .datum(mean)
+                .attr("d", d3.line()
+                    .curve(d3.curveBasis)
+                    .x(function(d) {
+                        if (d.Mean_deviation !== ""){
+                            return x(+Number(d.Year))
+                        }
+                        return x(+Number(d.Year))
+                    })
+                    .y(function(d) {
+                        if (d.Mean_deviation !== ""){
+                            return y(+d.Mean_deviation)
+                        }
+                        return y(+d.Mean_deviation)
+                    })
+                )
+                .attr("stroke", "gray")
+                .style("stroke-width", 4)
+                .style("fill", "none")
+
             var line = svg
                 .append('g')
                 .append("path")
-                .datum(loadData)
+                .datum(country)
                 .attr("d", d3.line()
-                    .curve(d3.curveBasis)
                     .x(function(d) {
                         if (d.Mean_deviation !== ""){
                             return x(+Number(d.Year))
@@ -180,7 +235,7 @@ var requestData = async function(country, boolean){
             svg
                 .append("g")
                 .selectAll("dot")
-                .data(loadData)
+                .data(country)
                 .enter()
                 .append("circle")
                 .attr("class", "myCircle")
@@ -199,10 +254,10 @@ var requestData = async function(country, boolean){
                 .on("mouseover", mouseover)
                 .on("mousemove", mousemove)
                 .on("mouseleave", mouseleave)
+
+
         }
     })
-
-
 }
 
 requestData("Antigua And Barbuda", false);
