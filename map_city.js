@@ -34,7 +34,7 @@ var requestData = async function(year, boolean){
             city_deviation.set(d.name, +d.Mean_deviation)
         })
     ]).then(function(loadData){
-
+        svg.selectAll("g").remove();
         let cities = loadData[1];
         console.log('refresh');
         let topo = loadData[0];

@@ -33,6 +33,8 @@ async function requestData(x, boolean){
             mean_map.set(d.code, +d.Mean_deviation)
         })
     ]).then(function(loadData){
+        svg.selectAll("g").remove();
+
         let topo = loadData[0];
         // Draw the map
         var g = svg.append("g")
