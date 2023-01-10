@@ -130,7 +130,7 @@ var sliderTime = d3
         }else{
             requestData(1900+val.getYear(), false);
         }
-        d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
+        d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(val));
 
     });
 
@@ -156,4 +156,64 @@ var gTime = d3
 
 gTime.call(sliderTime);
 
-d3.select('p#value-time').text(d3.timeFormat('%Y')(sliderTime.value()));
+d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(sliderTime.value()));
+
+
+continuous("#legend1", colorScale);
+
+// create continuous color legend
+function continuous(selector_id, colorscale) {
+    var legendheight = 400,
+        legendwidth = 80,
+        margin = {top: 10, right: 60, bottom: 10, left: 2};
+
+    var canvas = d3.select(selector_id)
+        .style("height", legendheight + "px")
+        .style("width", legendwidth + "px")
+        .style("position", "relative")
+        .append("canvas")
+        .attr("height", legendheight - margin.top - margin.bottom)
+        .attr("width", 1)
+        .style("height", (legendheight - margin.top - margin.bottom) + "px")
+        .style("width", (legendwidth - margin.left - margin.right) + "px")
+        .style("border", "1px solid #000")
+        .style("position", "absolute")
+        .style("top", (margin.top) + "px")
+        .style("left", (margin.left) + "px")
+        .node();
+
+    var ctx = canvas.getContext("2d");
+
+    var legendscale = d3.scaleLinear()
+        .range([1, legendheight - margin.top - margin.bottom])
+        .domain(colorscale.domain());
+
+    var image = ctx.createImageData(1, legendheight);
+    d3.range(legendheight).forEach(function(i) {
+        var c = d3.rgb(colorscale(legendscale.invert(i)));
+        image.data[4*i] = c.r;
+        image.data[4*i + 1] = c.g;
+        image.data[4*i + 2] = c.b;
+        image.data[4*i + 3] = 255;
+    });
+    ctx.putImageData(image, 0, 0);
+
+    var legendaxis = d3.axisRight()
+        .scale(legendscale)
+        .tickSize(6)
+        .ticks(8);
+
+    var svg = d3.select(selector_id)
+        .append("svg")
+        .attr("height", (legendheight) + "px")
+        .attr("width", (legendwidth) + "px")
+        .style("position", "absolute")
+        .style("left", "0px")
+        .style("top", "0px")
+
+    svg
+        .append("g")
+        .attr("class", "axis")
+        .attr("transform", "translate(" + (legendwidth - margin.left - margin.right + 3) + "," + (margin.top) + ")")
+        .call(legendaxis);
+};

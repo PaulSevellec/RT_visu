@@ -124,7 +124,7 @@ var sliderTime = d3
         }else{
             requestData(1900+val.getYear(), false);
         }
-        d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
+        d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(val));
 
     });
 
@@ -150,4 +150,4 @@ var gTime = d3
 
 gTime.call(sliderTime);
 
-d3.select('p#value-time').text(d3.timeFormat('%Y')(sliderTime.value()));
+d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(sliderTime.value()));
