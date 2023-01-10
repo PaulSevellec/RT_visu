@@ -1,5 +1,5 @@
 var margin = {top: 20, right: 10, bottom: 40, left: 100},
-    width = 1080 - margin.left - margin.right,
+    width = 800 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 // The svg
@@ -144,6 +144,7 @@ function change_radio(){
     }else{
         requestData(currentYear, false);
     }
+    continuous("#legend1")
 }
 
 var gTime = d3
@@ -159,10 +160,19 @@ gTime.call(sliderTime);
 d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(sliderTime.value()));
 
 
-continuous("#legend1", colorScale);
+continuous("#legend1");
 
 // create continuous color legend
-function continuous(selector_id, colorscale) {
+function continuous(selector_id) {
+    let colorscale = colorScale;
+    d3.select(selector_id).selectAll("g").remove()
+    let check = d3.select('input[name="mode"]:checked').property("value");
+    if (check === 'Mean'){
+        colorscale = colorScale;
+
+    }else{
+        colorscale = colorScale_deviation;
+    }
     var legendheight = 400,
         legendwidth = 80,
         margin = {top: 10, right: 60, bottom: 10, left: 2};
