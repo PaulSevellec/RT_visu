@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 
 <html lang="en-us">
+<style>
+  body{
+    background-color: #555d50;
+  }
+</style>
 <head>
   <title>RealTime Visualisation</title>
   <meta charset="utf-8"><script src="https://d3js.org/d3.v5.min.js"></script>
@@ -9,27 +14,38 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Impact of climate change on countries temperature </h1>
+  <h1 class="title">Impact of climate change on countries temperature </h1>
   <div>
     <form>
       <input type="radio" id="Mean" name="mode" value="Mean"
              onclick="change_radio()">
-      <label for="Mean">Average by year</label>
+      <label for="Mean" class="text">Average by year</label>
       <input type="radio" id="Deviation" name="mode" value="Deviation" onclick="change_radio()" checked>
-      <label for="Deviation">Standard deviation</label>
+      <label class="text" for="Deviation">Standard deviation</label>
     </form>
 
   </div>
-  <h2 class="col-sm-2"> <p id="value-time"></p></h2>
-  <svg id="map"></svg>
-  <div class='float-left-child' id="legend1"></div>
-  <p>Country : <span id="country"></span></p>
-  <p> Temperature : <span id="hint"></span></p>
 
-  <div class="row align-items-center">
+  <div class="row">
+    <div class="column1" align="center">
+      <h2 class="text"> <p id="value-time"></p></h2>
+      <div id="rectangle">
+      <svg id="map"></svg>
+      </div>
+      <div class="row align-items-center">
+      <div class="col-sm"><div id="slider-time"></div></div>
+      </div>
+    </div>
+    <div class="column2" align="left">
+      <br>
+      <p class="text" style="position: absolute">Country : <span id="country"></span></p>
 
-    <div class="col-sm"><div id="slider-time"></div></div>
+      <p class="text" style="position: absolute; margin-top: 100px"> Temperature : <span id="hint"></span></p>
+      <br><br><br><br><br><br>
+      <div class='float-left-child' id="legend1"></div>
+    </div>
   </div>
+
   <a href="./graph_viz.html">
     <button class="button-4"> See Graphs </button>
   </a>

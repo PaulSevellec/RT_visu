@@ -76,3 +76,40 @@
 .float-left-child {
     float: right
 }
+.title{
+    font-size: 50px;
+    color: lightgray;
+    text-align: center;
+}
+#rectangle{
+    width:1080px;
+    height:600px;
+    background:blue;
+    margin: 20px 10px 40px 10px;
+    z-index: -1;
+    border: 5px solid lightgray;
+}
+.column1 {
+    float: left;
+    width: 80%;
+}
+.column2 {
+    float: right;
+    width: 20%;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#legend1{
+    scale: 1.2;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.text{
+    font-size: 30px;
+    color: lightgray;
+}
