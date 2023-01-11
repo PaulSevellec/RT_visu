@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>RTvisu6</title>
+  <meta name="description" content="project of team ECLAST 2021">
+  <link rel="icon" href="img/world_icon.png" sizes="32x32" type="image/png">
+
+  <!-- custom.css -->
+  <link rel="stylesheet" href="css/custom.css">
+  <!-- bootstrap.min.css -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <!-- AOS -->
+  <link rel="stylesheet" href="css/aos.css">
+</head>
+
+<body>
+<!-- banner -->
+<div class="jumbotron jumbotron-fluid" id="banner" style="background-image: url(img/world_banner.jpg);">
+  <div class="container text-center text-md-left">
+    <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-black font-weight-bold my-5">
+      Real Time Visualisation Project<br>
+      <h2 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="text-black">
+        World Temperature Evolution (1743-2013)
+      </h2>
+    </h1>
+  </div>
+</div>
+
+<!-- intro et plan -->
+<div class="container py-2" style="width: 80%">
+  <p class="text-center font-weight-normal my-5" style="font-size: 1.7em">
+    This project is based on the dataset
+    <a href="https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data" target="_blank"> Climate Change: Earth Surface Temperature Data</a>
+    regrouping a large amount of temperature for each month between 1743 and 2013. It contains the date, the temperature, the uncertainty, the position and the ID of the entry for each month.
+    These records were kept for more than 3000 cities across the globe and more than 200 countries.
+    Our work can be seen on our<a href="https://github.com/PaulSevellec/RT_visu.git" target="_blank"> Github</a> page
+  </p>
+  <h2 class="font-weight-bold">- Pre-processing -</h2>
+  <p class="text-left font-weight-normal my-5" style="font-size: 1.7em">
+    CUDA was used along with Python for preprocessing. Instead of keeping one value per month, the entries were averaged by year.
+    A csv was compiled for each year with the ID of the entry, the average temperature for the year and the deviation with the average temperature of the entry for the whole period.
+    The average temperature allows comparison between countries or cities when the deviation the comparison between year for a same place.
+    This allowed to load only the data for the selected year at runtime and for fast visualization.
+  </p>
+
+
+
+
+
+
+<!-- Application -->
+<div class="jumbotron jumbotron-fluid feature" id="feature-first">
+  <div class="container my-5" style="width: 80%">
+    <div class="row justify-content-between text-center text-md-left" >
+      <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="col-md-6">
+        <h2 class="font-weight-bold">- World Maps -</h2>
+        <h3 class="font-weight-bold"> Representing Countries </h3>
+        <p class="my-4" style="font-size: 1.3em">
+          &nbsp &nbsp The map can be drawn for countries. A choropleth map is used, where for each country present in the dataset you can either see
+          its average temperature over the year or its deviation with its mean. You can select the year that you want to visualize
+          thanks to a slider at the bottom of the page. The map is zoomable to better see small countries.
+          <br><br><br><br><br>
+        </p>
+      </div>
+
+      <div data-aos="fade-left" data-aos-duration="1000" data-aos-once="true" class="col-md-6 align-self-center">
+        <div class=image>
+          <img src="img/map_countries.jpg" alt="Take a look inside" class="mx-auto d-block">
+        </div>
+      </div>
+      <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="col-md-6">
+        <h3 class="font-weight-bold"> Representing Cities </h3>
+        <p class="my-4" style="font-size: 1.3em">
+          &nbsp &nbsp The map for the cities works really similar as the one for the countries,
+          except this time there are a lot more entries and circles drawn
+        </p>
+      </div>
+      <div data-aos="fade-left" data-aos-duration="1000" data-aos-once="true" class="col-md-6 align-self-center">
+        <div class=image>
+          <img src="img/map_cities.jpg" alt="Take a look inside" class="mx-auto d-block" >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- LEFTIST -->
+<div class="jumbotron jumbotron-fluid feature" id="feature-last" >
+  <div class="container" style="width: 80%">
+    <div class="row justify-content-between text-center text-md-left">
+      <div data-aos="fade-left" data-aos-duration="1000" data-aos-once="true" class="col-md-6 flex-md-last">
+        <h2 class="font-weight-bold">- Graphics -</h2>
+        <h3 class="font-weight-bold"> See Local Datas </h3>
+        <p class="my-4" style="font-size: 1.3em">
+          &nbsp &nbsp We have implemented graph visualization to see the temperature evolution.
+          When a country is selected, the graph will be drawn and as for the maps, we can either select to see the raw average temperature
+          or the deviation with the country's global average.
+          The global average is also drawn in red to have some kind of comparison.
+          When hovering over a dot, a little tooltip will appear showing the year of the dot selected, the average temperature and the deviation.
+        </p>
+      </div>
+      <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="col-md-6 align-self-center flex-md-first">
+        <div class=zoom>
+          <div class=image>
+            <img src="img/graph.jpg" alt="Safe and reliable" class="mx-auto d-block">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="row">
+
+    <div class="col-md-8" data-aos="fade-up" data-aos-delay="0" data-aos-duration="1000" data-aos-once="true">
+      <h3 class="text-center font-weight-bold my-5"> - Tools -</h3>
+      <div class="row">
+        <div data-aos="fade-up" data-aos-delay="0" data-aos-duration="1000" data-aos-once="true" class="col-md-6 text-center">
+          <img src="img/cuda_logo.png"  class="mx-auto" height="200">
+          <h4>Cuda</h4>
+          <p style="font-size: 1.3em">Allow to use the GPU for pre-processing, speeding up the process</p>
+        </div>
+
+        <div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="col-md-6 text-center">
+          <img src="img/d3_logo.jpg" class="mx-auto" height="200">
+          <h4>D3.js</h4>
+          <p style="font-size: 1.3em">JavaScript Library facilitating the drawing of the map and files manipulation </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Equipe -->
+<div class="jumbotron jumbotron-fluid" id="contact" style="background-color: #27afd5;">
+  <div class="container my-5">
+    <div class="row justify-content-between">
+      <div class="col-md-6 text-white">
+        <h2 class="font-weight-bold">Students </h2>
+        <div class="row justify-content-between">
+          <div class="col-5">
+            <ul class="list-unstyled" style="font-size: 1.3em">
+              <li>LOIZEAU Gabriel</li>
+              <li>SEVELLEC Paul</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- AOS -->
+<script src="js/aos.js"></script>
+<script>
+  AOS.init({
+  });
+</script>
+</body>
+
+</html>
