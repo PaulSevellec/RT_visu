@@ -1,5 +1,5 @@
 var margin = {top: 20, right: 10, bottom: 40, left: 100},
-    width = 800 - margin.left - margin.right,
+    width = 1080 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 // The svg

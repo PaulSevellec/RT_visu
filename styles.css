@@ -6,6 +6,10 @@
     --border-radius: 55px;
     --font-size: 30px;
 }
+body{
+    background-image: url('html_ressources/background');
+    background-size: cover;
+}
 
 .button-4 {
     appearance: none;
@@ -78,16 +82,15 @@
 }
 .title{
     font-size: 50px;
-    color: lightgray;
+    color: black;
     text-align: center;
 }
 #rectangle{
     width:1080px;
     height:600px;
-    background:blue;
     margin: 20px 10px 40px 10px;
     z-index: -1;
-    border: 5px solid lightgray;
+    border: 5px solid black;
 }
 .column1 {
     float: left;
@@ -105,11 +108,14 @@
 }
 #legend1{
     scale: 1.2;
-    margin-top: 100px;
+    margin-top: 200px;
     margin-right: 100px;
 }
 
 .text{
     font-size: 30px;
-    color: lightgray;
+    color: black;
+}
+.selecttool{
+    width: 250px;
 }

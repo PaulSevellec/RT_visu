@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en-us">
-<style>
-  body{
-    background-color: #555d50;
-  }
-</style>
+
 <head>
   <title>RealTime Visualisation</title>
   <meta charset="utf-8"><script src="https://d3js.org/d3.v5.min.js"></script>
@@ -29,19 +25,17 @@
   <div class="row">
     <div class="column1" align="center">
       <h2 class="text"> <p id="value-time"></p></h2>
-      <div id="rectangle">
+      <div id="rectangle" style="background: darkgrey">
       <svg id="map"></svg>
       </div>
-      <div class="row align-items-center">
-      <div class="col-sm"><div id="slider-time"></div></div>
-      </div>
+      <div id="slider-time"></div>
     </div>
     <div class="column2" align="left">
       <br>
       <p class="text" style="position: absolute">Country : <span id="country"></span></p>
 
       <p class="text" style="position: absolute; margin-top: 100px"> Temperature : <span id="hint"></span></p>
-      <br><br><br><br><br><br>
+
       <div class='float-left-child' id="legend1"></div>
     </div>
   </div>
