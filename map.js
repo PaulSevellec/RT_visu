@@ -65,21 +65,15 @@ async function requestData(x, boolean){
                 d3.select(this).style("stroke", "black");
                 if (boolean){
                     d3.select("#hint")
-                        .append("text")
-                        .attr("id", d.id.replace(/ /,""))
                         .text(data.get(d.id).toFixed(2)+"°C" || "no data");
                 }else{
                     d3.select("#hint")
-                        .append("text")
-                        .attr("id", d.id.replace(/ /,""))
                         .text(mean_map.get(d.id).toFixed(2)+"°C" || "no data");
                 }
 
 
 
                 d3.select("#country")
-                    .append("text")
-                    .attr("id", d.id.replace(/ /,""))
                     .text(d.properties.name);
             })
             .on("mouseout", function(d){

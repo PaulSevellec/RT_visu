@@ -131,7 +131,7 @@ var requestData = async function(country, boolean){
                         return y(+d.Temp)
                     })
                 )
-                .attr("stroke", "gray")
+                .attr("stroke", "red")
                 .style("stroke-width", 4)
                 .style("fill", "none")
 
@@ -205,7 +205,7 @@ var requestData = async function(country, boolean){
                         return y(+d.Mean_deviation)
                     })
                 )
-                .attr("stroke", "gray")
+                .attr("stroke", "red")
                 .style("stroke-width", 4)
                 .style("fill", "none")
 
