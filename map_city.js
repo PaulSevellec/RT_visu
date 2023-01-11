@@ -2,7 +2,7 @@ var margin = {top: 20, right: 10, bottom: 40, left: 100},
     width = 1080 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
-// The svg
+// The svg definition
 var svg = d3.select("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -24,8 +24,9 @@ const colorScale = d3.scaleSequential([30.8,-15.5], d3.interpolateRdYlBu)
 const colorScale_deviation = d3.scaleSequential([4.0,-2.0], d3.interpolateRdYlBu)
 const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
+// Main function to draw the map
 var requestData = async function(year, boolean){
-    // Load external data and boot
+    // Data loading
     Promise.all([
         d3.json("./world_map.geojson"),
         d3.csv("./city_template.csv"),
@@ -38,10 +39,10 @@ var requestData = async function(year, boolean){
         let cities = loadData[1];
         console.log('refresh');
         let topo = loadData[0];
-        // Draw the map
+
         var g = svg.append("g")
 
-        // drawing the map
+        // drawing the countries
         g.selectAll("path")
             .data(topo.features)
             .join("path")
@@ -49,11 +50,11 @@ var requestData = async function(year, boolean){
             .attr("d", d3.geoPath()
                 .projection(projection)
             )
-            // set the color of each country
             .attr("fill", 'grey')
             .attr("stroke", 'black')
             .attr("opacity", 0.3)
 
+        // Place a circle for each city in the data with appropriate color
         function draw_circle(element){
 
             latlong = projection([element.Longitude,element.Latitude])
@@ -73,6 +74,7 @@ var requestData = async function(year, boolean){
                     }
 
                     if (temp == -100) {
+                        // In case a city has no value for this time period
                         color = colorScale_noData(temp);
                     }
                     return color
@@ -91,6 +93,8 @@ var requestData = async function(year, boolean){
                 })
         }
         cities.forEach(draw_circle);
+
+        // Zooming and paning enabled
         var zoom = d3.zoom()
             .scaleExtent([1, 8])
             .on('zoom', function() {
@@ -103,15 +107,18 @@ var requestData = async function(year, boolean){
     })
 }
 
+// Base call at the launch of the html
 requestData(2013);
 
-// Time
+
+// Time range
 var dataTime = d3.range(0, 272).map(function(d) {
     return new Date(1743 + d, 1, 1);
 });
 
 
 var currentYear = 2013;
+// Slider definiton
 var sliderTime = d3
     .sliderBottom()
     .min(d3.min(dataTime))
@@ -125,6 +132,7 @@ var sliderTime = d3
         const buttons =d3.selectAll('input');
         let check = d3.select('input[name="mode"]:checked').property("value");
         currentYear = 1900+val.getYear();
+        // Check if we want the range average or the standard deviation
         if (check === 'Mean'){
             requestData(1900+val.getYear(), true);
         }else{
@@ -134,6 +142,7 @@ var sliderTime = d3
 
     });
 
+// Function call when the radio button is clicked
 function change_radio(){
     svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');
@@ -144,6 +153,7 @@ function change_radio(){
     }else{
         requestData(currentYear, false);
     }
+    // The legend has to be changed when select button clicked
     continuous("#legend1")
 }
 
@@ -155,24 +165,32 @@ var gTime = d3
     .append('g')
     .attr('transform', 'translate(30,30)');
 
+// Display the slider on the html
 gTime.call(sliderTime);
 
+// Default year to display when loading the map
 d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(sliderTime.value()));
 
-
+// Default call for the legend
 continuous("#legend1");
 
 // create continuous color legend
 function continuous(selector_id) {
+    // Default color scale
     let colorscale = colorScale;
+    // Don't forget to remove the old legend
     d3.select(selector_id).selectAll("g").remove()
+
     let check = d3.select('input[name="mode"]:checked').property("value");
+
+    // color scale selection
     if (check === 'Mean'){
         colorscale = colorScale;
 
     }else{
         colorscale = colorScale_deviation;
     }
+
     var legendheight = 400,
         legendwidth = 80,
         margin = {top: 10, right: 60, bottom: 10, left: 2};
