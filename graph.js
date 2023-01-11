@@ -11,7 +11,7 @@ var svg = d3.select("#graph")
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
-// List of groups (here I have one group per column)
+// List of coutnries
 var allCountries = ["Antigua And Barbuda" ,"Algeria" ,"Azerbaijan" ,"Albania" ,"Armenia" ,"Angola" ,"American Samoa" ,"Argentina" ,"Australia" ,"Bahrain" ,"Barbados" ,"Bermuda" ,"Bahamas" ,"Bangladesh" ,"Belize" ,"Bosnia And Herzegovina" ,"Bolivia" ,"Burma" ,"Benin" ,"Solomon Islands" ,"Brazil" ,"Bulgaria" ,"Brunei Darussalam" ,"Canada" ,"Cambodia" ,"Sri Lanka" ,"Congo" ,"Congo (Democratic Republic Of The)" ,"Burundi" ,"China" ,"Afghanistan" ,"Bhutan" ,"Chile" ,"Cayman Islands" ,"Cameroon" ,"Chad" ,"Comoros" ,"Colombia" ,"Costa Rica" ,"Central African Republic" ,"Cuba" ,"Cape Verde" ,"Cook Islands" ,"Cyprus" ,"Denmark (Europe)" ,"Djibouti" ,"Dominica" ,"Dominican Republic" ,"Ecuador" ,"Egypt" ,"Ireland" ,"Equatorial Guinea" ,"Estonia" ,"Eritrea" ,"El Salvador" ,"Ethiopia" ,"Austria" ,"Czech Republic" ,"French Guiana" ,"Finland" ,"Fiji" ,"Falkland Islands (Islas Malvinas)"  ,"French Polynesia" ,"France" ,"Gambia" ,"Gabon" ,"Georgia" ,"Ghana" ,"Grenada" ,"Greenland" ,"Germany" ,"Guam" ,"Greece" ,"Guatemala" ,"Guinea" ,"Guyana" ,"Haiti" ,"Honduras" ,"Croatia" ,"Hungary" ,"Iceland" ,"India" ,"Iran" ,"Israel" ,"Italy" ,"Côte D'Ivoire" ,"Iraq" ,"Japan" ,"Jamaica" ,"Jordan" ,"Kenya" ,"Kyrgyzstan" ,"North Korea" ,"Kiribati" ,"South Korea" ,"Kuwait" ,"Kazakhstan" ,"Laos" ,"Lebanon" ,"Latvia" ,"Belarus" ,"Lithuania" ,"Liberia" ,"Slovakia" ,"Liechtenstein" ,"Libya" ,"Madagascar" ,"Martinique" ,"Mongolia" ,"Montserrat" ,"Macedonia" ,"Mali" ,"Morocco" ,"Mauritius" ,"Mauritania" ,"Malta" ,"Oman" ,"Maldives" ,"Mexico" ,"Malaysia" ,"Mozambique" ,"Malawi" ,"New Caledonia" ,"Niue" ,"Niger" ,"Aruba" ,"Anguilla" ,"Belgium" ,"Hong Kong" ,"Northern Mariana Islands" ,"Faroe Islands" ,"Andorra" ,"Gibraltar" ,"Isle Of Man" ,"Luxembourg" ,"Macau" ,"Monaco" ,"Palestina" ,"Montenegro" ,"Mayotte" ,"Åland" ,"Norfolk Island" ,"Cocos (Keeling) Islands" ,"Antarctica" ,"Bouvet Island" ,"French Southern And Antarctic Lands" ,"Heard Island And Mcdonald Islands" ,"British Indian Ocean Territory" ,"Christmas Island" ,"United States Minor Outlying Islands" ,"Vanuatu" ,"Nigeria" ,"Netherlands" ,"Norway" ,"Nepal" ,"Nauru" ,"Suriname" ,"Nicaragua" ,"New Zealand" ,"Paraguay" ,"Peru" ,"Pakistan" ,"Poland" ,"Panama" ,"Portugal" ,"Papua New Guinea" ,"Guinea Bissau" ,"Qatar" ,"Reunion" ,"Romania" ,"Moldova" ,"Philippines" ,"Puerto Rico" ,"Russia" ,"Rwanda" ,"Saudi Arabia" ,"Saint Kitts And Nevis" ,"Seychelles" ,"South Africa" ,"Lesotho" ,"Botswana" ,"Senegal" ,"Slovenia" ,"Sierra Leone" ,"Singapore" ,"Somalia" ,"Spain" ,"Saint Lucia" ,"Sudan" ,"Sweden" ,"Syria" ,"Switzerland" ,"Trinidad And Tobago" ,"Thailand" ,"Tajikistan" ,"Tokelau" ,"Tonga" ,"Togo" ,"Sao Tome And Principe" ,"Tunisia" ,"Turkey" ,"Tuvalu" ,"Turkmenistan" ,"Tanzania" ,"Uganda" ,"United Kingdom" ,"Ukraine" ,"United States" ,"Burkina Faso" ,"Uruguay" ,"Uzbekistan" ,"Saint Vincent And The Grenadines" ,"Venezuela" ,"British Virgin Islands" ,"Vietnam" ,"Virgin Islands" ,"Namibia" ,"Samoa" ,"Swaziland" ,"Yemen" ,"Zambia" ,"Zimbabwe" ,"Indonesia" ,"Guadeloupe" ,"Sint Maarten" ,"United Arab Emirates" ,"Timor Leste" ,"Pitcairn Islands" ,"Palau" ,"Marshall Islands" ,"Saint Pierre and Miquelon" ,"Saint Helena" ,"San Marino" ,"Turks And Caicas Islands" ,"Western Sahara" ,"Serbia" ,"Holy See (Vatican City)" ,"Svalbard And Jan Mayen" ,"Saint Martin" ,"Saint Barthélemy" ,"Guernsey" ,"Jersey" ,"South Georgia And The South Sandwich Isla" ,"Taiwan"]
 
 // add the options to the button
@@ -24,8 +24,10 @@ d3.select("#selectButton")
         return d; }) // text showed in the menu
     .attr("value", function (d) { return d; })
 
+// Default country
 var currentCountry = "Antigua And Barbuda";
 
+// Called when button is changed
 d3.select("#selectButton")
     .on("change", function(d) {
         svg.selectAll("g").remove();
@@ -43,8 +45,9 @@ d3.select("#selectButton")
 
     })
 
+// Main function to draw the graph
 var requestData = async function(country, boolean){
-    // Load external data and boot
+    // Data loading
     Promise.all([
         d3.csv("./csv_country_for_graph/"+country+"_graph.csv"),
         d3.csv("./csv_country_for_graph/world_graph.csv")
@@ -57,7 +60,7 @@ var requestData = async function(country, boolean){
         function date(d){
             return { date : d3.timeParse("%Y")(d.Year), value : d.Temp }
         }
-
+        // create x axis
         var x = d3.scaleLinear()
             .domain([1743, 2013])
             .range([ 0, width ]);
@@ -65,6 +68,7 @@ var requestData = async function(country, boolean){
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x));
 
+        // create y axis
         var y;
         if (boolean){
             // Add Y axis
@@ -109,9 +113,9 @@ var requestData = async function(country, boolean){
                 .style("opacity", 0)
         }
 
-        // Initialize line with group a
+        // Initialize the graph with average line, country line and the dots
         if (boolean){
-
+            // Avg line
             svg
                 .append('g')
                 .append("path")
@@ -131,10 +135,10 @@ var requestData = async function(country, boolean){
                         return y(+d.Temp)
                     })
                 )
-                .attr("stroke", "gray")
+                .attr("stroke", "red")
                 .style("stroke-width", 4)
                 .style("fill", "none")
-
+            // country line
             var line = svg
                 .append('g')
                 .append("path")
@@ -158,7 +162,7 @@ var requestData = async function(country, boolean){
                 .style("stroke-width", 4)
                 .style("fill", "none")
 
-            // Add the points
+            // country dots
             svg
                 .append("g")
                 .selectAll("dot")
@@ -205,7 +209,7 @@ var requestData = async function(country, boolean){
                         return y(+d.Mean_deviation)
                     })
                 )
-                .attr("stroke", "gray")
+                .attr("stroke", "red")
                 .style("stroke-width", 4)
                 .style("fill", "none")
 
@@ -260,8 +264,10 @@ var requestData = async function(country, boolean){
     })
 }
 
+// Default call
 requestData("Antigua And Barbuda", false);
 
+// Function when avg/deviation button is called
 function change_radio(){
     svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');

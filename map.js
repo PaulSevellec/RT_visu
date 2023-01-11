@@ -24,8 +24,9 @@ const colorScale = d3.scaleSequential([30.8,-15.5], d3.interpolateRdYlBu)
 const colorScale_deviation = d3.scaleSequential([4.0,-2.0], d3.interpolateRdYlBu)
 const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 
+// Main function to draw the map
 async function requestData(x, boolean){
-    // Load external data and boot
+    // Data loading
     Promise.all([
         d3.json("./world_map.geojson"),
         d3.csv("./csv_countries_by_year/"+x+"_country.csv", function(d) {
@@ -57,29 +58,22 @@ async function requestData(x, boolean){
                 }
 
                 if (d.total == -100) {
+                    // Default color when no data
                     color = colorScale_noData(d.total);
                 }
                 return color
             })
             .on("mouseover", function(d){
+                // Change text displayed when hovering over the country
                 d3.select(this).style("stroke", "black");
                 if (boolean){
                     d3.select("#hint")
-                        .append("text")
-                        .attr("id", d.id.replace(/ /,""))
                         .text(data.get(d.id).toFixed(2)+"°C" || "no data");
                 }else{
                     d3.select("#hint")
-                        .append("text")
-                        .attr("id", d.id.replace(/ /,""))
                         .text(mean_map.get(d.id).toFixed(2)+"°C" || "no data");
                 }
-
-
-
                 d3.select("#country")
-                    .append("text")
-                    .attr("id", d.id.replace(/ /,""))
                     .text(d.properties.name);
             })
             .on("mouseout", function(d){
@@ -88,6 +82,7 @@ async function requestData(x, boolean){
                 d3.select("#" + d.id.replace(/ /, "")).remove();
             })
 
+        // Zooming and paning
         var zoom = d3.zoom()
             .scaleExtent([1, 8])
             .on('zoom', function() {
@@ -98,6 +93,7 @@ async function requestData(x, boolean){
     })
 }
 
+// Default call
 requestData(2013, false);
 
 // Time
@@ -106,6 +102,7 @@ var dataTime = d3.range(0, 272).map(function(d) {
 });
 
 var currentYear = 2013;
+//SLider def
 var sliderTime = d3
     .sliderBottom()
     .min(d3.min(dataTime))
@@ -128,6 +125,7 @@ var sliderTime = d3
 
     });
 
+// Select button clicked
 function change_radio(){
     svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');
@@ -138,6 +136,7 @@ function change_radio(){
     }else{
         requestData(currentYear, false);
     }
+    // Legend update needed
     continuous("#legend1")
 }
 
@@ -149,6 +148,7 @@ var gTime = d3
     .append('g')
     .attr('transform', 'translate(30,30)');
 
+// draw the slider
 gTime.call(sliderTime);
 
 d3.select('p#value-time').text("Year : "+d3.timeFormat('%Y')(sliderTime.value()));
