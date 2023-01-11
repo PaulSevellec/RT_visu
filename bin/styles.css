@@ -7,7 +7,7 @@
     --font-size: 30px;
 }
 body{
-    background-image: url('html_ressources/background');
+    background-image: url('../html_ressources/background');
     background-size: cover;
 }
 

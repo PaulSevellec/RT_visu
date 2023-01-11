@@ -28,16 +28,15 @@ const colorScale_noData = d3.scaleSequential([0,-200], d3.interpolateGreys)
 var requestData = async function(year, boolean){
     // Data loading
     Promise.all([
-        d3.json("./world_map.geojson"),
-        d3.csv("./city_template.csv"),
-        d3.csv("./csv_cities_by_year/"+year+"_city.csv", function (d) {
+        d3.json("../world_map.geojson"),
+        d3.csv("../city_template.csv"),
+        d3.csv("../csv_cities_by_year/"+year+"_city.csv", function (d) {
             city_mean.set(d.name, +d.Temp);
             city_deviation.set(d.name, +d.Mean_deviation)
         })
     ]).then(function(loadData){
         svg.selectAll("g").remove();
         let cities = loadData[1];
-        console.log('refresh');
         let topo = loadData[0];
 
         var g = svg.append("g")
@@ -147,7 +146,6 @@ function change_radio(){
     svg.selectAll("g").remove();
     const buttons =d3.selectAll('input');
     let check = d3.select('input[name="mode"]:checked').property("value");
-    console.log(currentYear);
     if (check === 'Mean'){
         requestData(currentYear, true);
     }else{

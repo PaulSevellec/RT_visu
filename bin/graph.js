@@ -49,8 +49,8 @@ d3.select("#selectButton")
 var requestData = async function(country, boolean){
     // Data loading
     Promise.all([
-        d3.csv("./csv_country_for_graph/"+country+"_graph.csv"),
-        d3.csv("./csv_country_for_graph/world_graph.csv")
+        d3.csv("../csv_country_for_graph/"+country+"_graph.csv"),
+        d3.csv("../csv_country_for_graph/world_graph.csv")
     ])
     .then(function(loadData){
 
